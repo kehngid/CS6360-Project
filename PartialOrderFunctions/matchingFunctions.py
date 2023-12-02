@@ -15,7 +15,9 @@ Y column data
 '''
 
 import numpy as np
+from classes.visualization import Visualization
 
+# MATCHING FUNCTIONS
 # Py(Y): calculates the probability of a elem of Y occuring in Y
 # Input: column 
 # Output: Dictionary of values and probabilities
@@ -33,7 +35,7 @@ def Py(Y):
 # pieChartMatch: 
 
 def pieChartMatch(X, Y, transY = None):
-    if transY == 'AVG':
+    if transY == 'avg':
         return 0
     if len(set(X)) == 1:    # Number of distinct values is 1
         return 0        
@@ -60,7 +62,6 @@ def barChartMatch(X, Y):
     elif len(set(X)):
         return (20/len(set(X)))
     
-
 # Need to implement different types of correlation in the future
 def scatterChartMatch(X,Y):
     return np.corrcoeff(X,Y)
@@ -104,3 +105,28 @@ def Trend(X, Y, threshold):
     # If data doesnt have a trend
     return False
 
+# QUALITY FUNCTIONS 
+def quality(X, Y):
+    return 0
+
+def getFunctionValues(viz):
+    # Getting matching quality value
+    if viz.visualiztion == 'bar':
+        mv = barChartMatch(viz.X, viz.Y)
+    elif viz.visualiztion == 'pie':
+        mv = pieChartMatch(viz.X, viz.Y, viz.y_transform)
+    elif viz.visalization == 'line':
+        mv = lineChartMatch(viz.X, viz.Y)
+    elif viz.visualization == 'scatter':
+        mv = scatterChartMatch(viz.X, viz.Y)
+    else:
+        mv = 0
+
+    # Geting transformation quality value
+
+    
+
+def calcWeight(v: Visualization, u: Visualization):
+    mv, qv, wv = getFunctionValues(v)
+    mu, qu, wu = getFunctionValues(u)
+    

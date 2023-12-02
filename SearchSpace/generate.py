@@ -4,8 +4,8 @@ To get list of possible graphs/visualization node use generateSearchSpace(datase
 """
 import pandas as pd
 
-from SearchSpace.column import Column
-from SearchSpace.visualization import Visualization
+from classes.column import Column
+from classes.visualization import Visualization
 
 # Copied from features.py, come up with better to way to identify datetime
 def get_column_type(column):
@@ -64,28 +64,30 @@ def transformationRules(visual):
         elif Y.type != 'Numerical':
             cntVisual = Visualization(X, Y, 'group', 'cnt')
             return [cntVisual]
-    elif X.type == 'Numerical':
-        if Y.type == 'Numerical':
-            avgVisual = Visualization(X, Y, 'bin', 'avg')
-            sumVisual = Visualization(X, Y, 'bin', 'sum')
-            cntVisual = Visualization(X, Y, 'bin', 'cnt')
-            return [avgVisual, sumVisual, cntVisual]
-        elif Y.type != 'Numerical':
-            cntVisual = Visualization(X, Y, 'bin', 'cnt')
-            return [cntVisual]
+        ''' Move in one, should be in line with if X.type == Catagorical
+        elif X.type == 'Numerical':
+            if Y.type == 'Numerical':
+                avgVisual = Visualization(X, Y, 'bin', 'avg')
+                sumVisual = Visualization(X, Y, 'bin', 'sum')
+                cntVisual = Visualization(X, Y, 'bin', 'cnt')
+                return [avgVisual, sumVisual, cntVisual]
+            elif Y.type != 'Numerical':
+                cntVisual = Visualization(X, Y, 'bin', 'cnt')
+                return [cntVisual]
+        '''
     elif X.type == 'Temporal':
         if Y.type == 'Numerical':
             groupAvgVisual = Visualization(X, Y, 'group', 'avg')
             groupSumVisual = Visualization(X, Y, 'group', 'sum')
             groupCntVisual = Visualization(X, Y, 'group', 'cnt')
-            binAvgVisual = Visualization(X, Y, 'bin', 'avg')
-            binSumVisual = Visualization(X, Y, 'bin', 'sum')
-            binCntVisual = Visualization(X, Y, 'bin', 'cnt')
-            return [groupAvgVisual, groupSumVisual, groupCntVisual, binAvgVisual, binSumVisual, binCntVisual]
+            #binAvgVisual = Visualization(X, Y, 'bin', 'avg')
+            #binSumVisual = Visualization(X, Y, 'bin', 'sum')
+            #binCntVisual = Visualization(X, Y, 'bin', 'cnt')
+            return [groupAvgVisual, groupSumVisual, groupCntVisual] #, binAvgVisual, binSumVisual, binCntVisual]
         elif Y.type != 'Numerical':
             groupCntVisual = Visualization(X, Y, 'group', 'cnt')
-            binCntVisual = Visualization(X, Y, 'bin', 'cnt')
-            return [groupCntVisual, binCntVisual]
+            #binCntVisual = Visualization(X, Y, 'bin', 'cnt')
+            return [groupCntVisual] #, binCntVisual]
     else:
         return []
 
@@ -155,7 +157,7 @@ def generateVisualizations(colList):
 
     # DEBUGGING (Showing all of the possible pairs)
     #print("Inital Node List:")
-    print("Inital Node list length: ", len(nodeList))
+    #print("Inital Node list length: ", len(nodeList))
     '''
     for i in nodeList:
         print(i)
@@ -169,7 +171,7 @@ def generateVisualizations(colList):
     nodeList.extend(transformList)
     #DEBUGGING
     #print('\nTranformation list:')
-    print('Number of new nodes: ', len(transformList))
+    #print('Number of new nodes: ', len(transformList))
     '''
     for i in transformList:
         print(i)
@@ -186,7 +188,7 @@ def generateVisualizations(colList):
     finalNodeList = []
     for node in nodeList:
         finalNodeList.extend(visualizationRules(node))
-    print('Number of total nodes with graphs: ', len(finalNodeList))
+    #print('Number of total nodes with graphs: ', len(finalNodeList))
     
     return finalNodeList
 
