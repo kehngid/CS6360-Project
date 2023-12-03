@@ -15,7 +15,7 @@ def makeLessThanLists(nodeList):
                 current.less.append(other)
             elif current.visualization.weight < other.visualization.weight:
                 other.less.append(current)  
-        print( current.visualization, " less than list: ", current.less)   
+        #print( current.visualization, " less than list: ", current.less)   
 
 def getScore(node: Node):   
     sum = 0
@@ -35,6 +35,7 @@ def makeGraph(visualList):
     makeLessThanLists(nodeList)
     for i in nodeList:
         getScore(i)
+    return nodeList
     
     '''
     # Debugging
@@ -44,5 +45,11 @@ def makeGraph(visualList):
     for i in nodeList:
         print(i)
     '''
+
+def orderGraph(nodeList):
+    sortedList = sorted(nodeList, key=lambda node: node.score, reverse=True)
+    return sortedList
+    
+    
 
     

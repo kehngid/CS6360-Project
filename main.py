@@ -11,7 +11,7 @@ if learning_to_rank:
     print('Running with learn to rank')
 elif partial_order:
     print('Running with partial order')
-    filename = './data/testing.csv'
+    filename = 'data/testing.csv'
     runPartialOrder(filename)
 # NOT IMPLEMENTED
 elif hybrid:

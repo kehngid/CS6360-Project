@@ -1,5 +1,5 @@
-from visualization import Visualization
-import PartialOrderFunctions.matchingFunctions as mf
+from classes.visualization import Visualization
+import Functions.matchingFunctions as mf
 
 class Node():
     def __init__(self, visualiztion: Visualization):
