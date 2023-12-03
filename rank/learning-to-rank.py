@@ -18,8 +18,9 @@ X_train, X_validation, Y_train, Y_validation = train_test_split(
 )
 
 # query id
-queryid_train = X_train.groupby("query_id")["query_id"].count().to_numpy()
-queryid_validation = X_validation.groupby("query_id")["query_id"].count().to_numpy()
+queryid_train = np.bincount(X_train["query_id"])[1:]
+queryid_validation = np.bincount(X_validation["query_id"])[1:]
+
 
 # Create an LGBMRanker model
 model = lgb.LGBMRanker(
@@ -43,25 +44,29 @@ model.fit(
 
 # NDCG calculation function
 def ndcg(labels, predictions):
-    pred_scores = model.predict(X_validation)
-    
+    # Use predicted scores directly from the 'predictions' argument
+    pre_scores = np.asarray(predictions)
     labels = np.asarray(labels)
-    predictions = np.asarray(predictions)
     
-    # Sort the predictions based on LambdaMART scores
-    sorted_indices = np.argsort(pred_scores)[::-1]
-    
-    # Retrieve the corresponding labels and calculate DCG
-    sorted_labels = labels[sorted_indices]
+    # Check if the length is greater than 1 to avoid division by zero
+    if len(labels) <= 1:
+        return 0.0
+
+    # Sort the predictions
+    sorted = np.argsort(pre_scores)[::-1]
+
+    # calculate DCG
+    sorted_labels = labels[sorted]
     dcg = np.sum((2 ** sorted_labels - 1) / np.log2(np.arange(2, len(labels) + 2)))
-    
-    # Sort the labels
+
+    # calculate IDCG
     ideal_labels = np.sort(labels)[::-1]
-    ideal_dcg = np.sum((2 ** ideal_labels - 1) / np.log2(np.arange(2, len(labels) + 2)))
-    
-    # Calculate NDCG by normalizing DCG by the ideal DCG
-    ndcg = dcg / ideal_dcg if ideal_dcg != 0 else 0
-    
+    idcg = np.sum((2 ** ideal_labels - 1) / np.log2(np.arange(2, len(labels) + 2)))
+
+    # Calculate NDCG
+    # NDCG = DCG / IDCG
+    ndcg = dcg / idcg if idcg != 0 else 0.0
+
     return ndcg
 
 
