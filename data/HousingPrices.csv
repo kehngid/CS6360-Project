@@ -1,0 +1,3361 @@
+Price,Place,Beds,Bath,Sq.Ft
+979999,Glenbrook,4,3.5,1813
+439900,Mahogany,2,2,1029
+950000,Auburn Bay,4,2.5,2545
+280000,Beltline,2,2,898
+649000,Spruce Cliff,2,2,1482
+434900,Abbeydale,6,2,1059
+419900,Temple,3,2.5,1218
+499900,Southwood,4,2,1133
+269900,Sunnyside,2,1,756
+627900,Royal Oak,2,2.5,1303
+910000,Evanston,4,3.5,2500
+939750,Royal Oak,4,3.5,1747
+399900,New Brighton,3,2.5,1125
+425000,Willow Park,3,2.5,1353
+999000,Evergreen,4,3.5,1835
+649000,Evanston,5,3.5,1748
+600000,Crescent Heights,2,2,783
+339900,Spruce Cliff,2,2,1086
+310000,Rocky Ridge,2,2,836
+629900,Livingston,4,3.5,1519
+739888,Belmont,4,2.5,1796
+499900,Monterey Park,3,3,1066
+269000,South CA,1,1,707
+519900,Penbrooke Meadows,5,2.5,1193
+212000,Mission,1,1,563
+799999,Silverado,4,3.5,2321
+299900,Falconridge,3,1.5,1001
+495000,Mckenzie Towne,3,1.5,1122
+309900,Skyview Ranch,2,2,835
+1097000,Aspen Woods,3,2.5,2524
+999900,Maple Ridge,5,4.5,1557
+849000,Bankview,5,2,1086
+595000,Mahogany,4,3.5,1382
+639900,Mahogany,6,5,1762
+270000,Dover,2,1,758
+828345,Hillhurst,2,2,1094
+575000,Coventry Hills,4,2.5,1306
+825000,Altadore,4,2,1282
+169900,Forest Lawn,2,1,751
+624800,Mayland Heights,4,2,998
+579000,Taradale,4,2.5,1238
+525000,Mount Pleasant,3,1,982
+1325000,Garrison Green,4,3.5,2636
+849000,Winston Heights/Mountview,4,2,1096
+429900,Erin Woods,3,2,905
+199900,Forest Glen Gardens,3,1.5,996
+384900,Shawnessy West,3,1.5,1027
+4899000,Aspen Woods,6,6.5,5048
+229900,Renfrew,2,1,817
+364900,Redstone,2,2.5,1016
+449900,Mayland Heights,4,3,1020
+1149900,Richmond,5,3.5,1871
+3100000,Bowness,6,4.5,4231
+374900,Skyview Ranch,2,2.5,1278
+539000,Discovery Ridge,2,2,1379
+724900,Cliff Bungalow,2,2.5,1446
+898898,West Hillhurst,3,2,1007
+299900,Copperfield,2,2,803
+469000,Chinatown,1,1,700
+883900,Christie Park,3,2.5,1384
+539000,Beddington Heights,5,3,1791
+539800,Spruce Cliff,2,2,1148
+939900,Edgemont,6,4,2638
+649900,Livingston,4,3,1759
+269000,Vista Heights,3,1,1011
+369800,Millgreen Village,3,1.5,1052
+319900,Sage Hill,2,1,764
+363900,Arbour Lake,2,2,985
+1239900,Springbank Hill,3,3.5,2604
+699900,Walden,3,2.5,1948
+239900,Storybook Village,2,1,446
+729900,Walden,3,2.5,2105
+279900,Beltline,1,1,445
+649900,Oakridge,3,2.5,2426
+578000,Downtown West End,2,2,823
+424900,Redstone,3,2.5,1161
+570000,Silverado,3,2.5,1687
+969900,Hounsfield Heights/Briar Hill,4,3,1601
+319000,Skyview Ranch,2,2,850
+699000,Somerset,4,3.5,1785
+578875,Montgomery,4,2,810
+335000,Thorncliffe,2,2,948
+839900,Sherwood,4,3.5,2215
+1389000,West Hillhurst,4,3.5,1952
+809000,Bowness,4,3.5,1786
+575000,Mount Pleasant,2,1,920
+615000,Hotchkiss,3,2.5,1846
+320000,Beltline,2,2,832
+699900,Lakeview,4,1.5,1273
+499999,Brentwood,2,2,753
+423000,West Springs,2,2.5,1184
+859900,Evergreen,2,2,1367
+300000,Canyon Creek Heights,3,1,1017
+569900,Saddle Ridge,3,2,1034
+330000,Beltline,1,1,549
+1015000,Capitol Hill,4,3.5,1767
+599000,Hidden Valley,2,3.5,1294
+649900,Homestead,6,3.5,1992
+1289000,North Glenmore Park,5,3.5,2357
+1284000,North Glenmore Park,5,3,2343
+875000,Saddle Ridge,4,4,2651
+589000,Cityscape,3,2.5,1480
+749900,Woodlands,4,3.5,2332
+849990,Evanston,4,2.5,2556
+1049000,Oakridge,4,2.5,2734
+215000,Country Hills Village,1,1,570
+419900,Copperfield,3,2.5,1229
+709900,Yorkville,3,2.5,1913
+1322800,Mahogany,4,3.5,2901
+449900,Chesapeake,2,2,1249
+725000,Chaparral,4,3.5,1946
+399900,Walden,2,2.5,1229
+729900,Bridgeland/Riverside,2,2,1227
+999000,Rosscarrock,4,3.5,2255
+525000,Lake Bonavista,2,2,1211
+375000,Forest Lawn,2,2,750
+239900,Sunnyside,1,1,426
+710000,Cougar Ridge,4,3.5,1803
+525000,New Brighton,4,3.5,1890
+819900,Lake Bonavista,4,3,1288
+719000,Kincora,3,2.5,2134
+659000,Walden,3,2.5,2010
+580900,,1,1.5,964
+799000,Beltline,2,2,1319
+2498000,Britannia,4,5,4226
+429900,Mosaic Cranston,2,2,1134
+369900,Beltline,2,2,1010
+894900,Parkland,4,3.5,1837
+499000,Chaparral,4,2.5,1425
+1249900,Richmond,4,3.5,2080
+799000,Renfrew,4,3,1358
+699000,Renfrew,4,2,1059
+599900,Somerset,4,2.5,1815
+782000,Cougar Ridge,3,2.5,2129
+885000,Glendale,4,2,1289
+215000,Haysboro,1,1,700
+2050000,Mission,2,2,2347
+579900,Highwood,5,2,926
+798000,Meadowlark Park,3,4,1188
+840000,Woodlands,5,3.5,2352
+675000,Brentwood,4,1.5,1257
+599000,Martindale,5,3,1003
+319900,Beltline,1,1,534
+839900,Willow Park,1,1.5,2132
+949999,Rocky Ridge,3,2.5,1465
+179900,Forest Lawn,2,1,815
+170000,Highland Park,2,1,709
+699000,Ranchlands,5,4,1774
+670000,Garrison Woods,2,2.5,1552
+220000,Killarney/Glengarry,2,1,747
+324900,Skyview Ranch,2,2,882
+550000,Acadia,3,1.5,1068
+520000,Montgomery,1,1,749
+359000,Mission,2,2,1208
+899900,Edgemont,2,2.5,1565
+299900,Walden,2,1,602
+599900,Saddle Ridge,4,2.5,1416
+890000,Christie Park,5,3.5,2117
+1049900,Springbank Hill,4,3.5,2463
+1885000,West Springs,5,4.5,2589
+820000,Walden,5,3.5,2235
+584900,Monterey Park,5,3,2047
+699000,Brentwood,4,3,1485
+1215000,Cougar Ridge,4,3.5,2657
+1480000,West Springs,5,3.5,2911
+1349000,Cranston,5,4.5,2758
+334900,Riverside Gate,3,1.5,1008
+684900,Coach Hill,3,2.5,1751
+294888,Seton,2,1,588
+629900,Lakeview,4,2,1086
+398000,Mosaic Of Elgin Hill,3,1.5,1165
+309000,Bridgeland/Riverside,2,2,830
+435000,Walden,2,2,1161
+277000,Legacy,2,1,621
+630000,Braeside,4,2.5,1303
+499000,Copperfield,3,2.5,1292
+659900,Strathcona Park,3,3.5,1663
+199999,Skyview Ranch,1,1,569
+525000,Forest Heights,4,2,1064
+589000,Coventry Hills,3,3.5,1417
+569000,Crescent Heights,4,2.5,1056
+549900,South CA,2,2,630
+949900,Saddle Ridge,6,3.5,2376
+750000,Altadore,4,2,864
+418000,Copperfield Chalet,2,2.5,1576
+664950,Tuxedo Park,4,3.5,1930
+649900,Arbour Lake,4,3.5,1536
+599900,West Springs,2,2.5,1001
+925000,Altadore,4,3.5,1837
+699000,Tuxedo Park,2,1,1017
+549000,Taradale,4,3.5,1398
+464990,Rundle,3,2,950
+629900,Douglasdale/Glen,3,2.5,2119
+500000,Legacy,3,2.5,1506
+689900,Saddle Ridge,4,2.5,1668
+682500,Downtown East Village,2,2,1073
+999900,Killarney/Glengarry,4,3.5,1933
+514900,Copperfield,4,3,1167
+1295000,Christie Park,5,3,1666
+425000,West Springs,2,2,945
+649900,Evanston,4,2.5,1947
+539900,Landmark Estates,2,2.5,1686
+255000,Sunnyside,1,1,424
+349000,Falconridge,3,1.5,1022
+1799000,Silverado,3,2.5,3488
+499900,Glamorgan,4,2,2210
+329000,Skyview Ranch,2,2,848
+199000,Windsor Park,1,1,615
+695000,Auburn Bay,3,2.5,2128
+249000,Sunalta,2,1,807
+799000,Rosscarrock,3,3.5,1612
+1199000,Altadore,4,3.5,2006
+649900,Erlton,2,3.5,1309
+649900,Bridlewood,4,2.5,2158
+550000,Woodbine,4,2,1141
+269900,Patterson,2,2,819
+425000,Zen In Aspen,2,2.5,1044
+445000,Cornerstone,4,2.5,1483
+849900,Evanston,4,3.5,2478
+699800,Lakeview,2,2,1136
+819000,Scenic Acres,3,3.5,1974
+245900,Royal Oak,1,1,606
+425000,Evanston Square,3,2.5,1136
+849900,Westgate,4,3,1360
+289900,Bridlewood,2,1,755
+524500,Lakeview Green 3,2,2.5,1655
+475000,Seton,3,2.5,1121
+479900,Bridgeland/Riverside,2,1,873
+799900,Silverado,3,2.5,2543
+220000,Marlborough Park,2,2,888
+699000,Mckenzie Lake,4,2.5,1799
+688000,Tuscany,3,2.5,1809
+249900,Canyon Creek Heights,2,1,830
+450000,Tuxedo Park,3,2,833
+744000,Rosedale,3,2,981
+289900,Queensland,2,2,893
+395000,Mahogany,2,2,938
+675000,Tuscany,4,3,1185
+219000,Cliff Bungalow,1,1,503
+500000,Erin Woods,4,2,914
+419000,Rundle,4,2,868
+525000,Point Mckay,3,2.5,1419
+549900,Monterey Park,4,3.5,1371
+729900,Skyview Ranch,3,3.5,2105
+499900,Nolan Hill,3,2.5,1551
+374900,South CA,2,1.5,1076
+550000,Wolf Willow,3,2.5,1313
+400000,Oakmoor Village,3,2.5,1235
+399900,Beltline,2,2,845
+350000,Whitehorn,3,2,1013
+299900,Century Manor,3,1.5,980
+725000,Somerset,4,2.5,1811
+307000,Panorama Hills,2,2,940
+640000,Queensland,5,3,1214
+835000,West Hillhurst,4,2,845
+1399900,Altadore,3,3.5,1880
+749900,Windsor Park,7,3.5,1546
+209900,Renfrew,2,1,729
+249900,Bankview,2,1,773
+589900,Midnapore,4,3,1110
+439000,Crescent Heights,2,1.5,1493
+799900,Springbank Hill,2,2.5,1444
+318800,Signal Hill Green,3,1.5,1048
+299990,Abbeydale,3,1.5,1062
+769000,Scenic Acres,5,3.5,2424
+299800,Legacy,2,2,951
+299900,Saddle Ridge,2,1,574
+899900,Oakridge,4,2.5,1769
+585000,Cornerstone,3,2.5,1376
+1595000,Aspen Woods,4,3.5,2875
+384900,Lower Mount Royal,2,2,1133
+610000,Medicine Hill,3,2.5,1595
+499999,Collingwood,4,2,792
+210000,Sherwood,1,1,694
+859900,Arbour Lake,4,2.5,2325
+809900,Valley Ridge,4,3.5,2254
+729900,Montgomery,3,2.5,1780
+399900,Beddington Heights,3,2.5,1333
+999900,Parkland,4,3,1314
+319900,Bridgeland/Riverside,2,2,879
+479000,Sage Hill,3,2.5,1169
+325000,Pineridge,3,2.5,1150
+829000,Panorama Hills,5,3.5,2120
+1049900,Ramsay,3,2,1010
+636100,Charleswood,3,2,1249
+1150000,Eau Claire,2,2,1724
+1250000,Edgemont,6,4,3078
+639900,Highwood,3,2,1382
+599800,Renfrew,3,2,710
+949900,Ramsay,4,2,1075
+200000,Varsity,1,1,547
+558000,Saddle Ridge,6,2.5,1048
+949900,Ramsay,2,1,946
+429900,Royal Oak,2,2.5,1328
+415000,Douglas Glen Gardens,3,2.5,1314
+325000,Skyview Ranch,2,2,943
+645000,Varsity,4,1.5,1258
+275000,Somerset,2,1,843
+548000,Huntington Hills,3,2,1152
+824900,Cougar Ridge,5,3.5,2098
+1299600,Inglewood,6,4,2093
+475000,Seton,2,2.5,1389
+298800,Sherwood,2,2,831
+318000,Brentwood,1,1,562
+575000,Bankview,2,3,1081
+1190000,Rocky Ridge,4,3.5,2646
+560000,Saddle Ridge,3,2.5,1501
+899900,Banff Trail,4,2,1296
+549999,Macewan Glen,4,2,887
+385000,Whitehorn,3,1.5,903
+745000,Shawnee Slopes,5,3.5,2730
+775000,Chaparral,4,3.5,2127
+300000,Highland Park,2,2,1043
+325000,Saddle Ridge,2,2,933
+1150777,Crestmont,4,4.5,2870
+359900,Walden,2,2,786
+359900,Redstone,2,2.5,1127
+2000000,South CA,3,2.5,1934
+2075000,Lake Bonavista,5,2.5,3305
+439900,Evergreen,2,2,1060
+1999900,Hounsfield Heights/Briar Hill,4,4.5,2908
+459900,Hillhurst,2,2,733
+299900,Brae Glen West,4,2.5,1512
+349000,Pineridge,3,1.5,1005
+675000,Strathcona Park,4,3,1145
+364832,Midnapore,2,2,890
+339900,Beltline,1,1,775
+1675000,Douglasdale/Glen,5,4.5,3651
+210000,Chinook Park,2,1,853
+510000,Panorama Hills,3,2.5,1158
+1698000,Eagle Ridge,2,2,2046
+750000,Spruce Cliff,5,2,1145
+995000,Rutland Park,6,2,1336
+329900,Saddle Ridge,2,2,971
+949900,Tuscany,4,3.5,2246
+769000,West Hillhurst,3,2.5,1711
+285000,Evergreen,2,1,845
+299900,Skyview Ranch,2,2,800
+539000,Currie Barracks Axess,3,2.5,1197
+599900,Tuscany,4,2,1003
+629900,New Brighton,3,3.5,1873
+350000,Bridgeland/Riverside,2,2,877
+365000,Mosaic Montage,2,2,1163
+688000,Panorama Hills,4,3.5,1138
+1899900,West Hillhurst,4,4.5,2330
+357500,Mahogany,2,2,910
+624900,Auburn Bay,3,2.5,1556
+719000,Capitol Hill,4,3.5,1628
+849988,Belvedere,5,4,2482
+579000,Currie Barracks,2,2,1162
+399999,Beddington Heights,2,1.5,1165
+449000,Coventry Hills,3,2,859
+165000,Beltline,1,1,763
+849900,Lake Bonavista,4,3,1446
+750000,Tuscany,4,3.5,1831
+214900,Haysboro,1,1,509
+255000,Haysboro,1,1,704
+389000,Renfrew,4,2.5,1394
+754000,Dalhousie,4,2.5,1366
+224900,Southwood,2,1,802
+389000,Classics,2,2,1407
+224800,Manchester,1,1,687
+370000,Everstone Place,2,2,941
+329900,Saddle Ridge,2,2,923
+798000,Cedarbrae,4,2.5,1306
+419900,Deer Ridge,3,1,839
+334900,Parkhill,2,2,690
+495000,Valley Ridge,2,2,1468
+465000,Harvest Hills,3,3,1006
+265000,Bridlewood,2,1,842
+809000,Carrington,3,2.5,2220
+449900,Beltline,2,2,1028
+285000,Legacy,2,2,625
+949900,West Hillhurst,2,2.5,2053
+335000,Renfrew,2,1,780
+614999,Whitehorn,5,2.5,974
+435000,Lower Mount Royal,2,2,1172
+429900,Mosaic Of Aspen Hills,2,1.5,920
+500000,Hillhurst,3,1.5,966
+650000,Cranston,3,2.5,1775
+409000,Beltline,2,2,1011
+874900,Richmond,4,3.5,1780
+279900,Lower Mount Royal,2,1,766
+289900,Copperfield,2,2,773
+489000,Goodwin By Anthem,3,2.5,1157
+550000,Bridlewood,3,2.5,1433
+274900,Saddle Ridge,2,1,691
+185000,Bankview,2,1,968
+263000,Downtown East Village,2,1,430
+224900,Redstone,1,1,528
+294900,Lower Mount Royal,1,1,620
+475900,Parkhill,3,2,879
+1050000,Scarboro,4,3,1656
+469900,Martindale,3,2.5,1315
+689900,Cranston,4,3.5,2160
+1185000,Parkhill,4,4,2466
+735000,Cranston,5,5.5,2301
+609900,Glacier Ridge,3,2.5,1452
+697000,Silver Springs,4,4,2163
+479900,Canyon Meadows,3,1.5,1377
+1029000,Altadore,4,3.5,1777
+200000,Dalhousie,1,1,631
+360000,Cranston,3,2,1076
+499900,Beltline,3,2.5,1572
+232000,Mayland Heights,2,2,818
+1290000,West Hillhurst,8,4,2505
+445000,Garrison Woods,2,2,1094
+735000,Acadia,4,3,1054
+1595000,Capitol Hill,4,5.5,3010
+359800,Dalton Mews,3,2,910
+200000,Dalhousie,1,1,618
+469900,Sage Hill,2,2.5,1321
+900000,Mahogany,2,2,1053
+759900,Saddle Ridge,3,2.5,2051
+650000,Bowness,2,2,951
+218888,Hillhurst,1,1,635
+235532,Dalhousie,2,1,856
+889000,Legacy,4,2.5,2442
+899900,Sherwood,5,3.5,2570
+829900,Homestead,4,3,2195
+315000,Varsity,1,1,780
+290000,Sunnyside,2,1,819
+699900,Taradale,4,3.5,1806
+650000,Thorncliffe,5,2.5,1363
+1680000,Winston Heights/Mountview,3,3.5,2463
+253000,Dalhousie,2,1.5,896
+679900,Highwood,5,2,961
+534900,Temple,3,1.5,1244
+420000,Windsor Park,2,2.5,1330
+345000,Beltline,1,1,852
+449900,Silver Springs,3,2,928
+639000,Evanston,3,2.5,1827
+354900,Seton,2,2,829
+789900,Taradale,6,3.5,2355
+899800,Saddle Ridge,4,4,2808
+245000,Manchester,2,2,831
+355000,Beltline,2,1,905
+1250000,Banff Trail,5,3.5,2340
+1150000,Killarney/Glengarry,4,3.5,1917
+599900,Marlborough Park,5,2.5,1036
+334900,Arbour Lake,2,2,863
+329888,Silverado,2,2,756
+250000,South CA,1,1,447
+725000,Scenic Acres,4,2.5,1978
+868600,Renfrew,4,3.5,1807
+1995000,Wildwood,5,4.5,3114
+300000,Lookout At Christie Park,1,1,900
+549900,Ambleton,3,2.5,1450
+1249800,Currie Barracks,4,3.5,2365
+269900,Dover,2,2,977
+414900,Beltline,2,2,1039
+999999,Hamptons,6,3.5,2456
+319900,Copperfield,2,2,768
+339900,Sunalta,2,2,868
+349900,Pineridge,3,2,763
+1020000,Arbour Lake,5,4,2336
+639999,Canyon Meadows,4,2.5,1363
+699900,Acadia,3,3.5,1127
+599900,Whitehorn,5,2.5,1207
+190000,Windsor Park,1,1,615
+499900,Rangeview,3,2.5,1249
+1099000,Hillhurst,5,3,962
+399900,Panorama Hills,3,2.5,1140
+429900,Dover,3,2,1000
+849800,Valley Ridge,3,2.5,2114
+1025000,Rosscarrock,4,3.5,2017
+309900,Mckenzie Towne,2,2,923
+675000,Luna,2,2.5,1606
+435000,Copperfield,3,2.5,1244
+1388000,Bankview,3,2.5,3269
+1179990,Hawkwood,4,3,1941
+925000,Mahogany,5,3.5,2344
+635500,Sunnyside,2,2,1005
+399900,Arbour Lake,3,2.5,1157
+529900,Southwood,4,2.5,1091
+519900,Currie Barracks,1,1,948
+259900,Highland Park,2,2,1022
+824900,Mount Pleasant,4,3.5,1757
+415000,Pinnacle At Mount Douglas,2,1.5,1205
+739900,Glamorgan,4,2,1048
+425000,Falconridge,3,1.5,1018
+624900,Evanston,3,2.5,1474
+244900,Legacy,2,1,569
+236888,Taradale,2,2,877
+749900,Hamptons,5,3.5,1871
+365000,Seton,2,2,766
+599000,Tuscany,3,2.5,1148
+219900,Canyon Meadows,2,2,820
+629900,Rangeview,4,3.5,1510
+830000,Redstone,6,4,2479
+289900,Copperfield,2,2,776
+475000,Deer Run,3,2,960
+399800,Skywood Estates,2,2,1101
+374000,Fresco Gardens - Taradale,2,2,994
+724900,Oakridge,4,2.5,1352
+539000,Southview,5,2,1083
+599000,Beddington Heights,3,2.5,1713
+999900,Aspen Woods,5,3.5,2487
+539900,Huntington Hills,4,2,1023
+344900,Temple,3,2,885
+635000,Temple,5,3,1245
+299000,Panorama Hills,2,2,844
+789999,Nolan Hill,4,3.5,2069
+399900,Abbeydale,2,2,902
+545000,Bankview,2,1.5,1005
+389900,Brentwood,2,2,638
+620000,Deer Run,4,2.5,2324
+525000,Applewood Park,4,3,1246
+1100000,Altadore,4,3.5,2025
+1095000,Eau Claire,2,2.5,1921
+825000,Edgemont,4,3.5,2249
+457500,Dover,3,2,969
+299000,Seton,1,1,582
+459000,Penbrooke Meadows,5,1,1022
+339990,Albert Park/Radisson Heights,3,2,845
+685000,Sage Hill,5,3.5,1356
+669900,Sage Hill,5,3.5,1357
+299900,Beltline,1,1,658
+223000,Canyon Meadows,2,2,824
+485000,Taradale,3,1,802
+649900,Walden,3,2.5,1402
+374900,Parkland,2,2,1036
+849900,Willow Park,4,3,1232
+569900,Auburn Bay,4,3.5,1475
+709900,Walden,3,2.5,1025
+949900,Altadore,4,3.5,1959
+400000,Dover,5,2,1100
+527875,Mahogany,3,2.5,1426
+799800,Haskayne,4,3.5,1529
+699888,Acadia,4,3,1044
+440000,Auburn Bay,2,2.5,1290
+392900,Woodbine,3,1.5,1038
+575000,Belvedere,3,2.5,1428
+289000,Beltline,1,1,650
+339900,Downtown East Village,2,2,766
+399900,Citadel,3,2.5,1100
+244900,Kincora,2,1,540
+669000,Saddle Ridge,3,2.5,1955
+700000,Hillhurst,2,2,1482
+500000,Ranchlands,4,2.5,1106
+289900,Beltline,2,1,935
+925000,Sherwood,5,3.5,2368
+820000,Killarney/Glengarry,4,3.5,1737
+225000,Beltline,2,1,765
+625000,Westgate,4,1.5,1174
+615000,Willow Park,5,2,1149
+649888,Bankview,4,2.5,1487
+790000,Montgomery,5,3.5,1770
+814900,Belvedere,3,3,2373
+565000,Silverado,4,2.5,1509
+485000,Erin Woods,4,1.5,1093
+550000,Coventry Hills,3,2.5,1550
+649900,Arbour Lake,6,3,1448
+375000,Beltline,2,2,910
+320000,Kelvin Grove,2,2,996
+1349000,Parkhill,3,3.5,2046
+425000,Downtown Commercial Core,2,2,759
+389900,Spruce Cliff,2,2,992
+1450000,Cambrian Heights,3,2,2439
+409900,Country Hills,3,1.5,1240
+545000,Silverado,4,3.5,1323
+645000,Montgomery,3,1.5,681
+529500,Seton,4,3.5,1245
+864999,Royal Oak,4,3.5,2380
+877695,Hillhurst,3,2.5,1201
+990000,Sherwood,6,4,2931
+935000,Collingwood,3,2,1230
+515000,Coventry Hills,3,3.5,1311
+1399900,Canyon Meadows,5,3.5,2629
+489900,Marlborough,4,2,973
+375000,West Hillhurst,2,1.5,531
+1499900,Strathcona Park,3,3.5,3220
+839000,Pine Creek,4,3.5,2102
+365000,Seton,2,2,843
+430000,Shawnee Slopes,2,2,985
+358000,Belmont,2,2,874
+369000,Seton,2,2,891
+524900,Inglewood Grove,3,2.5,1186
+1499900,Scarboro,5,3,2470
+624900,Bankview,2,2,1623
+718500,Christie Park,2,2.5,1218
+749900,Hamptons,3,2.5,1558
+699900,Eau Claire,2,2,1566
+459900,Patterson,2,3.5,1423
+675000,Coventry Hills,4,3.5,1752
+2224900,North Glenmore Park,6,3.5,3071
+309900,Beltline,1,1,641
+440000,Copperfield,2,2.5,1261
+2350000,Eau Claire,2,2.5,2882
+475000,Walden,3,2.5,1524
+679000,Castleridge,4,3.5,2191
+320000,Shawnessy,2,2,926
+220000,Beltline,1,1,627
+298800,Mckenzie Towne,2,2,851
+675500,Riverbend,3,2.5,1809
+775000,Cranston,4,3.5,2239
+1149900,Springbank Hill,3,2.5,2544
+760000,West Springs,4,3.5,1890
+949900,Nolan Hill,4,3.5,2530
+1750000,Willow Park,5,3.5,2618
+249900,Bridlewood,2,1,846
+579000,Mount Pleasant,4,4,1012
+949900,Rosscarrock,4,4.5,1882
+299800,Skyview Ranch,2,2,841
+749900,Mckenzie Towne,4,3.5,2120
+299900,Montgomery,1,1,788
+873000,Bankview,3,3.5,2884
+329000,Skyview Ranch,2,2,867
+499900,Somerset,4,2,979
+480000,Cedarbrae,3,2,1138
+649000,Montgomery,3,2.5,1167
+309990,Copperfield,2,2,738
+449000,Erlton,2,2,1077
+699800,Beltline,2,2,901
+749900,Copperfield,5,3.5,2432
+329000,Millrise,2,2,870
+349900,Seton,2,2,849
+650000,Coach Hill,3,2,1222
+1163900,Rocky Ridge,3,3,2619
+334900,Coventry Station,2,2,723
+235000,Thorncliffe,2,1,791
+1325000,Renfrew,6,4.5,2814
+359900,Chinatown,1,1,500
+259999,Taradale,2,1,570
+314800,Springbank Hill,2,2,838
+350000,Bridgeland/Riverside,2,2,843
+875000,South CA,3,3.5,1686
+835000,Carrington,3,2.5,2327
+250000,Beltline,2,1,838
+850000,Strathcona Park,5,2.5,1313
+249900,Dalhousie,2,1,785
+649900,Riverbend,3,2.5,1647
+539900,Bowness,3,1,933
+269900,Vista Heights,3,1,1012
+749900,Eau Claire,1,2,1127
+935000,Yorkville,4,3.5,2337
+488884,Ogden,4,2,949
+540000,Midnapore,4,2,1078
+464900,Martindale,3,2,1078
+1648888,Renfrew,3,2.5,2113
+295000,Beltline,2,1,752
+849900,,3,2.5,2467
+350000,Shaganappi,2,2,814
+185000,Millrise,1,1,631
+799900,Bowness,4,3.5,2020
+369000,Beltline,2,2,849
+1800000,Springbank Hill,3,3.5,2885
+295000,Panorama Hills,2,2,976
+389900,Ranchlands,3,1.5,1165
+143900,Bowness,1,1,504
+599000,Highland Park,3,3.5,1265
+948000,Killarney/Glengarry,4,3.5,1741
+739900,Walden,4,3,2220
+499000,Cornerstone,4,2.5,1397
+249900,Lake Bonavista,2,1,755
+649000,Haysboro,5,2,1051
+1995000,Glamorgan,4,3.5,2640
+585000,Scenic Acres,4,3,1227
+739900,Taradale,4,3.5,1952
+289900,Seton,1,1,543
+549900,Cornerstone,3,2.5,1398
+1249900,Inglewood,6,5.5,2182
+775000,Hawkwood,5,3.5,2103
+625000,Hotchkiss,3,2.5,1780
+339000,Lincoln Park,2,2,991
+580000,Ramsay,3,2,682
+469900,Sunnyside,1,1,497
+499000,Eau Claire,2,2,1600
+614900,Springbank Hill,3,2.5,1353
+819800,Legacy,5,2.5,2592
+529900,Auburn Bay,2,2.5,1541
+1299000,Mahogany,6,3.5,2852
+1499000,Parkdale,4,4.5,2504
+550000,Taradale,4,2,1034
+400000,Lower Mount Royal,2,2,1133
+1375000,Lake Bonavista,4,3.5,2425
+695000,Royal Oak,4,2.5,2057
+239900,Saddle Ridge,2,1,707
+255000,Garrison Green,1,1.5,724
+1725000,Springbank Hill,6,5.5,4318
+365000,Lower Mount Royal,2,2,898
+269000,Edgemont,2,2,880
+1299000,Richmond,3,3.5,2596
+399900,Evergreen,2,2.5,1109
+249000,Sunalta,1,1,591
+185000,Dalhousie,1,1,624
+700000,Legacy,3,2.5,1910
+549900,Gladstone Gardens,2,3,1201
+1149000,Chateau On The Green,3,2.5,2063
+234900,Skyview Ranch,1,1,580
+899000,Highland Park,2,2,885
+549900,Coventry Hills,3,2,1232
+455000,Downtown East Village,2,2,691
+429900,Evanston Square,3,2.5,1292
+1327200,Mahogany,5,3.5,3076
+442000,Scarboro Park,2,1.5,1392
+330000,Dalton Square,2,1,1032
+535000,Cranston,3,2.5,1106
+839990,Yorkville,4,2.5,2610
+898800,Edgemont,5,3.5,2310
+658856,Legacy,3,2.5,1610
+665000,Monterey Park,6,3.5,2139
+825000,Cornerstone,4,3,2270
+2295000,Canyon Meadows,3,3.5,2316
+699900,Thorncliffe,4,2,1046
+855000,Cougar Ridge,5,3.5,2754
+759000,Wolf Willow,3,2.5,2072
+600000,Coventry Hills,3,2.5,1879
+1899000,Eau Claire,2,2.5,2705
+309900,Legacy,2,2,765
+979900,Richmond,4,3.5,2155
+249649,Windsor Park,2,1,1080
+335000,Beltline,1,1,652
+214900,Red Carpet,2,2,850
+399000,Beltline,2,2,947
+185000,Crescent Heights,1,1,489
+889900,Patterson,2,2,2555
+499000,Coach Hill,2,2,1546
+1200000,Bridgeland/Riverside,8,4,1988
+875000,Renfrew,4,3.5,1450
+839000,Montgomery,4,3.5,1931
+539900,Taradale,4,2.5,1172
+549000,Forest Lawn,5,2,1112
+499000,Mckenzie Towne,3,2.5,1593
+1365420,Hillhurst,3,3,1342
+749900,Pine Creek,3,2.5,2028
+749900,Mahogany,5,3.5,1757
+575000,Beddington Heights,5,2,970
+356000,Beltline,1,1,521
+189900,Millrise,1,1,629
+2199900,Silverado,3,4.5,3076
+269000,Richmond,2,1,749
+249900,Dalhousie,2,1,848
+325000,Dover,3,2,891
+609900,Downtown Commercial Core,2,2,1022
+489990,Coventry Hills,3,2.5,1346
+570000,Cornerstone,3,2.5,1454
+700000,Hotchkiss,3,2.5,2294
+559900,Sundance,3,2.5,1557
+859900,Cornerstone,4,3,2423
+419900,Eau Claire,2,2,956
+264999,Legacy,2,1,670
+669900,Saddle Ridge,5,3.5,1509
+399999,Panorama Hills,3,1.5,1176
+549999,Renfrew,2,2.5,1290
+235532,Dalhousie,2,1,865
+239000,Forest Lawn,2,1.5,484
+650000,Rosscarrock,4,3.5,1324
+627900,Legacy,3,2.5,1634
+765000,Kincora,5,3.5,2166
+323988,Sage Hill,2,2,862
+835000,Livingston,5,2.5,2266
+319900,Legacy,2,2,802
+594900,Ambleton,3,2.5,1640
+699900,Redstone,3,2.5,1689
+750000,Carrington,3,2.5,2021
+549900,Beddington Heights,5,2.5,1248
+649900,Panorama Hills,3,2.5,1780
+295000,Sunnyside,2,1,782
+359900,Downtown East Village,1,1,733
+1000000,West Hillhurst,4,2,974
+472000,Evanston,3,2.5,1368
+674900,Hidden Valley,4,3,1155
+879000,Highland Park,4,3.5,1823
+650000,Tuxedo Park,4,2,837
+414900,Walden,2,2.5,1162
+699900,Sage Hill,5,3.5,1354
+870000,Signal Hill,4,3.5,2147
+745000,Killarney/Glengarry,4,3.5,1710
+290000,Thorncliffe,3,1.5,1116
+3599000,Rosedale,3,4.5,2217
+249900,Windsor Park,2,1.5,937
+155000,Chinatown,1,1,590
+229900,Crescent Heights,1,1,493
+479900,University District,2,1,650
+339900,Hawkwood,2,2,929
+2199000,Altadore,6,3.5,2769
+739000,Mahogany,4,3.5,1981
+829000,Brentwood,6,4,1163
+1499000,Winston Heights/Mountview,4,4.5,3110
+500000,Rundle,4,1,2100
+1599000,Springbank Hill,4,3.5,2184
+450000,Inglewood,1,1.5,928
+395000,Beltline,2,2,820
+569900,Hounsfield Heights/Briar Hill,2,2,1214
+445000,Ogden,3,2,513
+849900,Renfrew,5,3.5,1804
+950000,Midnapore,4,2.5,2410
+749900,Chaparral,4,3.5,1794
+1100000,Valley Ridge,4,3.5,2454
+1420000,Bankview,4,4.5,3306
+849900,Bridgeland/Riverside,3,2,720
+599900,Temple,5,2.5,1083
+335000,Lincoln Park,2,2,904
+548000,Fairview,5,2,980
+997800,Cranston,3,2.5,2540
+684900,Greenwood/Greenbriar,4,3.5,1811
+569900,Auburn Bay,3,2.5,1512
+700000,Coventry Hills,3,2.5,2323
+575000,Sunalta,3,3,1474
+580000,Temple,5,3,1841
+438000,Applewood Park,4,1.5,1122
+539900,Highland Park,4,2,836
+325000,Dover,3,2,905
+388888,Dover,3,1,924
+358900,Bridgeland/Riverside,2,1.5,1039
+625000,Renfrew,3,2,942
+849000,Bankview,3,2,1170
+299900,Glenbrook,2,1,930
+699900,Copperfield,3,2.5,2172
+664000,Dalhousie,4,2.5,1211
+899000,Sherwood,4,3.5,2370
+679900,Auburn Bay,3,3.5,1738
+739000,Capitol Hill,4,3.5,1716
+528000,Belmont,3,2.5,1448
+649000,Dalhousie,5,2,1081
+1200000,Woodbine,5,3.5,2772
+360000,Hawkwood,2,1.5,985
+855000,Bowness,5,3.5,1829
+249900,Glenbrook,3,1,860
+765000,Seton,3,2.5,2297
+209900,Beltline,1,1,566
+1383000,Cranston,5,4.5,3093
+825000,Chinatown,2,2,1080
+524900,Beddington Heights,5,2.5,1138
+664900,North Haven,4,1.5,1228
+550000,Midnapore,4,2,1045
+779500,Westgate,5,2,1050
+875000,Douglasdale/Glen,6,4.5,2936
+299000,Southwood Village,3,1.5,1140
+580000,Temple,4,2.5,1260
+499900,The Block,2,2.5,1088
+999000,Homestead,5,4,2675
+989000,Evergreen,6,3.5,2649
+749900,Sundance,4,3,1355
+659900,Cornerstone,4,3.5,1609
+899900,Chateau On The Green,3,3.5,2060
+1495000,Bankview,4,4.5,1924
+774900,Dalhousie,4,1.5,1685
+608990,Shawnee Slopes,2,2.5,1352
+404900,Erlton,2,2,1080
+525000,Prominence Heights,3,2.5,1764
+664900,South CA,3,3.5,1334
+799900,Cedarbrae,4,3,1119
+495000,Downtown East Village,2,2,867
+549000,Montgomery,3,3.5,1446
+370000,Millrise,2,2.5,1166
+279900,Taradale,2,2,765
+239900,Skyview Ranch,1,1,590
+849900,Mckenzie Lake,5,3.5,2625
+413900,Panamount Place,3,1.5,1041
+620000,Beddington Heights,3,3,1090
+239990,Lake Bonavista,1,1,588
+675000,Douglasdale/Glen,4,3.5,1938
+569000,New Brighton,3,2.5,1587
+639888,Saddle Ridge,4,3.5,1503
+795000,Currie Barracks,2,2.5,1581
+675000,Charleswood,3,2,1042
+258800,Beltline,1,1,665
+519900,Beltline,2,2,934
+595000,Woodlands,3,2.5,1772
+950000,Valley Ridge,4,3.5,2087
+215000,Windsor Park,2,1,862
+1195000,Cranston,5,3.5,2736
+594900,Copperfield,3,2.5,1544
+349900,Haysboro,2,2,976
+1169900,Richmond,4,3.5,1883
+329900,Mckenzie Towne,2,2,965
+449900,Renfrew,3,3.5,1100
+539900,Coventry Hills,3,2,1009
+799999,Cranston,4,3.5,2250
+480000,Macewan Glen,4,1.5,850
+399900,Capitol Hill,1,1,481
+468000,Mckenzie Towne,3,3.5,1271
+544900,Legacy,3,2.5,1396
+519900,Pine Creek,3,2.5,1267
+599999,Marlborough,5,2.5,1161
+732800,West Springs,3,2.5,1206
+369000,Auburn Bay,2,2,864
+674900,Hawkwood,4,3.5,1779
+269900,Renfrew,2,1,758
+489999,Sonoma At Sage Hill,3,2.5,1214
+499900,Bankview,1,2,1050
+247700,Taradale,2,2,881
+348000,Spruce Cliff,2,1.5,849
+549900,Saddle Ridge,3,3.5,1353
+299900,Penbrooke Meadows,3,1.5,443
+830000,Windsor Park,5,3.5,1767
+1095000,Canyon Meadows,4,3.5,1611
+1149900,West Hillhurst,4,3.5,1815
+459900,Cranston Ridge,3,2.5,1269
+199900,Braeside,2,1,832
+329900,Renfrew,1,1,589
+300000,Canyon Creek Heights,2,1,1018
+290000,Skyview Ranch,2,2,837
+374900,Ogden,3,1,923
+1200000,Rocky Ridge,5,3.5,2816
+535000,Legacy,3,2.5,1348
+599900,Evanston,3,2.5,1236
+999900,West Hillhurst,4,3.5,2174
+349900,Abbeydale,3,1.5,1286
+609999,Copperfield,4,3.5,1578
+199900,Copperfield,1,1,585
+329900,Canyon Meadows,3,1.5,1149
+649900,Hawkwood,4,2.5,1848
+2590000,Cranston,4,3.5,3325
+245000,South CA,2,1,742
+425000,New Brighton,3,2.5,1214
+584900,Cornerstone,3,2.5,1465
+650000,Banff Trail,3,2.5,1289
+625000,Harvest Hills,3,3.5,1706
+799900,Tuscany,5,3.5,2429
+239900,Cranston,1,1,583
+599888,Shaganappi Estates,3,2.5,1581
+574900,Crescent Heights,3,2.5,1533
+1775000,Lake Bonavista,5,3.5,2954
+789000,Highland Park,4,3.5,1615
+594900,Dalhousie,4,2.5,1457
+359900,Arbour Lake Landing,4,2.5,1146
+647500,Cornerstone,4,3.5,1562
+279900,Lower Mount Royal,1,1,578
+179000,Sunalta,1,1,495
+649888,Silverado,5,3.5,2011
+725000,Mount Pleasant,4,4,1815
+845000,Evanston,3,3.5,2147
+332750,Beltline,2,2,876
+564900,Skyview Ranch,4,3.5,1470
+445000,Parkhill,3,1.5,794
+550000,Woodbine,4,3.5,1671
+364000,Sage Hill,2,2,845
+795000,Evergreen,3,2.5,2268
+428800,Skyview Ranch,3,2.5,1394
+1129999,Auburn Bay,4,3.5,2871
+315000,Beltline,1,1,586
+329000,Skyview Ranch,2,2,887
+2599900,Winston Heights/Mountview,4,3.5,4469
+499999,Evergreen,3,2.5,1340
+1100000,Hamptons,4,3.5,2545
+474900,Cranston,2,2.5,1288
+549900,Panorama Hills,3,2.5,1239
+235000,Pineridge,2,1.5,535
+1300000,Cambrian Heights,7,4,1741
+419900,Sandstone Valley,3,1.5,1066
+449900,Shawnessy,4,2,1008
+450000,Lake Bonavista,2,2,1019
+524800,Cranston,4,1.5,1117
+728800,Brentwood,3,3,1588
+265000,Lower Mount Royal,1,1,853
+329000,Downtown East Village,2,2,825
+2350000,Springbank Hill,4,4.5,3551
+470000,Dover,5,2,998
+799900,Hawkwood,5,3.5,2144
+579900,Marlborough Park,5,2,1014
+304900,Pensacola Gardens,4,2.5,1096
+599000,Rundle,5,2.5,1086
+224900,Sierra Gardens,2,1,997
+779000,Hounsfield Heights/Briar Hill,3,2,1656
+449900,Martindale,4,3.5,1060
+255000,Dalhousie,2,1,762
+449000,Silver Springs,3,1.5,1110
+459900,Altadore,4,2,647
+290000,Beltline,2,1,801
+675000,Renfrew,4,2,1094
+235900,Evergreen,1,1,433
+1095000,Winston Heights/Mountview,4,3.5,2266
+749000,Panorama Hills,4,3.5,2158
+450000,Erin Woods,3,1.5,1113
+729900,Evergreen,6,3.5,2073
+429900,Wildstone,2,2.5,1113
+949900,Kincora,6,3.5,2623
+279900,South CA,1,1,708
+1360000,Edgemont,5,3.5,3001
+345000,Sherwood,3,2,891
+439999,Whitehorn,6,2,946
+679900,Citadel,3,2.5,1922
+475000,Temple,5,2,1087
+780000,Saddle Ridge,5,4,2124
+468000,Downtown East Village,2,2,922
+669800,Somerset,4,3.5,2023
+749000,Rocky Ridge,3,3,1416
+1198900,Parkland,5,3.5,1600
+649000,Douglasdale/Glen,4,3.5,2078
+550000,Fairview,3,1,1151
+689000,Citadel,5,3,1256
+599000,Tuscany,4,3.5,1443
+245000,Canyon Meadows,2,1,760
+895000,Montgomery,4,3.5,1823
+550000,Deer Run,4,3,1252
+790000,Sundance,4,3,1323
+1700000,Hillhurst,4,3.5,2575
+498000,Capitol Hill,4,2,939
+299900,Downtown East Village,1,1.5,550
+939900,Glacier Ridge,5,4,2865
+274800,Midnapore,2,2,696
+600000,New Brighton,4,2.5,1651
+1000000,Cranston,3,2.5,2178
+179000,Erin Woods,1,1,579
+250000,Panorama Hills,1,1,701
+759900,Saddle Ridge,3,2.5,2078
+374900,Quinterra,2,2,1208
+540000,Point Mckay Phase I,2,1.5,1254
+570000,Mckenzie Towne,4,3,1076
+699000,Coach Hill,5,2.5,2128
+485000,Altadore,2,2,905
+949888,Cougar Ridge,5,3.5,2282
+489500,Sage Hill,3,2.5,1142
+499900,Valley Ridge,2,2,1473
+829900,Copperfield,4,3.5,2210
+749900,Winston Heights/Mountview,4,3.5,1529
+585000,Beltline,2,2.5,1089
+615000,New Brighton,4,3.5,1638
+690000,Glacier Ridge,3,2.5,1600
+260000,Falconridge,2,1,749
+449900,Signal Hill,2,2,1087
+575000,Chaparral,3,2.5,1642
+582000,Legacy,3,2.5,1602
+259900,Signal Hill,2,2,829
+1199900,Altadore,4,3.5,1849
+370000,Castleridge,3,1.5,1204
+499888,Springbank Hill,2,2.5,1262
+509900,Evergreen,3,3,1085
+645000,Mckenzie Towne,3,2.5,1983
+649900,Richmond,4,3.5,1322
+899900,Altadore,4,3.5,1855
+700000,Cougar Ridge,3,3.5,1532
+175000,Windsor Park,1,1,658
+989000,Saddle Ridge,4,4,2925
+529900,Penbrooke Meadows,4,1.5,1162
+879000,Legacy,3,2.5,2023
+779000,Mahogany,4,3.5,2299
+899000,Richmond,2,2.5,1517
+815000,Seton,4,2.5,2326
+799900,Strathcona Park,5,3.5,1578
+724900,Pine Creek,3,2.5,2284
+700000,Cedarbrae,4,2,1062
+749500,Kincora,4,2.5,2141
+469000,Forest Lawn,4,2,960
+300000,Crescent Heights,2,2,939
+799000,Legacy,4,3,2327
+515000,Tuxedo Park,4,3.5,1057
+650000,Evergreen,3,2.5,1782
+500000,Killarney/Glengarry,2,2.5,1381
+420000,Erlton,2,2,1075
+822000,Homestead,3,2.5,2067
+529500,Auburn Bay,2,2.5,1273
+175000,Greenview,2,1,852
+274900,Kincora,2,1,698
+624999,Evanston,3,2.5,1942
+279900,Haysboro,1,1,818
+438800,Mckenzie Towne,2,2.5,1111
+999888,Kingsland,4,3.5,1448
+825000,West Hillhurst,3,3.5,1568
+468900,Winston Heights/Mountview,2,1,811
+418000,Altadore,3,2,646
+430000,College Gate,2,2.5,1300
+449000,Huntington Hills,4,2,990
+1200000,University Heights,5,2.5,3240
+388900,Martindale,3,1.5,1161
+770000,Lakeview,5,4,1325
+749000,Belmont,3,2.5,2308
+219900,Lower Mount Royal,1,1,487
+449500,Ogden,3,2,977
+649000,Douglasdale/Glen,4,2.5,1254
+799000,Capitol Hill,4,3.5,2154
+389500,Spruce Cliff,1,1,910
+199900,Windsor Park,1,1,675
+620000,Mckenzie Towne,4,3.5,1936
+618000,Livingston,3,2.5,1390
+619900,Mahogany,3,2.5,1616
+895000,Discovery Ridge,3,2.5,1423
+725000,West Springs,4,3.5,1841
+999999,Rutland Park,4,3.5,1516
+575000,Queensland,4,2.5,1286
+274500,Mayland Heights,2,2,1020
+525000,Rangeview,3,2.5,1413
+249900,Edgemont,2,2,866
+599900,Cornerstone,5,4,1555
+700000,Rocky Ridge,3,3.5,1807
+574800,The Delano,3,2.5,1708
+475000,Falconridge,4,2,836
+599999,Citadel,3,3,1444
+275000,Seton,1,1,458
+688800,Edgemont,4,2.5,1263
+724900,Copperfield,4,3.5,2348
+2350000,Elbow Park,6,3.5,2654
+2100000,Mount Pleasant,6,4.5,3190
+274900,Forest Heights,2,1,904
+249900,Country Hills Village,1,1,651
+415000,Beltline,2,2,820
+679000,Millrise,4,3.5,2067
+519900,Temple,3,1.5,1020
+460000,Nolan Park,2,2.5,1233
+339900,Downtown East Village,1,1,577
+455400,Sage Hill,2,2,913
+599000,Cornerstone,4,3.5,1190
+825000,Lake Bonavista,3,3,1479
+475000,Spruce Cliff,2,2,1042
+724900,Panorama Hills,4,2.5,2252
+739900,Rutland Park,5,2,1004
+479900,Shawnessy,3,1.5,1078
+169900,Sunalta,1,1,452
+339900,Sunnyside,2,1.5,814
+689000,Kingsland,3,3,1043
+799900,Kingsland,4,3,1083
+329000,Skyview Ranch,2,2,907
+600000,Bonavista Downs,4,2.5,1245
+829900,Sherwood,4,2.5,2580
+485000,Hidden Valley,3,2.5,1254
+669900,Applewood Park,4,3.5,1932
+975000,Evergreen,4,3.5,2608
+1279000,West Hillhurst,4,3.5,2127
+449900,Forest Lawn,3,2,988
+775000,Dalhousie,4,3.5,1838
+314900,Mahogany,2,1,618
+779900,Woodbine,4,2.5,2330
+709000,Renfrew,5,2,1187
+774900,Evergreen,3,2.5,2294
+849000,Bankview,3,2,856
+314900,Beltline,1,1,645
+489000,Taradale,5,2,939
+699000,Renfrew,4,2,1126
+1089888,Collingwood,5,3,1531
+430000,Falconridge,3,1.5,1216
+999000,Cornerstone,5,4,2676
+545000,Auburn Bay,3,2.5,1316
+799000,Seton,3,2.5,2186
+349900,Taradale,3,1.5,1042
+989000,Glacier Ridge,5,4,2866
+329900,Pineridge Square,3,1.5,989
+279900,Dover,2,1,786
+547900,Ranchlands,3,2.5,1528
+249900,Downtown West End,1,1,472
+284000,Mckenzie Towne,2,2,840
+424900,Garrison Woods,2,1.5,1021
+199000,Southwood,2,1.5,816
+199500,Windsor Park,2,1,821
+300000,Mckenzie Towne,2,2,928
+579000,Sundance,4,2.5,1107
+999900,Thorncliffe,3,3,1150
+569900,Sandstone Valley,3,2.5,1578
+1149900,Winston Heights/Mountview,2,2.5,1920
+359900,Legacy,3,2,948
+629000,Queensland,5,3,1339
+1795000,Pump Hill,4,3.5,3517
+265000,Edgemont,2,2,877
+349900,Eau Claire,1,1,665
+399900,Coventry Hills,3,1.5,1188
+799900,Edgemont,3,2.5,1665
+550000,Bowness,2,2,821
+639900,Chaparral,3,2.5,1877
+379900,Spruce Cliff,1,1,925
+479900,Whitehorn,3,1.5,1201
+589000,Shawnessy,3,2.5,1664
+819900,Hillhurst,2,2,1086
+2400000,,6,2,2147
+265000,Seton,1,1,578
+489000,Saddle Ridge,4,2.5,1500
+275000,Spruce Cliff,1,1,669
+224900,Panorama Hills,1,1,570
+799900,Downtown East Village,2,2,1660
+659900,Livingston,3,2.5,1712
+699000,Rocky Ridge,4,3,1538
+710000,Beltline,2,2.5,2122
+874900,Bridgeland/Riverside,3,2,927
+205000,Lincoln Park,1,1,450
+999990,Renfrew,4,3.5,2552
+210000,Mission,1,1,400
+474977,Cranston,3,2.5,1102
+269900,Mission,1,1,664
+460000,Rideau Park,2,1.5,1023
+2099900,Hillhurst,4,4.5,2923
+549900,Highwood,3,2.5,1900
+549900,Bridlewood,3,2,1078
+215000,Haysboro,1,1,701
+455000,,2,1.5,1193
+1179000,Richmond,4,3.5,1907
+494900,Discovery Ridge,2,2,1031
+950000,Woodlands,6,3.5,2709
+889900,Cranston,4,3.5,2261
+455900,Trinity,2,2.5,1202
+439900,Seton,2,2,1089
+450000,The Mosaic,3,1.5,1073
+869900,Seton,4,3,2631
+769000,Seton,3,2.5,2094
+659900,Glacier Ridge,3,2.5,1235
+689800,Edgemont,3,2.5,1869
+295000,Beltline,1,1,680
+899000,Saddle Ridge,6,4,2758
+400000,Dover,4,2,960
+699900,Douglasdale/Glen,2,2,1330
+579900,Chaparral,3,2.5,1691
+290000,Mckenzie Towne,2,2,852
+229900,Hillhurst,1,1,640
+278800,Saddle Ridge,2,1,698
+749900,Seton,3,2.5,2088
+499900,Riverbend,3,2.5,1319
+1250000,Canyon Meadows,5,3.5,3218
+549900,Mckenzie Lake,5,2,1035
+349999,Coventry Station,2,2,729
+425000,Sunnyside,1,1,959
+340000,Renfrew,2,1,790
+899900,Mahogany,5,3.5,2719
+774900,Cityscape,4,3.5,2182
+260000,Varsity,2,1.5,1083
+239900,Skyview Ranch,1,1,589
+930000,Cranston,3,2.5,2188
+319000,Cranston,2,2,850
+240000,Garrison Green,1,1,501
+399900,Beltline,2,2,1302
+369999,Millrise,2,1.5,1025
+315000,Beltline,2,1.5,852
+235000,Somerset,2,1,758
+799900,Parkhill,3,2.5,1751
+478900,Saddle Ridge,4,2.5,1502
+249999,Canyon Meadows,2,1,829
+799500,Mahogany,5,3.5,2397
+899900,Richmond,4,3.5,1741
+755000,Belmont,4,3,2301
+859990,Yorkville,4,2.5,2355
+969900,Cranston,4,2.5,2641
+358900,Currie Barracks,1,1,717
+1150000,Tuscany,4,3.5,3143
+374900,Sandstone Valley,2,1,803
+849000,Macewan Glen,4,2.5,1824
+400000,Copperfield Chalet,2,2.5,1351
+192000,Chinook Park,2,1,852
+835000,Woodbine,4,3.5,2125
+1695000,Upper Mount Royal,3,2,1802
+349000,Beltline,2,1,847
+244900,Glamorgan,2,1.5,1073
+324900,Sherwood,2,2,832
+209900,Windsor Park,2,1,808
+749000,Charleswood,6,2.5,1169
+400000,Crescent Heights,2,2,1855
+315000,Sagestone,2,1,799
+1590000,Scarboro/Sunalta West,4,2.5,2003
+819000,Cornerstone,4,3,2154
+949900,St Andrews Heights,5,2,1156
+503895,Goodwin By Anthem,3,2.5,1133
+919000,Saddle Ridge,6,4.5,2275
+339900,Bridlewood,2,2,1178
+279900,Saddle Ridge,2,1,673
+425000,Coach Bluff Villas,3,2.5,1386
+1100000,Coral Springs,7,5,2750
+499000,Beltline,2,2,905
+672000,,5,3.5,1749
+889000,Hamptons,5,3.5,2222
+419900,Lookout At Christie Park,2,3,2243
+190000,Sierra Gardens,2,1,846
+399900,Somerset Village,3,1.5,1063
+310000,Legacy,2,2,935
+299000,Brentwood,1,1,419
+355555,Sage Hill,2,2,846
+329000,Somerset,2,2,1001
+574900,Marlborough Park,4,2.5,1133
+629900,Richmond,4,3,1453
+1099900,Tuxedo Park,5,3.5,2268
+499000,Saddle Ridge,3,2.5,1415
+585000,Somerset,3,2.5,1518
+735000,Taradale,6,3.5,2241
+469900,Ogden,3,1,1120
+665000,Altadore,3,2.5,1869
+339900,Renfrew,1,1,591
+619900,Saddle Ridge,3,2.5,1520
+1275000,Altadore,4,4.5,2136
+449900,Beltline,2,2,1204
+569000,Cornerstone,3,2.5,1440
+1199000,Killarney/Glengarry,5,3.5,1864
+369900,Bridgeland/Riverside,1,1,570
+259900,Taradale,2,1,671
+944000,Coral Springs,6,3.5,2841
+439900,Copperfield,3,2.5,1380
+479900,Marlborough,5,2.5,1043
+350000,Bankview,4,1.5,984
+369000,Downtown East Village,2,2,700
+780000,Cornerstone,5,3,2370
+409900,The View At The Edge,3,2.5,1394
+479900,Temple,5,3,946
+3200000,Elboya,5,4.5,3686
+299900,Kingsland,1,1,888
+389900,Marlborough,3,1,955
+729900,Alpine Park,3,2.5,1812
+668000,Walden,3,2.5,1840
+1699900,Mount Pleasant,5,3.5,2726
+819900,Rangeview,4,3.5,2126
+929900,Saddle Ridge,5,5,2691
+429800,Dover,3,2,837
+1650000,Mayfair,3,3,2269
+699900,Spruce Cliff,4,2,1343
+525000,Sage Hill,3,3.5,1437
+259900,Beltline,1,1,675
+449000,Beltline,2,2,1218
+680000,Renfrew,3,2,1277
+479000,Forest Lawn,5,2,1130
+2189000,Parkdale,5,4.5,3148
+790000,Homestead,5,4,2339
+622900,Legacy,3,2.5,1617
+1400000,West Hillhurst,4,3.5,2175
+379900,Auburn Bay,2,2,836
+699000,Downtown Commercial Core,1,1.5,1051
+159900,Greenview,1,1,766
+359900,Sage Hill,2,2,902
+1075000,Highwood,5,4.5,1846
+519000,Whitehorn,5,3.5,1499
+759900,Huntington Hills,3,2,1980
+319900,Legacy,2,2,761
+995000,Mission,2,2,1655
+250000,Mckenzie Towne,2,1,863
+799900,Sundance,5,3,1576
+300000,Downtown East Village,1,1.5,587
+770000,Panorama Hills,5,3,1543
+719900,Tuscany,3,2.5,1808
+1699000,Bowness,5,4.5,2796
+699999,Royal Oak,5,3,1286
+234500,Hillhurst,1,1,518
+269900,Spruce Cliff,1,1,607
+199900,Mission,1,1,488
+2800000,Mahogany,5,4.5,4352
+849900,Hamptons,3,2.5,2394
+589900,Yorkville,3,2.5,1639
+800000,Bowness,4,3.5,1823
+625000,Downtown East Village,2,2,1058
+999900,Cranston,4,3.5,2513
+2500000,Aspen Woods,1,1,950
+850000,,4,3,2315
+889000,Hidden Valley,4,3.5,2477
+855000,Springbank Hill,6,3.5,2136
+599999,Evanston,3,3.5,1403
+154900,Kingsland,1,1,651
+179900,Kingsland,1,1,889
+949000,Silver Springs,3,2.5,1266
+350000,Altadore,1,1.5,917
+265000,South CA,1,1,675
+299900,Seton,1,1,541
+984900,Redstone,6,5.5,2844
+289900,Foothills Village,2,1,998
+369000,Abbeydale,3,1.5,1053
+725000,Evergreen,3,2.5,2149
+889000,West Springs,5,3.5,2190
+258000,Bridgeland/Riverside,1,1,482
+1495000,South CA,4,4.5,2289
+329900,North Park,3,1.5,1030
+449000,Penbrooke Meadows,3,1,987
+288999,Taradale,2,2,1002
+271000,Albert Park/Radisson Heights,2,2,764
+1695000,Currie Barracks,5,3.5,3331
+559888,Cornerstone,3,2.5,1364
+349900,Beltline,1,1,778
+274900,Panorama Hills,2,2,802
+779000,West Hillhurst,3,2,888
+730000,Rosscarrock,5,2,863
+750000,Glamorgan,4,3,985
+544900,Sandstone Valley,4,2,1067
+779900,Mckenzie Towne,4,3.5,2141
+749000,Douglasdale/Glen,4,3.5,2713
+2890000,Parkhill,5,3.5,2867
+249900,Tuxedo Park,1,1.5,684
+499999,Mckenzie Towne,2,2.5,1419
+849900,Bankview,5,3,1551
+949000,Eau Claire,2,2,1299
+229000,Rundle,2,1,476
+925000,Aspen Woods,3,3.5,2995
+850000,Mission,3,2,1459
+400000,Inglewood,2,2,762
+1100000,Cranston,3,3,2272
+1399900,Cranston,5,4.5,3082
+548999,Macewan Glen,5,3,1124
+1285000,Rocky Ridge,5,4.5,3090
+550000,Hillhurst,1,1,553
+315000,Sage Hill,2,2,801
+624900,New Brighton,4,2.5,1828
+835000,Mahogany,4,3.5,2427
+4850000,Britannia,4,6.5,5008
+530000,Beddington Heights,4,1.5,923
+678000,Dalhousie,4,2.5,1208
+1199000,Cranston,6,3.5,2754
+819900,Rocky Ridge,5,3.5,2308
+405900,Mahogany,1,1,657
+4495000,Rosedale,5,4.5,4867
+1099900,Killarney/Glengarry,4,3.5,1952
+888000,Hamptons,5,3.5,1928
+234900,Lower Mount Royal,2,1,721
+765000,Greenview,5,2.5,1882
+759899,Acadia,3,3,1024
+1695000,Hillhurst,4,3.5,2283
+214900,Beltline,1,1,560
+265000,Skyview Ranch,2,1,596
+299900,Walden,2,1,611
+639000,Evergreen,4,3.5,1651
+650000,Winston Heights/Mountview,3,2,1159
+329900,Lower Mount Royal,1,1,583
+750000,Hawkwood,4,3,1894
+949900,Bridgeland/Riverside,4,3.5,1705
+520000,Cliff Bungalow,2,2,1202
+329900,Chinatown,1,1,512
+459900,Beltline,2,2,790
+570098,Medicine Hill,3,2.5,1461
+648795,Medicine Hill,3,2.5,1819
+583800,Medicine Hill,3,2.5,1484
+591045,Medicine Hill,3,2.5,1636
+575000,Temple,5,2,1164
+1550000,Inglewood,3,2.5,1657
+649900,Citadel,3,2.5,1883
+634900,Legacy,3,2.5,1568
+699500,Evergreen,4,3.5,2060
+599900,Legacy,3,2.5,1568
+594900,Legacy,3,2.5,1481
+799900,Lake Bonavista,3,3,1511
+919000,Montgomery,4,3.5,1858
+735000,Crestmont,2,2.5,1020
+849900,Hamptons,4,3.5,2348
+1399000,Lake Bonavista,4,4.5,2896
+2950000,Downtown Commercial Core,2,2.5,3085
+1249000,South CA,4,3.5,2434
+669000,Beltline,2,2,1427
+779900,Saddle Ridge,6,4.5,2076
+263000,Edgemont,2,2,902
+568888,Monterey Park,5,2,1009
+799000,Scenic Acres,7,3.5,2601
+279900,Lower Mount Royal,1,1,500
+279000,Bridlewood,2,2,837
+299900,Panorama Hills,2,2,958
+1189000,Hamptons,4,3.5,2699
+1099900,Winston Heights/Mountview,4,3.5,2015
+279900,Varsity,2,1.5,1059
+759900,Renfrew,4,3.5,1734
+279900,Georgian Village,3,1.5,1065
+1399000,Varsity,3,3.5,4078
+898888,Saddle Ridge,7,6,2810
+369999,Granite,3,1.5,951
+479900,Harvest Hills,3,1.5,1134
+619900,Skyview Ranch,3,2.5,1631
+600000,Bridgeland/Riverside,3,2.5,2195
+499900,Martindale,4,2.5,1307
+279900,Seton,1,1,469
+479900,Seton,3,2.5,1191
+658888,Livingston,3,2.5,1705
+795000,Patterson,2,3,1949
+1075000,Highwood,5,4.5,1846
+859000,Sherwood,4,3.5,2559
+479900,Downtown West End,2,2,1211
+339800,Country Hills Village,2,2,847
+879000,Cougar Ridge,3,3.5,2106
+335000,Crescent Heights,1,1,423
+459000,Cranston,2,2,1090
+524900,Altadore,2,2,1176
+249900,Monterey Park,2,2,839
+354000,Sage Hill,2,2,837
+475000,Banff Trail,2,2,1213
+575000,Skyview Ranch,3,2.5,1336
+349900,Lower Mount Royal,1,1,614
+1298000,Winston Heights/Mountview,4,3.5,2451
+395000,Varsity,2,2.5,1571
+850000,Rutland Park,4,3,1089
+1178000,Hamptons,6,3.5,2770
+795000,Strathcona Park,3,2.5,1761
+774300,Edgemont,3,2.5,2374
+549900,Huntington Hills,4,2.5,1045
+749000,Richmond,3,3.5,1741
+489000,Sage Hill,2,2,1101
+719900,Deer Run,4,2.5,1287
+1200000,Hillhurst,3,2.5,1694
+755900,Charleswood,3,2,1352
+749900,Livingston,3,2.5,1898
+600000,Hidden Valley,3,2,1035
+470000,Beltline,2,2,793
+469900,North Haven,2,1,928
+255000,Downtown East Village,1,1,484
+475000,South CA,3,3.5,1071
+318813,Parkdale,1,1,621
+325000,Copperfield,2,2,906
+225000,Skyview Ranch,1,1,603
+599900,Sunnyside,2,2,1032
+215000,Copperfield,1,1,556
+450000,Bankview,2,2.5,1329
+734900,Livingston,3,2.5,1964
+274900,Marlborough Park,2,1,470
+165000,Rosscarrock,1,1,595
+414900,Lake Bonavista,2,2,1067
+899900,Haskayne,3,2.5,2248
+1100000,Christie Park,4,3.5,2771
+1025000,Signal Hill,3,3,1924
+359900,Mission,1,1.5,652
+1350000,Parkdale,4,3.5,1996
+820000,Redstone,5,4,2284
+1150000,Winston Heights/Mountview,4,3.5,2477
+194999,Bankview,1,1,434
+259900,Lower Mount Royal,2,1,732
+530000,Mosaic Of Aspen Hills,2,2.5,1111
+875710,Cranston,3,2.5,2431
+749900,Thorncliffe,3,2,1908
+224900,Cliff Bungalow,1,1,479
+3499000,Elboya,6,6.5,4595
+539900,Cornerstone,3,2.5,1427
+224900,Sunnyside,1,1,458
+1249900,Altadore,4,4.5,2393
+284900,Mission,1,1,603
+245000,Taradale,2,2,877
+1650000,Hamptons,5,3.5,3176
+749000,Arbour Lake,4,3.5,1957
+599900,Taradale,4,2.5,1309
+418000,Woodbine,2,2.5,1230
+597000,Eau Claire,2,2,1601
+619900,Saddle Ridge,4,3,1514
+675000,Kincora,3,2.5,2324
+1449900,Bowness,5,4.5,3223
+725000,Garrison Woods,4,3.5,1424
+355000,Downtown Commercial Core,1,1,563
+515000,Forest Heights,5,2,1044
+633000,Legacy,3,2.5,1652
+1395000,Springbank Hill,4,2.5,2806
+699900,Hawkwood,4,3,1530
+1849900,Springbank Hill,3,4,4167
+2350000,Crescent Heights,3,3.5,3037
+314900,Crescent Heights,2,2,1176
+1495000,Rocky Ridge,4,2.5,2186
+749900,Sundance,4,3.5,2091
+329900,Silverado,2,2,862
+1999000,Winston Heights/Mountview,6,4.5,4011
+2299000,,6,4.5,2034
+400000,Beltline,2,1,838
+375000,Oakmoor Village,3,1.5,1147
+299000,Pineridge,3,1.5,1008
+297500,Downtown East Village,1,1,500
+699900,Cedarbrae,4,3,1090
+750000,Mckenzie Towne,4,3.5,1822
+588000,Coventry Hills,4,2,1445
+999900,Auburn Bay,4,4,2974
+545000,Ogden,4,2,933
+234900,Skyview Ranch,1,1,589
+699900,Woodbine,7,3.5,2550
+639900,Fairview,3,2,1149
+1199300,Banff Trail,4,3.5,2208
+2795000,Rosedale,4,3.5,2727
+209900,Hillhurst,1,1,307
+369900,Cranston,2,1,835
+299000,Beltline,2,1,850
+295000,Bridlewood,2,2,931
+299900,Signal Hill,2,2,990
+295900,Evergreen,1,2,644
+750000,Glamorgan,5,2,980
+635000,Citadel,4,2.5,1997
+919000,Hawkwood,4,4.5,2293
+499900,Evanston,3,2,824
+599900,Bridlewood,4,3,1235
+265000,Haysboro,1,1,705
+584999,Falconridge,5,2,1052
+279900,Chinatown,1,1,488
+230000,Mayland Heights,2,1,851
+689000,Belmont,3,2.5,1880
+299900,Saddle Ridge,2,2,756
+299900,Taradale,2,2,885
+1050000,Hillhurst,3,2,1444
+1199000,Lakeview,4,3.5,1406
+849900,Ranchlands,4,3.5,2118
+600000,Walden,3,2.5,1721
+1349000,Springbank Hill,6,4.5,3150
+864900,Livingston,4,2,2182
+1350000,Aspen Woods,4,3.5,1915
+839900,Mahogany,4,3.5,2295
+719900,Livingston,3,2.5,2039
+850000,Evergreen,4,3.5,2396
+550000,Marlborough,3,2.5,1492
+355000,Downtown East Village,2,2,695
+1365999,Upper Mount Royal,4,2,1451
+240000,Varsity,2,1,812
+649900,Downtown Commercial Core,2,2,1318
+625000,Hidden Valley,3,2.5,1437
+312900,Skyview Ranch,2,1,899
+670000,Silverado,3,2.5,1918
+589000,Killarney/Glengarry,3,2.5,1609
+874900,Montgomery,4,3.5,1756
+1350000,Parkdale,4,3.5,2874
+785000,Nolan Hill,4,3.5,2111
+679900,Diamond Cove,4,2.5,2130
+650000,Mission,1,1.5,1185
+449900,Sandstone Valley,3,1.5,1073
+465000,Erin Woods,3,1.5,1130
+489900,Coventry Hills,3,1.5,1347
+554900,Mckenzie Towne,4,3.5,1694
+725000,Beltline,2,2,1504
+995000,Killarney/Glengarry,4,3.5,1901
+2080000,Ramsay,4,3.5,3132
+289900,Mckenzie Towne,1,1.5,837
+1695000,West Hillhurst,4,3.5,39654
+320000,Inglewood,1,1,490
+849900,Mahogany,3,3.5,2402
+199000,Erin Woods,1,1,559
+359900,Auburn Bay,2,2,866
+510000,Cornerstone,4,3.5,1727
+472395,Goodwin By Anthem,2,2.5,1154
+469900,Manchester,2,2,884
+199900,Haysboro,2,1,889
+298000,Penbrooke Meadows,3,2,1072
+674900,Taradale,7,3,1552
+399900,Inglewood,1,1,730
+528888,Martindale,3,1.5,1251
+679900,Inglewood,3,3.5,1676
+449000,Skyview Ranch,4,2.5,1506
+789900,Evanston,3,2.5,2463
+459000,Coachway Gardens,3,2.5,1247
+429900,Sunnyside,2,2,595
+270000,Sunnyside,2,1,757
+749000,Banff Trail,3,2,867
+269000,Downtown East Village,1,1,690
+2199000,Currie Barracks,5,4.5,3441
+449900,Cranston,3,2.5,1139
+659900,Sundance,4,3.5,1876
+399900,West Springs,2,2,584
+579900,Harvest Hills,4,2.5,1572
+500000,Riverbend,3,2,908
+309900,Downtown East Village,1,1,658
+429900,Copperfield,2,2.5,1355
+590000,Tuscany,2,2.5,1450
+469900,Taradale,5,2,926
+739900,Cornerstone,3,2.5,1916
+199999,Varsity,1,1,845
+1300000,Ramsay,3,2.5,2150
+999999,Banff Trail,4,3.5,1901
+749900,Evanston,3,2.5,2271
+949900,Evergreen,5,3.5,2486
+890000,Cougar Ridge,3,2.5,2583
+725000,Nolan Hill,4,3.5,1988
+738888,Nolan Hill,3,2.5,1918
+589900,Beddington Heights,5,3,1317
+643990,Montgomery,4,1.5,1290
+768000,Montgomery,4,3.5,1749
+1199900,Cambrian Heights,4,3.5,2172
+750000,Winston Heights/Mountview,4,3.5,1680
+629900,Braeside,3,2.5,1374
+2000000,,6,4.5,3688
+374900,Sage Hill,2,2,702
+379999,South CA,2,2,1184
+229900,Bowness,2,1,884
+295900,Lower Mount Royal,1,1.5,800
+849900,Shaganappi,4,3.5,1724
+599900,Millrise,4,3,1854
+610845,Legacy,4,2.5,1753
+325000,Renfrew,1,1,591
+1550000,Parkhill,2,1.5,1027
+606620,Legacy,3,2.5,1611
+615390,Legacy,3,2.5,1753
+859900,Parkdale,2,1,1097
+479900,The Timbers,2,2.5,1171
+538888,Mahogany,2,2.5,1120
+380000,Seton,2,2,850
+449900,Redstone,4,3.5,1197
+799000,Haysboro,3,3,1298
+1199000,Mahogany,2,2,1444
+665000,Nolan Hill,3,2.5,1701
+239900,Millrise,1,1,604
+349900,Crescent Heights,2,2,1084
+735099,Silverado,3,2.5,1167
+464900,Beltline,2,2,1112
+1259990,Strathcona Park,4,4.5,3004
+539900,Crescent Heights,2,1.5,715
+234900,Lower Mount Royal,1,1,576
+539900,Coventry Hills,3,2,998
+329000,Beltline,1,1,759
+639786,Saddle Ridge,4,3.5,1497
+610000,Saddle Ridge,3,2.5,1675
+229900,Tuxedo Park,3,1,954
+199000,Altadore,1,1,514
+845000,Beltline,2,2.5,1207
+329000,Copperfield,2,2,912
+759000,Parkdale,3,1,1302
+249900,Dalhousie,2,1,753
+1495000,Springbank Hill,4,3.5,3051
+2499000,Dalhousie,2,2,2056
+759900,Skyview Ranch,5,3.5,2048
+650000,Bridgeland/Riverside,2,3.5,1556
+279900,Dover,2,1,791
+699800,Applewood Park,4,3.5,1638
+1529000,Springbank Hill,4,3,2072
+299000,Auburn Bay,2,2,1073
+269000,Country Hills Village,2,2,842
+899900,Sherwood,4,3.5,2710
+900000,Collingwood,3,3,1449
+399900,Renfrew,2,2,1157
+300000,Downtown East Village,1,1,499
+699900,Evanston,3,2.5,2330
+238800,Glenbrook,2,1,732
+1100000,Hillhurst,3,3.5,2266
+819500,Signal Hill,3,3,1389
+889900,Discovery Ridge,4,3.5,2382
+919900,Panorama Hills,4,3.5,2910
+719888,Rangeview,3,2.5,1860
+779000,Auburn Bay,4,3.5,1991
+660000,West Hillhurst,3,3.5,1579
+799000,Bowness,4,3.5,1724
+329900,Beltline,1,1,559
+1164900,Legacy,4,3.5,2887
+569900,Saddle Ridge,3,2.5,1600
+599900,Braeside,3,2,1562
+333800,Chinatown,1,1,531
+789800,Sage Hill,5,3.5,2250
+599900,Shawnessy,5,2,1130
+564900,Seton,2,2,1415
+1698000,Altadore,3,4.5,2930
+859000,Richmond,4,4.5,2083
+509000,Fairview,2,1,873
+499000,Trinity,2,2.5,1575
+749900,Highwood,5,3,1224
+1099000,Shaganappi,4,3.5,2021
+1199000,Richmond,4,3.5,2494
+530000,Downtown East Village,2,2,837
+230000,Beltline,2,1,769
+949900,South CA,3,3.5,1530
+1999900,Scarboro,5,3.5,3209
+217500,Beltline,2,1,876
+525000,Ambleton,3,2.5,1344
+510000,Sage Hill,3,3.5,1078
+899900,Evergreen,5,3.5,2525
+279900,Beltline,1,1,525
+459900,Falconridge,4,2,906
+2295000,West Hillhurst,5,2.5,3125
+199000,Braeside,2,1,810
+569000,Saddle Ridge,4,2.5,1244
+529000,Sanctuary,3,2.5,1415
+385000,Forest Lawn,1,1,641
+249900,Altadore,2,1,830
+575000,Temple,5,2.5,1055
+579900,Marlborough,3,2,960
+870888,Redstone,4,3,2730
+575000,Penbrooke Meadows,7,3.5,1176
+650000,Chinook Park,4,2,1013
+689900,Kincora,4,3.5,1937
+749900,Evanston,3,2.5,2084
+719900,Montgomery,4,2.5,1750
+389900,Somerset Village,2,1.5,1053
+443000,Tudor Mews,3,2.5,1493
+699999,Canyon Meadows,2,2,1746
+449900,Prospect Rise,3,2.5,1230
+1299900,Cliff Bungalow,3,3.5,1862
+755500,Mount Pleasant,4,3.5,1764
+234900,Patterson,2,1,851
+1698000,Beltline,3,2.5,2302
+329900,Beltline,2,1,948
+406900,Auburn Bay,2,2,1323
+279900,Renfrew,1,1,664
+270000,Bridlewood,2,1,849
+2198000,Collingwood,4,3.5,3790
+799900,Lake Bonavista,4,2.5,1995
+800000,North Glenmore Park,5,1.5,1827
+749900,Silver Springs,5,2.5,1169
+429900,Beddington Heights,4,2,872
+209900,Whitehorn,1,2,509
+3338881,Aspen Woods,5,4.5,3858
+399900,Bridgeland/Riverside,2,2,734
+264900,Haysboro,1,1,701
+639900,Sundance,5,3,1581
+549000,Forest Lawn,4,2,1135
+729800,Christie Park,3,2.5,1375
+1218000,Sage Hill,6,3.5,2706
+597000,Whitehorn,4,3,1396
+610000,Huntington Hills,5,2.5,1085
+399900,Fairwood Court,2,2,1204
+680000,Woodbine,4,3.5,1962
+619900,New Brighton,3,3.5,1757
+750000,Coral Springs,4,3.5,2273
+200000,Renfrew,1,1,550
+389900,Parkhill,1,2,401
+330000,Beltline,1,1,588
+399900,Downtown Commercial Core,2,2,842
+999999,Taradale,7,4,2231
+335000,Bridgeland/Riverside,1,1,772
+629900,Copperfield,4,3,1653
+190000,Haysboro,1,1,709
+999900,Elbow Park,3,2,1349
+650000,Lincoln Park,2,2.5,1046
+299000,Temple,2,1,993
+349900,Beltline,1,1,683
+609900,Killarney/Glengarry,3,3.5,1109
+709800,Scenic Acres,4,3,1322
+420000,The Edison,2,2.5,1306
+709900,Richmond,4,2,1063
+3950000,Bel-Aire,4,4.5,4420
+287500,Panorama Hills,2,2,951
+995000,Richmond,3,3.5,1889
+799000,Cranston,3,2.5,1886
+469000,Beltline,2,1.5,1054
+222000,Dalhousie,2,1,698
+515000,Sage Hill,3,3.5,1435
+925000,Brentwood,4,3,1131
+589900,Saddle Ridge,4,3.5,1346
+1000000,Diamond Cove,5,3.5,2422
+399900,Redstone,2,2.5,1088
+599900,Haysboro,4,3,1038
+1598000,Currie Barracks,6,3.5,4049
+469900,Ogden,5,1,948
+675000,Garrison Woods,3,2,1923
+460000,Skyview Ranch,3,3,1261
+369900,Kincora,2,2,885
+619000,Auburn Bay,3,2.5,1060
+1080000,Glenbrook,4,3.5,2190
+618000,Greenwood/Greenbriar,4,3.5,1532
+389800,West Hillhurst,2,2,1277
+387000,Skyview Ranch,3,2.5,1117
+574500,Downtown Commercial Core,2,2,1076
+350000,Downtown East Village,2,2,845
+1110000,North Glenmore Park,4,3,1337
+247500,Palace Oaks,2,1,983
+520000,Eau Claire,2,2,1267
+1145000,Scarboro/Sunalta West,3,2,1679
+570000,Pineridge,4,3,1371
+760000,Tuxedo Park,4,3.5,2249
+1980000,Crestmont,5,3.5,3958
+949000,Hillhurst,4,3.5,2050
+700000,Bonavista Downs,6,2.5,1190
+1050000,Upper Mount Royal,3,1,1146
+464900,Eau Claire,2,2,826
+324900,Beltline,2,1,857
+1275000,Cranston,3,2.5,1557
+379900,Hearthstone Place,3,2.5,1194
+850000,Alpine Park,3,2.5,2101
+610000,Nolan Hill,3,3.5,1079
+894900,Lake Bonavista,4,3,1467
+549900,Erlton,2,2,1371
+659900,Beltline,2,2,941
+309900,Point Mckay,2,1.5,969
+630000,Cornerstone,3,2.5,1651
+420000,Martindale,3,1.5,1056
+379900,Eau Claire,2,2,1092
+1350000,South CA,3,3.5,2581
+759900,Edgemont,5,3.5,2254
+830000,Cranston,3,2.5,2130
+539000,Erlton,2,2,1107
+444900,Skyview Ranch,3,2.5,1117
+254000,Bankview,2,1,829
+499999,Saddle Ridge,4,2.5,1559
+880000,Bowness,10,4,2054
+664500,Saddle Ridge,4,3.5,1860
+399900,Beltline,2,2,898
+269900,Taradale,2,2,884
+179900,Forest Lawn,4,2,709
+590000,Cornerstone,3,3,1430
+719900,Legacy,3,2.5,1270
+899999,Lake Bonavista,4,3,1655
+859900,Lake Bonavista,4,2.5,2233
+299900,Mission,1,1,740
+779999,Pine Creek,3,2.5,2316
+300000,Beltline,1,1,714
+446800,Beltline,2,2,1036
+749900,Cougar Ridge,3,3.5,1901
+289900,Willow Court Green,2,1,426
+309000,Chinatown,1,1,516
+505000,,3,2.5,1428
+559900,Deer Ridge,3,2,889
+224900,Dover,1,1,567
+199999,Applewood Park,1,1,543
+299000,Copperfield,2,2,770
+1249000,Mahogany,3,2.5,2923
+239900,Bankview,2,1,812
+330000,Cranston,2,1,861
+599900,Mckenzie Towne,4,3.5,1701
+189900,Bankview,1,1,530
+339900,Greenwood/Greenbriar,1,1,497
+2100000,Renfrew,4,4.5,3346
+1595000,Upper Mount Royal,4,3.5,2573
+959900,Cranston,4,3.5,2525
+699888,Beltline,2,2,1220
+614900,Walden,4,3.5,1458
+179900,Bowness,1,1,665
+638000,Coventry Hills,3,2.5,1707
+459900,Seton,3,2,1163
+1999000,Springbank Hill,6,5.5,3776
+389900,Crescent Heights,2,2,1247
+1000000,,5,4,2753
+399000,Auburn Bay,2,2.5,1097
+599900,Saddle Ridge,4,3.5,1272
+979000,Martindale,6,3.5,2535
+229900,Cliff Bungalow,1,1,577
+589900,Walden,5,3.5,1362
+539998,Walden,3,2.5,1531
+969000,Arbour Lake,4,4,2293
+309900,Renfrew,1,1,643
+1750000,University Heights,6,3.5,2792
+324900,Beltline,2,2,951
+949000,Mahogany,6,3.5,2530
+255000,Citadel,2,1,848
+699900,North Glenmore Park,5,2,1149
+778800,Edgemont,4,3,1480
+848711,Richmond,4,3.5,1646
+449900,Sandstone Valley,5,2,948
+279000,Beltline,2,1,864
+1358000,Rosedale,4,1.5,2694
+1249900,Highland Park,4,3.5,2640
+774900,Winston Heights/Mountview,4,3.5,1440
+399900,Cactus Ridge,2,2,1193
+329900,Chinatown,1,1,500
+259000,Beltline,2,1,767
+349900,Mission,1,1,581
+599000,Downtown West End,2,2,811
+980000,Downtown Commercial Core,2,2,1415
+299900,Sunnyside,2,1,743
+284500,Spruce Cliff,1,1,784
+649900,Bridlewood,4,3.5,1675
+1199000,Aspen Woods,4,3.5,2680
+785000,Banff Trail,5,3.5,2048
+524900,Skyview Ranch,2,2.5,1110
+399000,Beltline,1,1,522
+305000,Beltline,2,1.5,969
+725000,Sunalta,4,1.5,1521
+295000,Beltline,2,1.5,1115
+344900,Inglewood,1,1,488
+479900,Ramsay,2,1,684
+3700000,Upper Mount Royal,4,4.5,3453
+505000,Cornerstone,3,2.5,1415
+350000,Renfrew,1,1,706
+600000,Bankview,2,1,864
+539900,Legacy,3,2.5,1285
+540000,Bankview,4,3,1483
+849900,Nolan Hill,4,3.5,2119
+249900,Skyview Ranch,2,1,525
+509900,Carrington,4,2.5,1481
+694000,Sundance,5,3.5,1741
+205000,Sunalta,2,1,783
+159000,Bankview,1,1,435
+312900,Skyview Ranch,2,1,900
+349800,Downtown West End,1,1,578
+769800,North Haven Upper,5,3,1806
+998888,Mount Pleasant,4,3.5,2005
+264900,Beltline,2,1,788
+649999,Sundance,5,3.5,1779
+659900,Glenbrook,4,3.5,1882
+1150000,Shaganappi,4,3.5,2116
+1598000,Signal Hill,6,4,3379
+314900,Beltline,2,2,777
+1975000,Parkdale,4,3.5,3470
+729900,New Brighton,3,3.5,2047
+375000,Auburn Bay,2,2,952
+310000,Lower Mount Royal,1,1,597
+499900,Downtown East Village,2,2,1132
+199000,Beltline,1,1,628
+1495000,Rosemont,5,3.5,2952
+249900,Crescent Heights,2,2,1056
+379900,Bridgeland/Riverside,2,1.5,1080
+1469000,Garrison Green,5,3.5,2778
+829900,Mahogany,4,3.5,2215
+200000,Beltline,1,1,496
+639900,Legacy,3,2.5,1591
+865000,Varsity,5,3,1109
+1299900,Rosedale,3,3,2082
+725000,Skyview Ranch,3,2.5,2050
+450000,Beltline,2,2,897
+1168000,Springbank Hill,4,3.5,2555
+675000,Valley Ridge,3,2.5,2023
+769900,Sunnyside,3,3.5,1437
+665000,Huntington Hills,3,3,1326
+830000,Harvest Hills,3,2.5,2411
+295000,Inglewood,1,1,490
+529000,Erlton,4,2,748
+899900,Killarney/Glengarry,4,3.5,1755
+189900,Cliff Bungalow,1,1,695
+439900,Beltline,2,2,1097
+319900,Skyview Ranch,2,2,823
+749900,Livingston,4,2.5,2227
+659900,Livingston,3,2.5,1713
+974900,Mount Pleasant,4,3.5,1868
+365000,Sunalta,1,2,902
+524888,Marlborough Park,3,1.5,1122
+344500,Sage Hill,2,2,885
+875000,Sherwood,6,4.5,2359
+1200000,Bowness,4,2.5,2768
+249900,Sage Hill,1,1,596
+624900,Mission,1,2,1536
+279777,Panorama Hills,2,1,711
+743900,Skyview Ranch,4,2.5,2345
+759000,Sunalta,4,4.5,1638
+359900,Beddington Heights,3,1.5,1018
+189900,West Hillhurst,1,1,577
+595000,Sienna Park Green Village,3,3,1185
+329900,Downtown East Village,2,2,1042
+1200000,Crescent Heights,4,3.5,2266
+1098000,Coral Springs,7,3.5,2767
+1090000,Seton,6,4.5,2645
+594900,Skyview Ranch,3,2.5,1546
+715000,Meadowlark Park,4,1.5,1100
+940000,Renfrew,4,2.5,1932
+318000,Royal Oak,2,2,871
+265000,Mission,1,1,622
+380000,Auburn Bay,2,2,869
+265000,Cranston,2,1,581
+380000,Auburn Bay,2,2,869
+699900,Beltline,2,2,2107
+202750,Bankview,2,1,873
+179000,Crescent Heights,1,1,503
+619000,Kingsland,3,1.5,1004
+520000,Altadore,2,2.5,1372
+659900,Hidden Valley,4,3.5,1755
+229900,Kelvin Grove,3,1,1115
+288800,Brentwood,1,1,428
+454900,Skyview Ranch,3,2.5,1431
+833049,Shaganappi,3,2.5,1689
+675600,Maple Ridge,3,2.5,1133
+679900,Maple Ridge,3,3,1356
+849999,Altadore,3,2,1458
+499000,Albert Park/Radisson Heights,4,2,957
+799900,Walden,3,2.5,2081
+669999,Redstone,4,3.5,1581
+1200000,Panorama Hills,4,2.5,2650
+1150000,Aspen Woods,4,3.5,2430
+299900,Sherwood,2,2,791
+669999,Downtown Commercial Core,1,1.5,947
+429000,Skyview Ranch,2,2.5,950
+324900,Beltline,1,1,537
+899900,Mission,1,1.5,1232
+849900,Sherwood,4,3.5,2088
+299999,Dalton Square,2,1,827
+425000,Downtown Commercial Core,2,2,951
+399900,Crescent Heights,2,1,540
+770000,Nolan Hill,5,3.5,2040
+1300000,Bankview,4,3.5,2562
+465000,Downtown West End,2,2,1205
+875000,Ambleton,5,3,2411
+789999,Panorama Hills,7,3.5,2178
+405000,Greenwood/Greenbriar,2,2,816
+598000,Forest Lawn,4,3,1054
+710100,Martindale,4,3.5,1823
+794900,,3,2.5,2037
+363000,Beltline,1,1,524
+524900,Bridgeland/Riverside,2,2,850
+380000,Auburn Bay,2,2,754
+429000,Downtown Commercial Core,2,2,801
+899999,Monterey Park,5,4,2238
+1499000,Richmond,4,4.5,2464
+999999,Mount Pleasant,4,3.5,2018
+699900,Queensland,5,3,1352
+355000,Tuxedo Park,2,2,803
+445000,Seton,2,2,1056
+625000,Evanston,4,3.5,1589
+387500,Renfrew,2,2,1028
+225000,Sunnyside,1,1,531
+799000,Carrington,5,3,2340
+499900,Coventry Hills,4,1.5,1265
+359900,Montgomery,3,2,1349
+429900,Mckenzie Towne,2,2,1086
+574900,New Brighton,3,2.5,1696
+630000,Monterey Park,4,3.5,2039
+420000,Erlton,2,2,1060
+234900,Garrison Green,1,1,500
+280000,Mission,1,1,736
+685500,Auburn Bay,3,2.5,2072
+679888,Haysboro,3,2,1298
+535000,Pineridge,3,2,1104
+279900,Skyview Ranch,2,1,596
+319900,Tuscany,2,2,1001
+699900,Fairview,4,3,1064
+595000,Eau Claire,1,1.5,1371
+485900,Yorke Townhomes,4,2.5,1423
+648800,Charleswood,5,2.5,1163
+830000,Legacy,4,3.5,1919
+475000,Falconridge,4,2,843
+850000,Panorama Hills,4,3.5,2481
+325000,Beltline,1,1,500
+249900,Mayland Heights,2,2,820
+259900,Haysboro,1,1,705
+985000,Tuxedo Park,4,3.5,1939
+622000,Glacier Ridge,3,2.5,1600
+649900,Panorama Hills,3,2.5,1893
+375000,Downtown Commercial Core,2,2,1022
+200000,Sierra Gardens,2,1,861
+577000,Coventry Hills,3,2.5,1287
+359900,Killarney/Glengarry,2,1,932
+569900,Section 23,3,2.5,1525
+899000,Bowness,5,3.5,1956
+585000,Killarney/Glengarry,3,2,1133
+289500,Tuxedo Park,2,2,939
+519900,Mckenzie Lake,3,2.5,1475
+1574900,Springbank Hill,4,3.5,3278
+775000,Saddle Ridge,6,3.5,2096
+210000,Legacy,1,1,600
+824999,Skyview Ranch,6,4,2440
+849900,Evanston,5,3.5,2224
+1649900,Hamptons,6,5,3057
+365000,Downtown Commercial Core,1,1,558
+197500,Crescent Heights,2,1,706
+269000,Sage Hill,1,1,436
+210000,Sunnyside,1,1,510
+685000,Coral Springs,5,3.5,1873
+1798900,Currie Barracks,5,4.5,4249
+399000,Ogden,3,1,1105
+999900,Varsity,6,4,1905
+445000,Beltline,2,2,1077
+588888,Midnapore,3,3,1484
+839000,Hounsfield Heights/Briar Hill,3,2,1017
+275000,Altadore,2,1,1027
+194900,Bankview,1,1,606
+475000,Saddle Ridge,3,1.5,1225
+950000,Eau Claire,2,2,1396
+675000,Sage Hill,3,2.5,1839
+339900,Haysboro,2,2,975
+1799000,Springbank Hill,4,3,2660
+339900,Kincora,2,2,834
+499900,Copperfield,3,3.5,1517
+300000,Renfrew,1,1.5,645
+399500,Downtown East Village,2,2,863
+1225000,Brompton Court,3,3.5,1839
+1850000,Bridgeland/Riverside,4,3.5,2617
+837990,Yorkville,4,2.5,2750
+625000,Cornerstone,3,2.5,1588
+649900,Hounsfield Heights/Briar Hill,4,2,1224
+1500000,Lake Bonavista,4,3.5,1770
+364900,Lower Mount Royal,2,2,1171
+1129000,South CA,3,3.5,2449
+479900,Copperfield Chalet,3,2.5,1524
+1700000,Pump Hill,5,4.5,3441
+668000,Acadia,4,3,1045
+749900,Legacy,3,2.5,1654
+749000,Saddle Ridge,3,2.5,1863
+779900,Pine Creek,4,3.5,2130
+269900,South CA,1,1,673
+769900,Nolan Hill,4,3.5,1956
+365000,Currie Barracks,2,1,704
+359900,Beltline,1,1,580
+320000,Downtown Commercial Core,1,1,566
+575000,Downtown Commercial Core,2,2,977
+392500,Downtown Commercial Core,2,2,759
+1025000,Eau Claire,2,2,2145
+639900,Marlborough Park,7,4,1418
+325000,Beltline,1,1,577
+959900,Glenbrook,4,3.5,1893
+791000,Parkland,4,3,1255
+549800,Chaparral,3,2.5,1407
+310000,Mckenzie Towne,2,2,845
+549900,Glacier Ridge,3,2.5,1366
+334900,Beltline,1,1,688
+2325000,South CA,2,2.5,1939
+1160000,Charleswood,4,3,1447
+1085000,Signal Hill,6,3.5,2457
+749900,Seton,3,3.5,1972
+349000,Bridgeland/Riverside,2,1,532
+459900,Martindale,3,2.5,1075
+979000,Chaparral,4,3.5,2391
+269900,Somerset,2,2,966
+289000,Inglewood,1,1,489
+399000,Inglewood,2,2,723
+350000,Inglewood,1,1,555
+1325000,Spruce Cliff,4,4.5,2517
+565000,Huntington Hills,4,2,994
+825000,Nolan Hill,5,3.5,2381
+799900,Falconridge,7,4,1711
+225000,Beltline,2,1,883
+599900,Mahogany,3,2.5,1807
+899900,Tuscany,5,3.5,2415
+1275000,Parkdale,4,3.5,1977
+470000,Citadel,3,2.5,1221
+639000,Bridlewood,4,3.5,1801
+1499000,Ramsay,4,3.5,2375
+178800,Windsor Park,1,1,600
+470000,Cranston,3,2,1218
+819900,Citadel,4,3.5,1983
+829900,Evanston,5,3.5,2754
+529800,Panorama Hills,3,3,992
+2650000,Springbank Hill,4,5,3727
+549900,Cornerstone,3,2.5,1428
+816000,Mission,2,2,1479
+550000,Queensland,3,2.5,1281
+849900,Mission,2,2,1826
+549900,Glacier Ridge,3,2.5,1366
+749900,Evanston,3,2.5,2139
+499000,Woodlands,2,2.5,1472
+949800,Mayland Heights,8,4,2201
+3880000,Aspen Woods,6,5.5,5042
+296900,Saddle Ridge,2,1,638
+439000,Erin Woods,4,2,885
+568000,Monterey Park,3,1.5,1321
+739000,Cornerstone,7,2,1800
+700000,Maple Ridge,4,3,1426
+559000,Hidden Valley,4,2.5,1278
+268000,Inglewood,1,1,691
+1489800,Aspen Woods,5,3.5,3485
+768800,Sandstone Valley,4,3.5,2004
+399900,Spruce Cliff,2,2,949
+536000,Douglasdale/Glen,4,3.5,1675
+449000,Beltline,2,2,775
+2099000,Upper Mount Royal,4,4.5,2921
+689986,Capitol Hill,3,3,1421
+849900,Pine Creek,3,2.5,2213
+654900,Legacy,3,2.5,1771
+749900,Bridgeland/Riverside,2,2,1286
+469900,Garrison Woods,2,2,1167
+499900,Martindale,4,2,905
+444900,Seton,3,2,1187
+384000,Windsor Park Court,2,2,1050
+247741,Taradale,2,2,879
+949900,Livingston,3,3.5,2600
+479000,Martindale,4,2.5,1307
+1202250,Royal Oak,3,2.5,1187
+790000,Homestead,4,2.5,2107
+849900,Charleswood,3,2,1220
+874900,Varsity,4,2,1340
+265000,Mayland Heights,2,2,821
+814888,Legacy,4,3.5,2229
+754900,Nolan Hill,4,3.5,2077
+465000,Whitehorn,5,2,1003
+679000,Garrison Green,2,2.5,1677
+379000,Auburn Bay,2,2,756
+569900,Cornerstone,3,2.5,1416
+304900,South CA,1,1,835
+577500,Auburn Bay,3,2.5,1333
+369900,Seton,2,2,842
+429900,Cranston,2,2,1053
+659900,Saddle Ridge,3,3,1820
+701990,Cityscape,3,2.5,1885
+775990,Cityscape,3,2.5,2435
+375000,Beltline,2,2,860
+555000,Cityscape,3,2.5,1194
+359000,Downtown East Village,2,2,889
+469900,Falconridge,4,2,994
+699999,New Brighton,4,3.5,1842
+189800,Bowness,1,1,759
+359900,Beltline,2,2,799
+639900,Downtown West End,2,2,910
+339900,Tuxedo Park,2,2,761
+329900,Beltline,2,1,702
+579900,Cornerstone,4,3,1461
+699999,Saddle Ridge,4,3.5,1727
+1475000,Montgomery,6,3.5,2613
+899900,Haskayne,3,2.5,2207
+705000,Sundance,4,2.5,2188
+219000,Dalhousie,2,1,720
+1199900,Nolan Hill,5,3.5,2443
+844900,Brentwood,4,3,1228
+280000,Lower Mount Royal,2,1,659
+339000,Downtown Commercial Core,1,1,664
+515000,Silverado,3,3.5,1152
+234500,Whitehorn,2,2,819
+349900,Kincora,2,2,835
+829000,Woodbine,6,4,1882
+934999,Saddle Ridge,8,6,2737
+1050000,Discovery Ridge,5,3.5,2476
+849900,Ambleton,4,3,2371
+1180000,Renfrew,3,2.5,1592
+544500,Rundle,5,2.5,1190
+429999,Falconridge,2,2,788
+539900,Martindale,5,2.5,1425
+960000,Rosedale,3,2,1188
+659900,Bridlewood,3,2.5,1993
+580000,Temple,4,3,1405
+789000,Legacy,3,2.5,2339
+774900,Seton,4,3,2254
+564900,Seton,3,2,1414
+359000,Parkside Estates,4,2.5,1192
+819900,Legacy,3,2.5,2257
+769900,Seton,3,2.5,2293
+565000,Chaparral,4,3.5,1497
+789900,Belvedere,3,3,2053
+614900,Cranston,3,2,1553
+699900,Queensland,4,3,1138
+304900,Varsity,1,1,833
+624900,Woodbine,3,2.5,1308
+665000,Garrison Green,3,2.5,1730
+1199888,Collingwood,6,4,2166
+479900,Killarney/Glengarry,2,2.5,1215
+899000,Crestmont,4,3.5,2009
+979900,Richmond,4,4.5,2009
+699900,Alpine Park,3,2.5,1735
+760000,Richmond,4,3.5,1910
+399900,Albert Park/Radisson Heights,3,2,841
+549900,Hotchkiss,4,3.5,1162
+3995000,Willow Park,3,3.5,4685
+529900,Rundle,5,2,1048
+733000,Aspen Woods,2,3.5,2990
+437500,Redstone,3,2.5,1486
+979000,Mahogany,5,4,2379
+819900,Belvedere,3,2.5,2468
+799900,Belvedere,4,3,2194
+469900,Beltline,2,2,790
+829900,Mahogany,3,3,2247
+669900,Bowness,4,2,1200
+899900,Rosemont,5,2,1236
+519000,Millrise,2,3,1331
+399900,Crescent Heights,2,2,1535
+935000,Cranston,3,2.5,2473
+339900,Chinatown,1,1,498
+439900,Beltline,2,2,913
+995000,Shawnee Slopes,5,3.5,2818
+658000,Mckenzie Towne,4,3.5,1768
+549900,Homestead,5,3.5,1155
+259900,Mission,2,1,608
+280000,Chinatown,1,1,467
+549900,Downtown East Village,2,2,854
+2195000,Elbow Park,6,4.5,3380
+1049900,Chinatown,2,2,1523
+774900,Saddle Ridge,5,3,2364
+349000,Haysboro,2,2,972
+1029000,Shaganappi,4,3.5,2027
+784900,Auburn Bay,3,2.5,2288
+589000,Cornerstone,3,2.5,1426
+549900,Riverbend,3,2.5,1821
+285000,Bridgeland/Riverside,2,1,724
+370000,Beltline,1,1,575
+328000,Beltline,1,1,531
+289000,Panorama Hills,2,2,800
+780000,Belvedere,3,2.5,2052
+530000,Mahogany,2,2,773
+2500000,Inglewood,3,2.5,2895
+699000,Killarney/Glengarry,3,3.5,1366
+2588000,Elbow Park,4,4.5,3231
+599900,Taradale,4,3.5,1311
+759900,Evanston,4,3.5,2240
+959000,Killarney/Glengarry,4,3.5,1877
+1315000,Killarney/Glengarry,4,3.5,2441
+569900,Kingsland,4,2,1088
+220000,Bankview,2,1,828
+145900,Chinatown,2,1,666
+349900,Killarney Glen Court,2,1,805
+589000,Taradale,5,3,1076
+210000,Glenbrook,1,1,743
+550000,Walden,3,2.5,1383
+599999,Woodbine,4,3,1521
+270000,Forest Lawn,3,1.5,1010
+240000,Killarney/Glengarry,2,2,1042
+1095000,Aspen Woods,3,3.5,2522
+249900,Southwood,2,1.5,805
+749900,Sunalta,4,2,1195
+1325000,Christie Park,5,4.5,3828
+1099000,Valley Ridge,4,3.5,2640
+979000,Brentwood,4,3.5,1351
+729000,Walden,3,3.5,2369
+745000,Livingston,3,2.5,2032
+349900,Spruce Cliff,2,2,828
+395000,Lookout At Christie Park,4,2,1986
+1450000,Canyon Meadows,5,2.5,4766
+350000,Inglewood,2,2,971
+178000,Huntington Hills,3,1,898
+1985000,Bowness,4,1.5,1500
+809900,Kincora,3,2.5,2398
+349900,Downtown Commercial Core,1,1,653
+549900,Alpine Park,4,1.5,1503
+699999,Martindale,3,1.5,1990
+739900,Brentwood,5,2,1040
+669900,Wolf Willow,5,3.5,1737
+899900,Ambleton,4,3,2482
+1300000,Douglasdale/Glen,4,3.5,2656
+1450000,West Springs,3,2.5,2210
+305000,Downtown West End,2,1,731
+879900,Glacier Ridge,3,2.5,2203
+685000,Copperfield,3,2.5,2274
+799900,Ogden,5,3,2121
+141900,Whitehorn,1,1,309
+599900,Marlborough Park,4,2.5,1485
+329000,Eau Claire,1,1,857
+275000,Shawnee Slopes,1,1,544
+799900,Killarney/Glengarry,4,3.5,1779
+509000,Erin Woods,4,2,1173
+2000000,Elbow Park,3,2,1649
+479900,Beltline,1,1.5,1038
+624900,Eau Claire,2,2,1654
+600000,Downtown Commercial Core,2,2,954
+839900,Highland Park,4,3.5,1758
+466400,Sage Hill,2,2,989
+422900,Seton,2,2,959
+350000,Crescent Heights,2,1,936
+929000,Mahogany,6,3.5,2479
+1999000,Altadore,4,4.5,3358
+764900,Legacy,5,3.5,2370
+1299900,Bridgeland/Riverside,4,3.5,2372
+1245000,Elbow Park,2,1,930
+249900,Mayland Heights,2,2,823
+667500,,3,2.5,945
+1349000,Altadore,4,3.5,2368
+1499900,Bowness,4,4,1678
+1188888,Discovery Ridge,4,2.5,1652
+364900,Bridgeland/Riverside,2,2,782
+599999,Belvedere,3,3,1329
+529000,Silverado,3,2.5,1412
+759900,Sherwood,4,3.5,2304
+345000,Dalton Square,3,1,916
+224500,Beltline,1,1,841
+429000,Redstone,3,3.5,1087
+410000,Crescent Heights,2,2,1230
+580000,Cedarbrae,5,2.5,1331
+975000,Walden,3,3.5,2667
+283800,Beltline,1,1,633
+626400,Les Jardins,2,2.5,1245
+656400,Les Jardins,2,2.5,1358
+664400,Les Jardins,3,2.5,1358
+699000,Sage Hill,5,3.5,1358
+749500,Olive,2,1.5,1810
+1250000,Mahogany,6,3.5,2985
+1399900,Hounsfield Heights/Briar Hill,6,3,2635
+617900,Legacy,3,2.5,1608
+729900,Braeside,4,3,2008
+259000,Bankview,2,1,815
+1099900,Walden,3,2.5,1736
+1300000,Edgemont,6,3.5,1977
+755000,Coventry Hills,4,3.5,2038
+999900,Cornerstone,7,5,2752
+2095000,Aspen Woods,5,5.5,3549
+769900,Evanston,3,2.5,2228
+535000,Albert Park/Radisson Heights,6,2,1066
+375000,Forest Lawn,5,1.5,1051
+799000,Dalhousie,4,3.5,1916
+575000,Martindale,4,3,1311
+249990,Lake Bonavista,1,1,583
+1520000,Upper Mount Royal,4,3.5,1877
+575000,Cedarbrae,3,2,1297
+779900,Panorama Hills,4,3.5,2037
+499500,Beltline,2,2,822
+750000,Altadore,3,3.5,1312
+999900,Strathcona Park,2,2.5,2344
+979000,Mount Pleasant,4,3.5,1813
+699000,Eau Claire,2,2,1868
+199000,Greenview,2,2,1001
+625000,Beltline,2,2,1100
+965000,Aspen Woods,5,3,2062
+578900,Taradale,3,2.5,1347
+748000,Tuxedo Park,4,4.5,1783
+314900,Huntington Hills,2,2,936
+370000,Tuxedo Park,2,1,1145
+299999,Bridgeland/Riverside,1,1,424
+2195000,Glendale,7,5.5,1926
+290000,Albert Park/Radisson Heights,2,2,916
+3199900,Lakeview,5,4.5,4550
+419000,Penbrooke Meadows,6,2,934
+990000,Eau Claire,2,2,964
+775000,Oakridge,3,3.5,2718
+1098900,Downtown West End,3,3,1408
+1249000,Inglewood,5,3.5,2443
+518000,Mission,2,2,1056
+835000,Hamptons,5,3.5,2272
+875000,Silver Springs,3,1.5,2288
+1144000,Valley Ridge,6,3.5,3055
+549990,Inglewood,1,2.5,1170
+365000,Chinatown,1,1,534
+365000,Downtown Commercial Core,1,1,630
+539900,Millrise,4,2,1173
+459900,Panorama Hills,3,2.5,1394
+1039000,West Hillhurst,4,3.5,1872
+549900,University District,2,2,748
+1050000,Rutland Park,4,3.5,1898
+1050000,Rutland Park,4,3.5,1897
+889000,Capitol Hill,4,3.5,1682
+889000,Capitol Hill,4,3.5,1687
+259900,Mission,1,1,508
+315000,Downtown East Village,2,1,561
+199900,Albert Park/Radisson Heights,2,2,990
+364900,Walden,2,2,764
+765000,Cougar Ridge,3,2.5,2035
+480000,Falconridge,5,2,1014
+559900,Horizon Village Varsity,3,2,891
+1588000,Bowness,5,3.5,3476
+789900,Signal Hill,5,3.5,2010
+799900,Cornerstone,4,2.5,2694
+2250000,Patterson,4,2.5,1907
+775000,West Springs,5,3.5,1975
+574999,Mckenzie Lake,4,3.5,1611
+2489000,Aspen Woods,6,5.5,4280
+1825000,Lake Bonavista,6,4.5,3283
+1050000,Maple Ridge,5,3.5,1497
+400000,Downtown East Village,2,1.5,651
+799900,Silverado,5,3.5,2453
+1475000,Parkhill,4,3.5,1888
+649000,Greenwood/Greenbriar,4,3.5,1562
+660000,Martindale,4,2.5,1542
+479900,Beltline,2,2,893
+615000,Seton,4,3.5,1578
+289000,Seton,1,1,588
+995000,Point Mckay,2,2.5,1945
+550000,Castleridge,4,2,1052
+784900,Varsity,4,2.5,1209
+1399999,Wildwood,5,3.5,1710
+258000,Panorama Hills,1,1,690
+325000,Beltline,2,1.5,969
+3375000,Elbow Park,5,3.5,4695
+1199998,Lakeview,5,3.5,1407
+1174900,Hamptons,6,3.5,2817
+1350000,Eau Claire,2,2.5,2263
+199900,Mayland Heights,1,1,658
+435000,Eau Claire,2,2,1168
+699900,Monterey Park,3,2.5,2046
+1599000,Cranston,4,2.5,1785
+750000,Bankview,2,1,1172
+839000,Winston Heights/Mountview,4,2,1000
+999900,West Hillhurst,3,2.5,1779
+585000,Shawnessy,4,2.5,1904
+1099900,Maple Ridge,5,2.5,2286
+1058000,Aspen Woods,3,3.5,2995
+488000,Beltline,2,2,914
+859000,Sherwood,6,3.5,2625
+195000,Eau Claire,1,1,743
+428800,Crescent Heights,2,2.5,1153
+579000,Sunnyside,2,2.5,1306
+850000,Oakridge,4,3,1124
+1380000,Evanston,4,3.5,2900
+799900,Edgemont,4,2.5,2345
+768000,Woodbine,4,3.5,1856
+312000,Rundle,2,1,1086
+565000,Mayland Heights,4,2,953
+1299000,Royal Oak,4,3.5,2762
+1049000,Upper Mount Royal,3,2,1383
+995000,Eau Claire,2,2,1490
+799888,Royal Oak,4,2.5,2249
+1549000,Aspen Woods,5,3.5,3345
+619000,Hidden Valley,3,1,1362
+888000,Richmond,4,3.5,1804
+999900,Shaganappi,4,3.5,1901
+1650000,Mahogany,3,3.5,1263
+449000,Mission,2,1.5,1243
+874900,Alpine Park,3,2.5,2362
+338999,Sage Hill,2,2,842
+2498900,Mahogany,4,3.5,3456
+775000,Garrison Green,4,3.5,1436
+390000,Ogden,3,2,864
+659000,Belmont,4,3.5,1634
+699000,Tuxedo Park,3,2,2361
+339900,Beltline,1,1,665
+284900,Varsity,1,1.5,975
+2195000,Collingwood,5,4.5,3192
+619900,Greenwood/Greenbriar,4,2.5,1266
+689000,Tuscany,4,3.5,1604
+525000,Currie Barracks,2,2,886
+515000,Currie Barracks,2,2,824
+639200,University District,2,2,902
+629900,Medicine Hill,3,2.5,1630
+265000,Beltline,2,1,827
+599000,Saddle Ridge,5,2.5,1138
+409900,Beltline,2,2,926
+329900,Bridgeland/Riverside,2,1.5,1056
+369900,Shawnee Slopes,2,2.5,1137
+789888,Edgemont,4,3.5,2234
+699900,Downtown Commercial Core,1,2,1217
+824786,Saddle Ridge,4,3.5,2079
+769999,Charleswood,4,2,1091
+749500,Panorama Hills,3,2.5,2292
+997500,Tuxedo Park,5,3.5,2570
+975000,Eau Claire,2,2,1709
+997500,Tuxedo Park,5,3.5,2570
+299000,Cornerstone,2,2,656
+774900,Skyview Ranch,5,3.5,2098
+765000,Saddle Ridge,6,4,2331
+374900,Mahogany,1,1,540
+1099000,Canyon Meadows,6,3,1485
+419900,Downtown Commercial Core,2,2,769
+584900,Belvedere,3,2.5,1465
+395000,Beddington Heights,2,1,857
+250000,Beltline,2,1.5,896
+1250000,Altadore,4,3.5,2129
+840000,Willow Park,4,3,1428
+1095000,Lakeview,4,3,1335
+769900,Arbour Lake,6,3.5,2172
+559900,Sunnyside,2,1,727
+299900,Tuxedo Park,1,1.5,1027
+920000,Eau Claire,3,3,2185
+829900,Livingston,4,3.5,2268
+778000,Mckenzie Towne,3,2.5,2279
+459000,Ogden,2,1,980
+288900,Taradale,2,2,884
+440000,Walden,2,2.5,1322
+699000,Monterey Park,6,3.5,2050
+1299900,Cougar Ridge,5,4.5,3281
+1375000,West Hillhurst,4,3.5,2116
+1299000,Cranston,2,2.5,2013
+534900,Albert Park/Radisson Heights,4,2.5,1044
+679999,Coach Hill,4,3,1617
+3800000,Mayfair,6,4.5,5602
+1295000,Hillhurst,3,4.5,1912
+798000,Carrington,4,3.5,2228
+1275000,Renfrew,3,4,2275
+414900,Eau Claire,2,2,1223
+750000,Douglasdale/Glen,5,3.5,2196
+920000,Hamptons,4,3.5,2481
+320000,Bridgeland/Riverside,1,1,533
+1249000,Sunnyside,2,2.5,2211
+1287000,Parkdale,3,2.5,2021
+1140000,Parkdale,3,4.5,1828
+468000,Upper Mount Royal,2,2,1230
+399900,Richmond,2,2,919
+204900,Sunalta,1,1,744
+527860,Beltline,2,2,1585
+899900,Mahogany,4,3.5,2253
+825000,Bowness,3,2.5,1854
+2488000,Windsor Park,4,4.5,2992
+1249900,Hamptons,4,3.5,2874
+749900,Hotchkiss,5,3.5,2196
+848888,Evanston,3,2.5,1952
+699900,Maple Ridge,5,2.5,1394
+429900,Beltline,2,2,968
+385500,Millrise,2,1.5,796
+279900,Somerset,2,2,825
+489000,Falconridge,4,2,913
+829900,Altadore,4,3.5,1701
+399900,Beltline,1,1.5,944
+290000,Mission,1,1,704
+1059000,Winston Heights/Mountview,4,3.5,2241
+464900,Douglasdale/Glen,2,2.5,1156
+959900,Parkdale,4,4.5,2233
+459900,Mahogany,2,2,1276
+579900,Bridlewood,3,2.5,1435
+870000,Pine Creek,4,2.5,2539
+599900,Whitehorn,6,3,1280
+649900,Somerset,4,3.5,1999
+1000000,Springbank Hill,4,3.5,2114
+450000,Eau Claire,2,2,1038
+764888,Legacy,3,2.5,2325
+629888,University District,2,2.5,1266
+2100000,Eau Claire,2,2.5,1639
+3295000,Aspen Woods,6,6,4744
+899900,Canyon Meadows,5,4,2789
+364900,Walden,2,2,792
+349000,Mission,1,1,581
+490000,Sage Hill,3,3.5,1366
+1219000,Canyon Meadows,4,3,2364
+1339000,Edgemont,5,3.5,3020
+429000,Rocky Ridge,3,2,1239
+479900,Martindale,3,1.5,1307
+1065000,Aspen Woods,3,3.5,2837
+324900,Crescent Heights,1,1,501
+578000,Douglasdale/Glen,3,2.5,1550
+1195000,Banff Trail,5,3,1300
+830000,Hamptons,3,2.5,2578
+1849900,Edgemont,5,3.5,3382
+1799900,West Hillhurst,5,3.5,3042
+864900,Hamptons,4,2.5,2305
+329900,University District,1,1,420
+258800,Beltline,1,1,460
+569900,Belvedere,3,2.5,1518
+555000,Walden,3,2.5,1422
+1095000,Mount Pleasant,4,3.5,2012
+830000,Winston Heights/Mountview,3,2.5,1751
+649900,Banff Trail,3,2,989
+199900,Mayland Heights,1,1,636
+439999,Pineridge,3,2,965
+889000,Nolan Hill,6,2.5,2449
+599000,Mount Pleasant,3,3,1456
+849000,Taradale,7,5,2494
+619900,Evanston,3,2.5,1485
+488900,,4,3.5,1365
+365000,Harvest Hills,2,2,839
+349900,Beltline,2,1,857
+179997,Whitehorn,1,1,519
+1190000,Currie Barracks,4,3.5,1776
+1075000,Altadore,4,3.5,2155
+439000,Whitehorn,3,2.5,1125
+499900,Beltline,2,2,750
+393999,Sunnyside,1,2,737
+1100000,Scenic Acres,4,3,1787
+1590000,Bowness,7,4.5,2665
+669990,Carrington,3,2.5,1674
+609900,Downtown West End,2,2,833
+429000,Bridgeland/Riverside,2,2,1089
+1200000,Crescent Heights,4,4.5,2470
+949000,Legacy,4,2.5,2625
+239900,Bankview,1,1,802
+998690,Highland Park,8,4,1645
+1599900,Renfrew,4,4.5,3088
+599900,Monterey Park,4,3.5,1773
+836990,Carrington,4,2.5,2613
+849990,Carrington,4,2.5,2750
+875000,Cranston,3,2.5,2329
+299000,Southview,2,2,898
+750000,Tuxedo Park,4,3.5,1738
+839900,Cornerstone,4,4,2434
+489900,Monterey Park,5,2,1007
+226900,Haysboro,1,1,493
+729900,Downtown East Village,2,2,1315
+1098000,Banff Trail,4,3.5,2000
+729000,Martindale,5,3.5,1804
+399999,Shawnee Slopes,3,2.5,1491
+627900,Homestead,4,3,1785
+680000,Taradale,6,3.5,1446
+489000,Martindale,3,1.5,1229
+739900,Livingston,4,2.5,2208
+749900,Royal Oak,3,2.5,2510
+374900,Mission,1,1,670
+374900,Mission,1,1,766
+679900,Point Mckay Gardens,3,2.5,1496
+799000,Chaparral,5,3.5,2693
+338000,Bridgeland/Riverside,2,2,660
+489900,Taradale,3,1.5,1343
+624000,Mckenzie Lake,5,2.5,2253
+572900,Falconridge,5,3.5,1508
+799000,Livingston,3,2.5,2632
+1175000,Rocky Ridge,4,4,3066
+295000,Greenview,3,1.5,1143
+1250000,Mount Pleasant,4,2.5,2411
+1248000,Mount Pleasant,2,3.5,2375
+256000,Beltline,1,1,464
+779900,Coventry Hills,7,5.5,2509
+598500,Kincora,4,3.5,1317
+275000,Mayland Heights,2,2,988
+3700000,Springbank Hill,8,7.5,8179
+459900,Bridlewood,4,1.5,1234
+648800,Monterey Park,4,3.5,1927
+430000,Marlborough,3,1,1040
+699000,Discovery Ridge,3,2.5,1508
+449500,Temple,3,1.5,1215
+528000,Parkdale,2,2,987
+1298800,West Springs,4,3.5,2731
+280000,Walden,1,1,496
+256000,Somerset,1,1,680
+549000,Alpine Park,3,2.5,1496
+799900,Nolan Hill,5,3.5,2313
+824900,Bowness,4,3.5,1813
+579999,Forest Lawn,2,2,1806
+559900,Homestead,3,2.5,1441
+2400000,Springbank Hill,5,4.5,5424
+1599999,West Hillhurst,5,4.5,2567
+820000,Panorama Hills,5,4,2648
+509900,Edgemont,3,1.5,1097
+689999,Chaparral,3,3.5,1791
+519000,Falconridge,5,2.5,933
+1999999,Silverado,4,5,2263
+539900,Spruce Cliff,2,2.5,1209
+390000,Cornerstone,2,2.5,1018
+574900,Dover,5,2,960
+269900,Legacy,2,2,694
+749900,Killarney/Glengarry,3,2.5,1645
+799900,Glenbrook,4,3.5,1737
+344999,Sage Hill,2,2,731
+809900,Canyon Meadows,4,2.5,1917
+339900,Tuxedo Park,2,2,761
+270000,Beltline,2,1.5,963
+589000,Rundle,3,2.5,1136
+390000,Legacy,2,2,914
+459000,Skyview Ranch,3,3,1234
+1299000,Richmond,4,3.5,2278
+1125000,Mahogany,6,3.5,2913
+1825000,Britannia,4,3.5,1759
+999000,Tuxedo Park,3,2.5,1938
+1090000,Douglasdale/Glen,4,3,1843
+230000,Crescent Heights,1,1,781
+929900,Carrington,4,2.5,2863
+365000,Beltline,1,1,578
+1199000,Christie Park,6,3.5,2612
+289000,Taradale,2,2,996
+639000,Citadel,4,3.5,1672
+604990,Downtown East Village,2,2,1127
+1399800,Edgemont,4,3.5,2606
+769900,Cranston,5,3.5,2223
+599900,Evolution,2,2.5,1562
+599900,Eau Claire,1,1.5,1427
+399900,Skyview Ranch,2,2.5,955
+768800,Livingston,3,2.5,2252
+455000,Yorke Townhomes,3,2.5,1529
+768000,Parkland,4,2.5,1727
+899900,Collingwood,4,3,1558
+1298000,Evanston,5,3.5,2765
+869900,Glacier Ridge,4,3,2295
+1079900,Killarney/Glengarry,4,4.5,1861
+594500,Bowness,3,2,990
+335000,Auburn Bay,2,1,720
+648000,Eau Claire,2,2,1778
+1199900,West Springs,2,2.5,2569
+765000,Evergreen,4,3.5,1900
+875000,Redstone,5,3,2794
+319900,Saddle Ridge,2,2,886
+660000,Sage Hill,3,2.5,1747
+549900,Mahogany,3,2.5,1424
+725000,North Glenmore Park,3,3.5,1608
+730000,Saddle Ridge,6,3.5,1990
+309900,Beltline,1,1,532
+219900,Bankview,2,1,455
+308500,South CA,1,1,532
+619900,Vista Heights,3,2,1106
+248000,Windsor Park,2,1.5,1088
+799900,Carrington,3,2.5,2047
+2500000,Altadore,5,4.5,3279
+599900,Les Jardins,3,2.5,1645
+1398000,Cliff Bungalow Townhouses,3,3,2231
+712990,Yorkville,3,2.5,1879
+2098000,Hillhurst,4,4.5,2977
+1689000,Chaparral,4,4.5,3453
+599900,Coral Springs,4,3.5,1717
+279900,Beltline,2,1,772
+1275000,West Hillhurst,4,3.5,2207
+339000,Acadia,2,1,888
+1149900,Lakeview,4,4.5,2271
+1399900,Aspen Woods,6,3.5,3601
+819000,Livingston,3,2.5,2266
+689900,Saddle Ridge,4,3.5,2006
+319998,Eau Claire,1,1,627
+255000,Saddle Ridge,2,2,814
+234900,Lincoln Park,1,1,537
+549900,Castleridge,4,2.5,851
+459888,Montgomery,3,3.5,1078
+309900,Cornerstone,2,2,707
+1799900,Upper Mount Royal,4,5.5,3532
+449888,Killarney Glen Court,4,2.5,1519
+289000,Beltline,3,2,1240
+575000,Beltline,2,2,1516
+474900,Inglewood,2,1,864
+899800,Collingwood,4,3.5,2267
+949800,Crescent Heights,4,3.5,1802
+1749900,Varsity,4,3.5,2725
+499900,Hillhurst,2,2,865
+549900,Section 23,3,2.5,1371
+699900,North Glenmore Park,6,2.5,1605
+1949900,Cougar Ridge,5,3.5,4160
+630000,Crescent Heights,2,1,659
+779000,Elboya,4,2,1303
+2499900,Hillhurst,2,2,1988
+1499900,Hillhurst,2,2,1369
+1170000,Cougar Ridge,4,3.5,2552
+719900,Saddle Ridge,5,3.5,2043
+944000,Evergreen,4,3.5,2656
+829900,Belvedere,5,4,2472
+10000000,Hillhurst,3,3.5,4715
+888888,Sunalta,3,3,1175
+559990,Beddington Heights,3,2.5,1707
+1199999,South CA,4,3.5,2331
+830000,Britannia,4,3,1373
+799999,Legacy,5,3,2719
+829900,Country Hills,6,3,1871
+254000,Haysboro,1,1,701
+255000,Spruce Cliff,1,1,777
+360000,Downtown West End,1,1,597
+300000,Signal Hill,2,1,897
+1074900,Hounsfield Heights/Briar Hill,3,3.5,1933
+1495000,Signal Hill,4,4.5,2557
+3388000,Aspen Woods,6,5.5,4074
+779900,Saddle Ridge,6,4,1862
+1798000,Parkhill,3,3.5,2024
+1350000,Banff Trail,4,4.5,2258
+605000,Downtown East Village,2,2,1106
+849900,Silver Springs,5,3,1590
+730000,Cranston,3,2.5,2245
+720000,Springbank Hill,3,2.5,1435
+624900,Windsor Park,2,3.5,1788
+349900,Spruce Cliff,1,1,574
+419000,Penbrooke Meadows,3,1,825
+519000,Temple,3,2.5,1550
+439900,Forest Lawn,5,3,1186
+699900,Saddle Ridge,5,2.5,1986
+250000,Dalhousie,2,1,778
+777999,Taradale,6,3.5,2152
+495000,Southwood,3,2.5,1015
+387500,Downtown West End,2,2,945
+1259900,Altadore,4,3.5,2434
+1150000,Patterson,5,3.5,2936
+525000,Beltline,2,2,730
+859000,Cranston,3,2.5,2380
+199000,Hillhurst,1,1,622
+2095000,Aspen Woods,6,6.5,4701
+574900,Southwood,4,1.5,1524
+1099500,Mahogany,5,3.5,2846
+704900,Martindale,4,3.5,1748
+729900,Coral Springs,5,3.5,2027
+1699900,Mahogany,3,3.5,1255
+669000,Nolan Hill,3,2.5,1587
+475000,Beltline,2,2,835
+269900,Beltline,2,1.5,1056
+608000,Glenbrook,2,2,677
+1394900,Altadore,4,3.5,2005
+1049900,Bridgeland/Riverside,4,4.5,1867
+799900,Livingston,4,2.5,2343
+619900,Hotchkiss,3,2.5,1769
+798000,The Estate,2,1.5,1723
+699990,Mahogany,4,3.5,1826
+360000,Mission,2,2,980
+398000,Mission,2,2,1081
+1730000,Beltline,2,2.5,2431
+499000,Redstone,4,3.5,1184
+494000,The Enclave,2,2.5,1139
+574900,North Haven,4,2,1066
+209900,Sunalta,1,1,598
+1449900,West Springs,6,4.5,3187
+899900,Erlton,5,4.5,1577
+655000,Haysboro,3,2,1037
+649000,Winston Heights/Mountview,2,1,834
+759900,Sherwood,4,3.5,2521
+699900,Wildwood,4,2,1118
+1219000,Shaganappi,5,3.5,2073
+445000,South CA,3,1.5,1147
+389900,Mission,2,2,1233
+1280000,Mahogany,5,3.5,3099
+629900,Livingston,3,2.5,1741
+524900,Martindale,2,1.5,794
+240000,Downtown East Village,2,1,489
+684900,Legacy,3,2.5,2051
+749000,Cranston,4,3.5,2220
+889900,Sage Hill,4,3.5,2472
+264000,Mission,1,1,568
+559900,Belvedere,3,2.5,1339
+559900,Belvedere,3,2.5,1437
+277900,Panatella Landing,1,1,816
+449900,Haysboro,2,2,1031
+869988,Sunnyside,3,3.5,1677
+650000,Lake Bonavista,5,2.5,1152
+564900,Seton,3,2,1529
+679900,Glacier Ridge,3,2.5,1765
+649900,Glacier Ridge,3,2.5,1619
+619900,Rangeview,3,2.5,1598
+731900,Mahogany,1,1.5,1163
+849900,Legacy,5,3,2398
+649900,Legacy,4,3,1787
+729000,Crescent Heights,3,2,813
+1280000,Bridgeland/Riverside,3,1.5,2301
+579999,Crestmont,3,2.5,1814
+1524000,Renfrew,4,4.5,2864
+1950000,Hillhurst,4,3.5,2824
+289000,Midnapore,2,1,559
+689900,Alpine Park,3,2.5,1861
+899900,Glenbrook,4,3.5,1976
+974900,Killarney/Glengarry,4,3.5,1923
+307900,Downtown West End,1,1,811
+530000,Falconridge,5,3,1255
+2300000,North Glenmore Park,3,3.5,2014
+730000,Southwood,5,3,1600
+699900,Collingwood,6,2,1193
+779000,Legacy,3,2.5,2321
+1150000,Eau Claire,4,3.5,4257
+424900,Sunnyside,1,1,561
+820000,Alpine Park,3,2.5,2241
+799900,Bankview,3,2.5,1308
+729999,Coventry Hills,4,3.5,1705
+2090000,South CA,3,2.5,2907
+575000,Hawkwood,4,2.5,1624
+1848000,Upper Mount Royal,4,3,2004
+469888,Forest Lawn,5,2,915
+1299000,Shaganappi,4,3.5,2157
+1775000,Westgate,3,2.5,2474
+309999,Sage Hill,2,1,657
+1099000,Hamptons,5,3.5,2391
+699000,Montgomery,1,2,967
+959900,Killarney/Glengarry,4,3.5,1983
+729000,Cranston,5,3.5,2159
+699900,Royal Oak,3,2.5,1875
+2750000,Mount Pleasant,6,5.5,3679
+529000,Ranchlands,4,2.5,1526
+289900,Haysboro,1,1,717
+1849000,Pump Hill,4,3.5,3068
+1050000,Carrington,4,2.5,2845
+2500000,Upper Mount Royal,4,3.5,3744
+2600000,Willow Park,5,5.5,3439
+264900,Beltline,2,1.5,1076
+364900,Downtown East Village,1,1,732
+469900,Aspen Woods,2,2.5,1438
+3175000,Parkhill,5,4.5,3220
+1599900,Hounsfield Heights/Briar Hill,4,2,1252
+479000,Downtown West End,2,2,1385
+599000,Castleridge,4,2.5,1312
+1080000,Richmond,2,2.5,1801
+400000,Beddington Heights,4,1.5,1006
+1295000,Varsity,3,2.5,1779
+1999900,Currie Barracks,5,3.5,3463
+624900,Beltline,1,1,1045
+475000,Mission,2,1.5,1034
+986500,Coral Springs,5,3.5,2568
+300000,Chateau Falls,1,1,725
+839900,Glenbrook,3,2.5,1785
+314889,Citadel,2,2,847
+539900,Sunnyside,2,2,871
+340000,University District,1,1,553
+199889,Citadel,1,1,491
+800000,Bowness,3,1.5,1243
+870000,Mission,1,1.5,1290
+1699000,Bridgeland/Riverside,4,4.5,3011
+1350000,Nolan Hill,7,5,2715
+1500000,Mission,2,2,1451
+6250000,Upper Mount Royal,6,6.5,5813
+255900,Mahogany,1,1,533
+589900,Pine Creek,3,2.5,1425
+799900,Crescent Heights,3,1.5,883
+1100000,Collingwood,4,3.5,2789
+466900,Winston Heights/Mountview,1,1,662
+929000,Mckenzie Lake,4,3,1810
+1199888,Montgomery,4,3.5,2106
+1199000,Rocky Ridge,5,3.5,2571
+849999,Signal Hill,4,3.5,2582
+948000,Chinatown,3,2,1388
+444000,Downtown East Village,2,2,657
+524900,Eau Claire,2,2,1280
+749000,Mahogany,3,3.5,2243
+884900,Mayfair,5,2,1377
+384900,Falconridge,3,1.5,1130
+775000,Silverado,3,2.5,2683
+1149000,West Hillhurst,4,3.5,1835
+2498880,Foothills,5,2,1232
+459900,Skyview Ranch,3,3,1248
+290000,Saddle Ridge,2,2,768
+455000,Hillhurst,1,1,654
+499000,Mayland Heights,3,1,1063
+759000,Bridgeland/Riverside,4,2,1050
+755000,Legacy,5,3.5,2077
+439900,Beltline,2,2.5,1339
+485000,Edenmore,3,2.5,1199
+859900,Bowness,4,3.5,1900
+200000,Bridgeland/Riverside,1,1,654
+999900,Scarboro,5,4,1723
+2195000,Springbank Hill,4,3.5,3249
+669999,Saddle Ridge,3,3.5,1848
+489000,Martindale,3,2,1062
+610000,Thorncliffe,5,3,1651
+795000,Bowness,4,3.5,1738
+1995000,Altadore,4,4.5,3268
+369900,Whitehorn,4,2,812
+1250000,Sunnyside,2,2.5,1625
+2400000,Windsor Park,5,2.5,2731
+975000,Citadel,5,3.5,2463
+435000,Palliser,2,2,1246
+700000,Glamorgan,5,2,1053
+500000,Canyon Meadows,2,1.5,1241
+749900,Nolan Hill,4,3.5,2362
+774000,Livingston,3,2.5,2231
+824900,Livingston,4,3.5,2479
+775000,Hillhurst,2,2,856
+586940,Legacy,3,2.5,1480
+1265000,Saddle Ridge,8,6,3264
+769900,Coral Springs,7,3.5,2245
+363000,Signal Hill,2,2,1100
+804990,Cityscape,3,2.5,2428
+1695000,Eagle Ridge,4,3.5,2954
+194999,Mission,1,1,496
+1595000,Discovery Ridge,5,5.5,3802
+335000,Downtown Commercial Core,1,1,653
+669000,Downtown West End,2,2,912
+799900,Chinook Park,4,2,1762
+433800,Downtown Commercial Core,2,2,955
+395000,Seton,2,2,884
+778000,Legacy,4,3.5,2098
+419900,Lower Mount Royal,2,2,1187
+515000,Southview,3,2,636
+1149000,Beltline,3,2,1452
+869900,Evanston,3,2.5,2505
+2000000,Bowness,3,1.5,2557
+950000,University Heights,4,2.5,1788
+659800,Belmont,3,2.5,1654
+589900,Silver Springs,3,2,1070
+279400,Sage Hill,1,1,504
+749000,Mahogany,3,2.5,2263
+314900,Downtown West End,1,1,817
+984000,Altadore,5,3.5,2469
+375000,Mission,2,2,797
+775000,Cliff Bungalow,3,3,1539
+1250000,North Glenmore Park,5,3.5,1964
+925000,Renfrew,4,3.5,1818
+419900,Beltline,2,2,1449
+1835000,Hillhurst,4,3,2300
+549900,Winston Heights/Mountview,4,1,827
+214999,Saddle Ridge,1,1,420
+2388000,,5,3.5,2554
+1150000,Wildwood,5,3.5,1656
+649777,Monterey Park,5,3.5,1923
+1480000,Cranston,3,2.5,1679
+755000,Scenic Acres,5,3.5,2678
+309900,Beltline,1,1,625
+1249900,West Springs,4,3.5,2565
+3000000,Patterson,5,6,5059
+399900,Downtown East Village,1,1,840
+739000,Belmont,3,2.5,2058
+999999,Cougar Ridge,4,2.5,2458
+379900,Lower Mount Royal,2,2,1006
+317500,Downtown East Village,1,1,693
+934990,Yorkville,4,2.5,2674
+535000,Martindale,4,2,1474
+1249900,Scenic Acres,4,2.5,2034
+469000,The Oscar,2,2.5,1227
+899000,Saddle Ridge,7,4.5,2283
+1999000,Mahogany,2,2.5,1878
+259500,Downtown East Village,1,1,354
+349900,Chinatown,1,1,432
+929900,Elbow Park,3,2,866
+465000,Copperfield,2,2.5,1423
+195888,Beltline,1,1,603
+1075000,Walden,5,3.5,2445
+639900,Ezra On Riley Park,2,2.5,1528
+789900,Douglasdale/Glen,4,3.5,1964
+1474900,Altadore,4,3.5,2166
+269000,Hillhurst,2,1,814
+215000,Somerset,1,1,715
+520000,Saddle Ridge,4,2.5,1240
+349900,Beltline,1,1,509
+699900,Signal Hill,4,2.5,1799
+840000,Scenic Acres,3,2.5,2284
+7995000,Eagle Ridge,5,5.5,5434
+699000,Legacy,3,2.5,1985
+799999,Nolan Hill,3,2.5,2542
+399000,Shawnee Slopes,2,2.5,1247
+254900,Bridgeland/Riverside,2,1,1007
+550000,Elbow Park,1,1,1057
+2799900,Britannia,4,3.5,3963
+385000,Mission,2,2,1393
+519900,Bridgeland/Riverside,2,2,874
+1950000,Douglasdale/Glen,5,4.5,3180
+1450000,Currie Barracks,4,3.5,2368
+785000,Royal Oak,4,3.5,2056
+675000,Mission,2,2,1912
+449900,Martindale,3,2,1065
+1275000,West Hillhurst,4,3.5,1939
+626400,Les Jardins,3,2.5,1645
+631400,Les Jardins,3,2.5,1356
+581400,Les Jardins,3,2.5,1611
+725000,Cranston,3,2.5,2356
+799900,Glacier Ridge,3,3.5,1728
+554900,Seton,2,2,1386
+440254,Douglasdale/Glen,2,2,879
+742900,Mahogany,2,2.5,1164
+853900,Mahogany,1,1.5,1404
+2650000,Cranston,3,3.5,2805
+735900,Mahogany,1,1.5,1059
+295354,Douglasdale/Glen,1,1,570
+624000,Highland Park,3,2.5,1619
+740000,Coventry Hills,4,3.5,1713
+1149000,Mount Pleasant,4,3.5,2319
+2199800,Eau Claire,2,2.5,2639
+950000,West Hillhurst,3,3.5,2055
+174900,Bankview,1,1,649
+299900,South CA,1,1,707
+549900,Beltline,2,2,953
+455000,Falconridge,3,2,860
+739000,Glamorgan,5,2.5,1109
+799000,Livingston,3,2.5,1935
+722888,Canyon Meadows,3,3,1445
+799000,Pine Creek,3,2.5,2326
+595000,Forest Lawn,4,2,1019
+1100000,Kelvin Grove,4,2.5,1887
+654900,Hotchkiss,3,2.5,1714
+1179000,West Hillhurst,4,3.5,2008
+499000,The Enclave,2,2.5,1101
+304988,Beltline,1,1,687
+4998000,Britannia,5,7.5,6143
+485000,Saddle Ridge,4,2,813
+549900,Applewood Park,5,2.5,1063
+1999900,Upper Mount Royal,5,3.5,2963
+690000,University District,2,1.5,1404
+749999,Oakridge,4,3.5,2426
+659000,Parkdale,2,2,1127
+654900,Lakeview,2,1,1260
+389900,Livingston,2,2,855
+149000,Lower Mount Royal,1,1,475
+430000,Beltline,2,2,911
+149000,Lower Mount Royal,1,1,471
+149000,Lower Mount Royal,1,1,475
+4490000,Hounsfield Heights/Briar Hill,4,3.5,3132
+1085000,Hounsfield Heights/Briar Hill,2,2,1196
+795000,Princes Island Estates,2,2.5,1911
+698000,Montgomery,4,3,1697
+849900,Redstone,4,4,2568
+598000,Sage Hill,3,2.5,1680
+489000,Taradale,5,3,974
+1300000,Banff Trail,4,3.5,2161
+399900,Beltline,2,2,801
+1398000,Patterson,2,2.5,2251
+4000000,Bowness,2,1,894
+219900,Bowness,2,1,833
+579900,Southview,4,2,1312
+495000,Renfrew,2,2,1046
+2695000,Upper Mount Royal,4,2.5,3489
+825000,Bankview,3,3.5,1733
+439000,Taradale,3,2,917
+899900,Altadore,3,3.5,2562
+1625000,South CA,3,3.5,2287
+149000,Lower Mount Royal,1,1,475
+949499,Mount Pleasant,4,3.5,1817
+2699000,Kelvin Grove,3,3.5,2956
+1550000,Edgemont,4,3.5,2847
+9800000,Elbow Park,3,3.5,7049
+1360000,Cranston,3,2.5,1600
+425000,Carrington,2,2,1065
+3199000,Elboya,4,3.5,3781
+185000,Sunalta,1,1,494
+739900,Bridgeland/Riverside,2,2,897
+599000,Sage Hill,4,4.5,1973
+900001,Sunalta,4,2,1071
+279900,Haysboro,1,1,839
+1500000,Winston Heights/Mountview,4,3.5,2759
+600000,Sunalta,4,2,919
+1099000,Killarney/Glengarry,4,3.5,1925
+1045000,Killarney/Glengarry,4,3.5,1920
+1039000,Killarney/Glengarry,4,3.5,1949
+218800,Lower Mount Royal,2,1,749
+365000,Chinatown,1,1,547
+849900,Glacier Ridge,4,3,2397
+775000,Mount Pleasant,3,2.5,1598
+799999,Hamptons,4,3.5,2257
+312499,Crescent Heights,1,1,456
+1249000,Spruce Cliff,4,3.5,2311
+865000,Mckenzie Lake,6,3.5,2733
+1025000,Shaganappi,4,3.5,1851
+449900,Beltline,2,2,1294
+489900,The Enclave,2,1.5,1151
+477400,Seton,3,2.5,1222
+447400,Seton,3,2.5,1257
+1225000,Hillhurst,4,4.5,2837
+265000,Mission,1,1,506
+774900,Capitol Hill,3,2.5,1842
+950000,Aspen Woods,6,4,1709
+2995000,Hounsfield Heights/Briar Hill,5,4.5,4117
+825000,North Glenmore Park,3,3.5,1635
+1050000,Killarney/Glengarry,4,3.5,1854
+849900,Richmond,3,3.5,1776
+2499999,Discovery Ridge,6,4.5,3618
+699900,Sundance,4,3.5,1887
+950000,Downtown Commercial Core,2,2.5,1295
+330000,Beltline,1,1,490
+6199999,Upper Mount Royal,3,4.5,4517
+724500,Downtown Commercial Core,1,1.5,960
+1059000,Crestmont,4,3.5,2634
+1079900,Killarney/Glengarry,4,4.5,1838
+1299000,Killarney/Glengarry,5,3.5,2490
+1745000,Springbank Hill,4,3.5,3837
+1799000,Capitol Hill,8,8,2962
+3290000,Eau Claire,2,2.5,3210
+1900000,Eau Claire,2,2.5,2429
+782300,West Hillhurst,2,2,1830
+899900,Collingwood,5,3,1323
+2829000,West Hillhurst,4,3.5,3396
+1250000,Richmond,4,3.5,2103
+575000,Crestmont,3,3.5,1304
+2730000,Lakeview,6,3.5,3582
+799900,Legacy,3,2.5,2312
+1265000,West Hillhurst,4,4.5,2043
+699999,Legacy,4,3.5,1496
+1079900,Shawnee Slopes,4,3.5,2353
+1369900,Varsity,4,3,1212
+219900,Beltline,1,1,568
+829900,Wolf Willow,3,3.5,1659
+498000,Richmond,2,2,1173
+514395,Silverado,3,2.5,1294
+699999,Legacy,4,3.5,1496
+2175000,Upper Mount Royal,3,2,2251
+1149900,Eau Claire,2,2.5,1340
+379900,Beltline,1,1,531
+2999000,Aspen Woods,6,5.5,4776
+769990,Bridgeland/Riverside,2,1.5,1776
+699999,Legacy,4,3.5,1525
+979900,Belvedere,4,3,2729
+350000,Rosscarrock,2,2,788
+349888,Sage Hill,2,1,633
+828000,Saddle Ridge,6,4,2606
+149900,Red Carpet,1,1,393
+339000,Mission,2,1,767
+2299000,Hounsfield Heights/Briar Hill,6,7.5,4167
+759952,Sage Hill,3,2.5,1952
+648000,Palliser,3,3,1467
+1949000,Downtown Commercial Core,3,2.5,2513
+1999999,Cranston,3,2.5,2148
+279900,Crescent Heights,1,1,421
+1049000,Killarney/Glengarry,4,3.5,1832
+480000,Woodlands,3,2.5,2140
+379900,Rosscarrock,2,2,801
+699999,Legacy,4,3.5,1497
+1750000,South CA,5,5.5,2605
+849900,Collingwood,4,2,1189
+869900,Shawnee Slopes,3,2.5,2323
+849900,Shawnee Slopes,3,2.5,2289
+984000,Aspen Woods,3,2.5,2568
+324888,Lower Mount Royal,3,2,1329
+899000,Aspen Woods,3,2.5,2149
+339800,Currie Barracks,1,1,731
+622095,West Springs,2,2.5,1221
+3980000,Upper Mount Royal,4,6.5,6057
+320000,Point Mckay,2,1.5,996
+1498000,Erlton,4,2.5,2537
+2700000,Inglewood,2,2,847
+1595800,Parkhill,3,3.5,2819
+360000,Eau Claire,1,1,797
+1949000,Currie Barracks,3,3.5,3041
+289900,Dover,2,2,965
+359900,Downtown West End,1,1,588
+1995000,West Hillhurst,4,3.5,3273
+6500000,Saddle Ridge,3,1.5,1185
+1099000,Richmond,4,3.5,1905
+949900,Glendale,4,2,1189
+1195000,Parkdale,4,3.5,2281
+1250000,Renfrew,4,3.5,2764
+579900,Spruce Cliff,2,2,1602
+694900,Glacier Ridge,3,2.5,1384
+409000,Beltline,2,2,912
+1050000,Patterson,4,3.5,3616
+415000,Beltline,2,2,829
+1150000,Bowness,4,3.5,2293
+286289,Inglewood,1,1,490
+296299,Inglewood,1,1,490
+220000,Citadel,1,1,586
+837900,Brentwood,5,4,1708
+455000,Saddle Ridge,3,2.5,1351
+339900,Beltline,1,1,574
+265000,Downtown East Village,1,1,413
+749900,Brighton Court,3,3.5,1947
+1898999,Eau Claire,2,2,1373
+1650000,Elbow Park,4,4.5,3156
+1024900,Mahogany,4,2.5,2683
+629900,Monterey Park,6,4.5,2140
+1994000,Springbank Hill,5,4.5,4425
+849000,Cranston,3,2.5,2293
+1090000,Downtown East Village,3,3,1551
+1282000,Rosscarrock,4,3.5,2125
+673000,Inglewood,2,2.5,1992
+1150000,Evergreen,2,2.5,1709
+949900,Winston Heights/Mountview,5,3.5,1916
+800000,Bankview,1,1,802
+1200000,Bankview,1,1,1040
+982800,Pine Creek,3,2.5,2363
+975450,Pine Creek,3,2.5,2363
+279900,Skyview Ranch,1,1.5,751
+679000,Crescent Heights,3,2,785
+439900,Downtown West End,2,2,1066
+875000,Taradale,5,3.5,2187
+1310000,Mahogany,6,3.5,2947
+979900,Charleswood,5,3,1472
+1950000,Silverado,4,4.5,3653
+774900,Downtown West End,3,3,2198
+899000,Charleswood,4,3.5,1805
+369900,Downtown East Village,2,2,786
+1450000,Altadore,4,4.5,2730
+2599999,Hounsfield Heights/Briar Hill,6,7.5,4454
+289900,Kingsland,2,1,853
+3499900,Springbank Hill,7,5.5,7539
+1195000,Bankview,4,4.5,2306
+1195000,Bankview,4,4.5,2297
+1225000,Parkdale,4,3.5,1938
+1227000,Cliff Bungalow,3,2.5,1714
+1499999,Discovery Ridge,6,4.5,2985
+2299000,Mahogany,2,2,2007
+1590000,Discovery Ridge,6,4.5,3338
+560000,Beltline,1,2,1196
+201999,Downtown Commercial Core,1,1,767
+702500,,3,2.5,2096
+499000,Crescent Heights,2,1,618
+749900,Parkhill,1,1,689
+554900,Seton,2,2,1385
+763350,Royal Oak,3,2.5,1746
+3870000,Parkhill,3,3.5,4713
+836000,Pine Creek,3,2.5,2198
+1350000,Downtown Commercial Core,2,2.5,2157
+234900,Dover,1,1,571
+1250000,Lakeview,5,2,1435
+439900,Bankview,2,2.5,1551
+850000,Tuscany,4,3.5,2052
+759900,West Springs,4,2.5,1680
+799000,Bowness,5,2,1552
+825000,Saddle Ridge,4,3.5,2524
+420945,Livingston,2,2,1009
+898000,Lower Mount Royal,2,2.5,2522
+234000,Patterson,1,1,542
+1339000,Collingwood,4,3.5,2571
+1725000,Bridgeland/Riverside,7,4,2647
+3500000,Elboya,5,4.5,4589
+3680800,Parkhill,4,3.5,3131
+1589998,Inglewood,4,4.5,2757
+1499900,Altadore,4,4.5,2533
+1150000,Killarney/Glengarry,4,3.5,1972
+1150000,Killarney/Glengarry,4,2.5,1952
+1540000,Evergreen,6,4.5,3631
+7500000,Upper Mount Royal,5,5.5,5743
+839900,Shawnee Slopes,3,2.5,2269
+899900,Shawnee Slopes,3,2.5,2431
+549900,University District,2,2,782
+1418900,Eau Claire,2,2.5,2075
+1139250,Royal Oak,3,2.5,1187
+3395000,Eagle Ridge,4,4.5,4590
+709000,Cranston,4,2.5,2175
+170000,Beltline,2,1,724
+1099500,Killarney/Glengarry,4,3.5,1941
+1400000,Bowness,3,1.5,901
+2385000,Aspen Woods,5,5.5,901
+679900,Spruce Cliff,2,2,1462
+524900,Bridgeland/Riverside,2,1,1007
+258000,Beltline,1,1,400
+319900,Skyview Ranch,2,2,837
+429900,Skyview Ranch,3,2,1275
+799000,Tuxedo Park,3,2,869
+8000000,,5,4.5,9031
+595000,Sage Hill,3,2.5,1733
+7988000,Eau Claire,2,2.5,3544
+795000,Shaganappi,6,2,983
