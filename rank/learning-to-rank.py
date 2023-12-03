@@ -1,40 +1,70 @@
-import pandas as pd
+
+#This file used the LambdaMART algorithm with the LightGBM model to perform learning-to-rank.
+
 import numpy as np
+import pandas as pd
+import lightgbm as lgb
 from sklearn.model_selection import train_test_split
-import subprocess
+
+# Assuming 'feature1' and 'feature2' are your actual feature and target variable names
+InputData = pd.read_csv("dataset.csv")
+
+# Split the data into training and validation sets
+X_train, X_validation, Y_train, Y_validation = train_test_split(
+    InputData.drop(["feature1", "feature2"], axis=1),
+    InputData["feature2"],
+    test_size=0.2,
+    random_state=42
+)
+
+# query id
+queryid_train = X_train.groupby("query_id")["query_id"].count().to_numpy()
+queryid_validation = X_validation.groupby("query_id")["query_id"].count().to_numpy()
+
+# Create an LGBMRanker model
+model = lgb.LGBMRanker(
+    objective="lambdarank",
+    metric="ndcg",
+    learning_rate=0.09,
+    max_depth=-5,
+    random_state=42
+)
+
+# Train the model
+model.fit(
+    X=X_train,
+    y=Y_train,
+    group=queryid_train ,
+    eval_set=[(X_validation, Y_validation)],
+    eval_group=[queryid_validation],
+    eval_at=10,
+    verbose=10
+)
+
+# NDCG calculation function
+def ndcg(labels, predictions):
+    pred_scores = model.predict(X_validation)
+    
+    labels = np.asarray(labels)
+    predictions = np.asarray(predictions)
+    
+    # Sort the predictions based on LambdaMART scores
+    sorted_indices = np.argsort(pred_scores)[::-1]
+    
+    # Retrieve the corresponding labels and calculate DCG
+    sorted_labels = labels[sorted_indices]
+    dcg = np.sum((2 ** sorted_labels - 1) / np.log2(np.arange(2, len(labels) + 2)))
+    
+    # Sort the labels
+    ideal_labels = np.sort(labels)[::-1]
+    ideal_dcg = np.sum((2 ** ideal_labels - 1) / np.log2(np.arange(2, len(labels) + 2)))
+    
+    # Calculate NDCG by normalizing DCG by the ideal DCG
+    ndcg = dcg / ideal_dcg if ideal_dcg != 0 else 0
+    
+    return ndcg
 
 
-data = pd.read_csv('C:/Users/ysy20/Desktop/HollywoodsMostProfitableStories.csv')
-
-# 'Worldwide Gross' is output
-# 'Audience  score %', 'Profitability', 'Rotten Tomatoes %' are feature vectors. Now I set up three features vectors
-target_col = 'Worldwide Gross'
-feature_col = ['Audience  score %', 'Profitability', 'Rotten Tomatoes %']
-
-X = data[feature_col].values
-Y = data[target_col].rank(ascending=False)
-
-
-# Split the data
-X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
-
-train_data = np.column_stack((y_train, np.zeros_like(y_train), X_train))
-np.savetxt('train_ranklib.txt', train_data, delimiter='\t', comments='', header='label score ' + ' '.join([f'f{i}' for i in range(len(feature_col))]))
-
-# Train LambdaMART model using RankLib
-# (Replace the path)
-ranklib_jar_path = 'C:/Users/ysy20/Desktop/RankLib-2.18.jar'
-train_cmd = f'java -jar {ranklib_jar_path} -ranker 6 -metric2t NDCG@10 -tree 100 -leaf 10 -shrinkage 0.1 -train train_ranklib.txt -save ranking_model.txt'
-subprocess.run(train_cmd, shell=True)
-
-# Save new instances
-new_instances = np.random.rand(5, len(feature_col))
-new_instances_data = np.column_stack((np.zeros(5), np.zeros(5), new_instances))
-np.savetxt('new_instances_ranklib.txt', new_instances_data, delimiter='\t', comments='', header='label score ' + ' '.join([f'f{i}' for i in range(len(feature_col))]))
-
-# Use the trained model to rank the new instances
-rank_cmd = f'java -jar {ranklib_jar_path} -load ranking_model.txt -rank new_instances_ranklib.txt -score new_instances_scores.txt'
-subprocess.run(rank_cmd, shell=True)
-new_instances_scores = np.loadtxt('new_instances_scores.txt')
-sort_scores = sorted(new_instances_scores)
-print("Scores for new instances:", sort_scores)
+pred_validation = model.predict(X_validation)
+score = ndcg(Y_validation, pred_validation)
+print(f"NDCG Score: {score}")
