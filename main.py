@@ -2,8 +2,10 @@ from classes.visualization import Visualization
 from SearchSpace.generate import generateSearchSpace
 import pandas as pd
 import numpy as np
+from classes.column import Column
 
 import PartialOrderFunctions.matchingFunctions as mf
+import PartialOrderFunctions.generalFunctions as gen
 
 # FIRST: Generate Search Space (list of visualization nodes)
 nodes = generateSearchSpace('./data/testing.csv')
@@ -40,9 +42,20 @@ df = pd.DataFrame(data)
 result = df.groupby('X')['Y'].count().reset_index()
 
 # 'result' now contains the grouped data with the sum of 'Y' for each group in 'X'
-"""
+
 
 #print(viz2.X.values)
 print(viz2.X.values.sort_values(ascending=False).reset_index(drop=True).index)
 
+data = np.arange(0, len(viz1.X.values), 1)
+X_col = Column('X', pd.DataFrame({'X': range(0, 50)}), 'Numerical')
+
+print(pd.DataFrame({'X': range(0, 50)}).values.flatten().tolist())
+
+"""
+#print(X_col.values.values)
+
 print(mf.calcWeight(viz1, viz2))
+
+print(nodes[:5])
+print(len(gen.getAllPairs(nodes)))

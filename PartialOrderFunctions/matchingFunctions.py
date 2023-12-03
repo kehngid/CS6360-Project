@@ -74,8 +74,8 @@ def lineChartMatch(X, Y, threshold = .9):
 
 def Trend(X, Y, threshold):
     #Testing linear distribution
-    print('From Trend in matching Functions: ', X)
-    print('From Trend in matching Functions: ', Y)
+    #print('From Trend in matching Functions: ', X)
+    #print('From Trend in matching Functions: ', Y)
     corr_matrix = np.corrcoef(X, Y)
     corr = corr_matrix[0,1]
     linear_R_sq = corr**2
@@ -96,13 +96,18 @@ def Trend(X, Y, threshold):
         return True
     
     #Testing exponential distribution
-    corr_matrix = np.corrcoef(np.log10(X), Y)
-    corr = corr_matrix[0,1]
-    exp_R_sq = corr**2
+    try:
+        with np.errstate(divide='ignore', invalid='ignore'):
+            corr_matrix = np.corrcoef(np.log10(X), Y)
+        corr = corr_matrix[0,1]
+        exp_R_sq = corr**2
 
-    if exp_R_sq >= threshold: 
-        #print(exp_R_sq, 'exponential') #DEBUGGING
-        return True
+        if exp_R_sq >= threshold: 
+            #print(exp_R_sq, 'exponential') #DEBUGGING
+            return True
+    except Exception as e:
+        print(f'Error occurred in Trend in matchingFunctions.py: {e}')
+        pass
    
     # If data doesnt have a trend
     return False
@@ -119,10 +124,10 @@ def quality(X, transformed_X_tuples):
 def getFunctionValues(viz):
     # Turning X and Y dataframes to a list bc thats the input the matching functions are looking for
     initX, initY = viz.transform()
-    print("from getFunctionValue: ", initX.values.values)
-    print("from getFunctionValue: ", initY.values.values)
-    X = initX.values.values.tolist()
-    Y = initY.values.values.tolist()
+    #print("from getFunctionValue: ", initX.values.values)
+    #print("from getFunctionValue: ", initY.values.values)
+    X = initX.values.values.flatten().tolist()
+    Y = initY.values.values.flatten().tolist()
     features = viz.getFeatures()
     # Getting matching quality value
     if viz.visualization == 'bar':

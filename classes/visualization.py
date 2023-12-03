@@ -48,8 +48,8 @@ class Visualization:
             result = df
 
         if self.X.type == 'Temporal':
-            data = np.arange(0, len(self.X.values), 1)
-            X_col = Column('X', pd.DataFrame(data), 'Numerical')
+            data = np.arange(0, len(result.loc[:,'X'].values), 1)
+            X_col = Column('X', pd.DataFrame(list(data)), 'Numerical')
         else:
             X_col = Column('X', result.loc[:,'X'], self.X.type)
         Y_col = Column('Y', result.loc[:,'Y'], 'Numerical')
