@@ -7,6 +7,8 @@ from classes.column import Column
 import PartialOrderFunctions.matchingFunctions as mf
 import PartialOrderFunctions.generalFunctions as gen
 
+from partial_order_graph.edges import Edges
+
 # FIRST: Generate Search Space (list of visualization nodes)
 nodes = generateSearchSpace('./data/testing.csv')
 
@@ -55,7 +57,9 @@ print(pd.DataFrame({'X': range(0, 50)}).values.flatten().tolist())
 """
 #print(X_col.values.values)
 
-print(mf.calcWeight(viz1, viz2))
+#print(mf.calcWeight(viz1, viz2))
 
-print(nodes[:5])
-print(len(gen.getAllPairs(nodes)))
+#print(nodes[:5])
+#print(len(gen.getAllPairs(nodes)))
+
+edge_list = gen.makeGraph(nodes)

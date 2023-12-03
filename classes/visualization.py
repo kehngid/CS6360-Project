@@ -25,6 +25,22 @@ class Visualization:
     def __str__(self):
         return f"{self.X.name}, {self.Y.name}, {self.x_transform}, {self.y_transform}, {self.order_by}, {self.visualization}"
 
+    def __eq__(self,other):
+        if self.X.name != other.X.name:
+            return False
+        elif self.Y.name != other.Y.name:
+            return False
+        elif self.x_transform != other.x_transform:
+            return False
+        elif self.y_transform != other.y_transform:
+            return False
+        elif self.visualization != other.visualization:
+            return False
+        elif self.order_by != other.order_by:
+            return False
+        else:
+            return True
+
     def transform(self):
         #dataset = pd.DataFrame({self.X.name: self.X.values, self.Y.name: self.Y.values}, columns=[self.X.name, self.Y.name])
         if self.X.type == 'Temporal':

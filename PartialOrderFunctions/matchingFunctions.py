@@ -64,7 +64,10 @@ def barChartMatch(X, Y):
     
 # Need to implement different types of correlation in the future
 def scatterChartMatch(X,Y):
-    return np.corrcoeff(X,Y)
+    corr_matrix = np.corrcoef(X, Y)
+    corr = corr_matrix[0,1]
+    linear_R_sq = corr**2
+    return linear_R_sq
 
 def lineChartMatch(X, Y, threshold = .9):
     if Trend(X, Y, threshold):
@@ -74,14 +77,14 @@ def lineChartMatch(X, Y, threshold = .9):
 
 def Trend(X, Y, threshold):
     #Testing linear distribution
-    #print('From Trend in matching Functions: ', X)
-    #print('From Trend in matching Functions: ', Y)
+    ##print('From Trend in matching Functions: ', X)
+    ##print('From Trend in matching Functions: ', Y)
     corr_matrix = np.corrcoef(X, Y)
     corr = corr_matrix[0,1]
     linear_R_sq = corr**2
 
     if linear_R_sq >= threshold:   
-        #print(linear_R_sq, 'linear')   #DEBUGGING
+        ##print(linear_R_sq, 'linear')   #DEBUGGING
         return True
     
     #Testing power low distribution
@@ -92,7 +95,7 @@ def Trend(X, Y, threshold):
     log_R_sq = corr**2
 
     if log_R_sq >= threshold: 
-        #print(log_R_sq, 'log') #DEBUGGING
+        ##print(log_R_sq, 'log') #DEBUGGING
         return True
     
     #Testing exponential distribution
@@ -103,10 +106,10 @@ def Trend(X, Y, threshold):
         exp_R_sq = corr**2
 
         if exp_R_sq >= threshold: 
-            #print(exp_R_sq, 'exponential') #DEBUGGING
+            ##print(exp_R_sq, 'exponential') #DEBUGGING
             return True
     except Exception as e:
-        print(f'Error occurred in Trend in matchingFunctions.py: {e}')
+        #print(f'Error occurred in Trend in matchingFunctions.py: {e}')
         pass
    
     # If data doesnt have a trend
@@ -124,8 +127,8 @@ def quality(X, transformed_X_tuples):
 def getFunctionValues(viz):
     # Turning X and Y dataframes to a list bc thats the input the matching functions are looking for
     initX, initY = viz.transform()
-    #print("from getFunctionValue: ", initX.values.values)
-    #print("from getFunctionValue: ", initY.values.values)
+    ##print("from getFunctionValue: ", initX.values.values)
+    ##print("from getFunctionValue: ", initY.values.values)
     X = initX.values.values.flatten().tolist()
     Y = initY.values.values.flatten().tolist()
     features = viz.getFeatures()
@@ -154,8 +157,8 @@ def calcWeight(v: Visualization, u: Visualization):
     mv, qv, wv = getFunctionValues(v)
     mu, qu, wu = getFunctionValues(u)
     
-    print("The mv, qv, and wv values of node v:", mv,qv,wv)
-    print("The mu, qu, and wu values of node u:", mu,qu,wu)
+    #print("The mv, qv, and wv values of node v:", mv,qv,wv)
+    #print("The mu, qu, and wu values of node u:", mu,qu,wu)
 
     weight = (mu - mv + qu - qv + wu - wv)/3
 

@@ -156,11 +156,11 @@ def generateVisualizations(colList):
                 nodeList.append(Visualization(colList[i], colList[j]))
 
     # DEBUGGING (Showing all of the possible pairs)
-    #print("Inital Node List:")
-    #print("Inital Node list length: ", len(nodeList))
+    ##print("Inital Node List:")
+    ##print("Inital Node list length: ", len(nodeList))
     '''
     for i in nodeList:
-        print(i)
+        #print(i)
     '''
 
     # Using rule to prune search space
@@ -170,11 +170,11 @@ def generateVisualizations(colList):
         transformList.extend(transformationRules(node))
     nodeList.extend(transformList)
     #DEBUGGING
-    #print('\nTranformation list:')
-    #print('Number of new nodes: ', len(transformList))
+    ##print('\nTranformation list:')
+    ##print('Number of new nodes: ', len(transformList))
     '''
     for i in transformList:
-        print(i)
+        #print(i)
     '''
 
     # Generating all possible sorting combos
@@ -182,13 +182,13 @@ def generateVisualizations(colList):
     for node in nodeList:
         sortList.extend(sortingRule(node))
     nodeList.extend(sortList)
-    print('Number of new nodes: ', len(sortList))  #DEBUGGING
+    #print('Number of new nodes: ', len(sortList))  #DEBUGGING
 
     # Assigning visualization roles/graph types 
     finalNodeList = []
     for node in nodeList:
         finalNodeList.extend(visualizationRules(node))
-    #print('Number of total nodes with graphs: ', len(finalNodeList))
+    ##print('Number of total nodes with graphs: ', len(finalNodeList))
     
     return finalNodeList
 
@@ -202,7 +202,7 @@ def generateSearchSpace(filename, deliminator = None):
     colList = checkColumnType(colList)
     nodes = generateVisualizations(colList)
 
-    print('\nTotal visualizations length: ', len(nodes))
+    #print('\nTotal visualizations length: ', len(nodes))
     return(nodes)
 
 

@@ -13,7 +13,7 @@ from .column import Column
 # # How to use it:
 # feature_extractor = Features(column_X, column_Y, chart_type)
 # feature_vector = feature_extractor.calculate_features()
-# print(feature_vector)
+# #print(feature_vector)
 
 class Features:
     """
