@@ -12,6 +12,7 @@ from .column import Column
 from .features import Features
 import pandas as pd
 import numpy as np
+import PartialOrderFunctions.matchingFunctions as mf
 
 class Visualization: 
     def __init__(self, X: Column, Y: Column, x_transform = None, y_transform = None, order_by = None, visualization = None):
@@ -21,6 +22,10 @@ class Visualization:
         self.x_transform = x_transform
         self.y_transform = y_transform
         self.order_by = order_by
+        if self.visualization != None:
+            self.weight = self.calcWeight()
+        else:
+            self.weight = None
 
     def __str__(self):
         return f"{self.X.name}, {self.Y.name}, {self.x_transform}, {self.y_transform}, {self.order_by}, {self.visualization}"
@@ -68,6 +73,7 @@ class Visualization:
             X_col = Column('X', pd.DataFrame(list(data)), 'Numerical')
         else:
             X_col = Column('X', result.loc[:,'X'], self.X.type)
+        
         Y_col = Column('Y', result.loc[:,'Y'], 'Numerical')
         return X_col, Y_col
 
@@ -76,3 +82,43 @@ class Visualization:
         X, Y = self.transform()
         return Features(X, Y, self.visualization).calculate_features()
     
+    def getFunctionValues(self):
+        # Turning X and Y dataframes to a list bc thats the input the matching functions are looking for
+        initX, initY = self.transform()
+        ##print("from getFunctionValue: ", initX.type)
+        ##print("from getFunctionValue: ", initY.type)
+        X = initX.values.values.flatten().tolist()
+        Y = initY.values.values.flatten().tolist()
+        features = self.getFeatures()
+        # Getting matching quality value
+        if self.visualization == 'bar':
+            mv = mf.barChartMatch(X, Y)
+        elif self.visualization == 'pie':
+            mv = mf.pieChartMatch(X, Y, self.y_transform)
+        elif self.visualization == 'line':
+            mv = mf.lineChartMatch(X, Y)
+        elif self.visualization == 'scatter':
+            mv = mf.scatterChartMatch(X, Y)
+        else:
+            mv = 0
+
+        # Getting transformation quality value
+        qv = mf.quality(X, features[1])
+
+        # Getting the importance of columns
+        wv = 0
+
+        return mv, qv, wv
+    
+    def calcWeight(self):
+        #print(self)
+        mv, qv, wv = self.getFunctionValues()
+        return (mv + qv + wv)
+    
+class IterableVisualization:
+    def __init__(self, data):
+        self.data = data
+
+    def __iter__(self):
+        # This method should return an iterator object
+        return iter(self.data)

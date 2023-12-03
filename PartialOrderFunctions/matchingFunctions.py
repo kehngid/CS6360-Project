@@ -15,7 +15,6 @@ Y column data
 '''
 
 import numpy as np
-from classes.visualization import Visualization
 
 # MATCHING FUNCTIONS
 # Py(Y): calculates the probability of a elem of Y occuring in Y
@@ -124,6 +123,7 @@ def quality(X, transformed_X_tuples):
 # COLUMN IMPORTANCE 
     # will implement at future date, requires use of Search Space metadata 
 
+"""
 def getFunctionValues(viz):
     # Turning X and Y dataframes to a list bc thats the input the matching functions are looking for
     initX, initY = viz.transform()
@@ -151,8 +151,9 @@ def getFunctionValues(viz):
     wv = 0
 
     return mv, qv, wv
+"""
     
-
+"""
 def calcWeight(v: Visualization, u: Visualization):
     mv, qv, wv = getFunctionValues(v)
     mu, qu, wu = getFunctionValues(u)
@@ -163,3 +164,4 @@ def calcWeight(v: Visualization, u: Visualization):
     weight = (mu - mv + qu - qv + wu - wv)/3
 
     return(weight)
+"""

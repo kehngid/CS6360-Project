@@ -15,7 +15,6 @@ class Edges:
         mv, qv, wv = mf.getFunctionValues(self.v)
         mu, qu, wu = mf.getFunctionValues(self.u)
         
-        
         #print("The mv, qv, and wv values of node v:", mv,qv,wv)
         #print("The mu, qu, and wu values of node u:", mu,qu,wu)
 

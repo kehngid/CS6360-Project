@@ -22,4 +22,9 @@ def makeGraph(nodeList):
 
     print("Amount of edges before:", len(allPairs))
     print("Amount of edges after:", len(edges))
+
+
     return edges
+
+def makeTree():
+    return 0
