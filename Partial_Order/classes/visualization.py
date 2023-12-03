@@ -28,7 +28,7 @@ class Visualization:
             self.weight = None
 
     def __str__(self):
-        return f"{self.X.name}, {self.Y.name}, {self.x_transform}, {self.y_transform}, {self.order_by}, {self.visualization}"
+        return f"{self.X.name}, {self.Y.name}, {self.x_transform}, {self.y_transform}, {self.order_by}, {self.visualization}, { self.weight }"
 
     def __eq__(self,other):
         if self.X.name != other.X.name:
