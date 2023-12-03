@@ -25,9 +25,18 @@ class Visualization:
         return f"{self.X.name}, {self.Y.name}, {self.x_transform}, {self.y_transform}, {self.order_by}, {self.visualization}"
 
     def transform(self):
-        dataset = pd.DataFrame({self.X.name: self.X.values, self.Y.name: self.Y.values}, columns=[self.X.name, self.Y.name])
+        #dataset = pd.DataFrame({self.X.name: self.X.values, self.Y.name: self.Y.values}, columns=[self.X.name, self.Y.name])
+        data = {'X': self.X.values, 'Y': self.Y.values}
+        df = pd.DataFrame(data)
         if  self.x_transform == 'group':
-            X = self.X
+            if self.y_transform == 'avg':
+                result = df.groupby('X')['Y'].mean().reset_index()
+            elif self.y_transform == 'sum':
+                result = df.groupby('X')['Y'].sum().reset_index()
+            elif self.y_transfrom == 'cnt':
+                result = df.groupby('X')['Y'].count().reset_index()
+            else:
+                result = df.groupby('X').reset_index()
         elif self.x_transform == 'bin':
             X = self.X
         else:
