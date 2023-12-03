@@ -11,6 +11,7 @@ order_by = any order on X or Y (possible values include X', Y', or null)
 from .column import Column
 from .features import Features
 import pandas as pd
+import numpy as np
 
 class Visualization: 
     def __init__(self, X: Column, Y: Column, x_transform = None, y_transform = None, order_by = None, visualization = None):
@@ -26,27 +27,36 @@ class Visualization:
 
     def transform(self):
         #dataset = pd.DataFrame({self.X.name: self.X.values, self.Y.name: self.Y.values}, columns=[self.X.name, self.Y.name])
-        data = {'X': self.X.values, 'Y': self.Y.values}
+        if self.X.type == 'Temporal':
+            initX = self.X.values.sort_values(ascending=False).reset_index(drop=True)
+        else:
+            initX = self.X.values
+        data = {'X': initX, 'Y': self.Y.values}
         df = pd.DataFrame(data)
         if  self.x_transform == 'group':
             if self.y_transform == 'avg':
                 result = df.groupby('X')['Y'].mean().reset_index()
             elif self.y_transform == 'sum':
                 result = df.groupby('X')['Y'].sum().reset_index()
-            elif self.y_transfrom == 'cnt':
+            elif self.y_transform == 'cnt':
                 result = df.groupby('X')['Y'].count().reset_index()
             else:
                 result = df.groupby('X').reset_index()
         elif self.x_transform == 'bin':
-            X = self.X
+            result = df
         else:
-            X = self.X
+            result = df
 
-        
-        Y = self.Y
-        return X, Y
+        if self.X.type == 'Temporal':
+            data = np.arange(0, len(self.X.values), 1)
+            X_col = Column('X', pd.DataFrame(data), 'Numerical')
+        else:
+            X_col = Column('X', result.loc[:,'X'], self.X.type)
+        Y_col = Column('Y', result.loc[:,'Y'], 'Numerical')
+        return X_col, Y_col
 
     # Ideally will connect to Feature class a be able to retrive features
     def getFeatures(self):
-        return Features(self.X, self.Y, self.visualization).calculate_features()
+        X, Y = self.transform()
+        return Features(X, Y, self.visualization).calculate_features()
     

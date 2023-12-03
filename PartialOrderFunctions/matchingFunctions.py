@@ -74,6 +74,8 @@ def lineChartMatch(X, Y, threshold = .9):
 
 def Trend(X, Y, threshold):
     #Testing linear distribution
+    print('From Trend in matching Functions: ', X)
+    print('From Trend in matching Functions: ', Y)
     corr_matrix = np.corrcoef(X, Y)
     corr = corr_matrix[0,1]
     linear_R_sq = corr**2
@@ -104,29 +106,52 @@ def Trend(X, Y, threshold):
    
     # If data doesnt have a trend
     return False
+    
 
 # QUALITY FUNCTIONS 
-def quality(X, Y):
-    return 0
+def quality(X, transformed_X_tuples):
+    q = 1 - (transformed_X_tuples / len(X))
+    return q
+
+# COLUMN IMPORTANCE 
+    # will implement at future date, requires use of Search Space metadata 
 
 def getFunctionValues(viz):
+    # Turning X and Y dataframes to a list bc thats the input the matching functions are looking for
+    initX, initY = viz.transform()
+    print("from getFunctionValue: ", initX.values.values)
+    print("from getFunctionValue: ", initY.values.values)
+    X = initX.values.values.tolist()
+    Y = initY.values.values.tolist()
+    features = viz.getFeatures()
     # Getting matching quality value
-    if viz.visualiztion == 'bar':
-        mv = barChartMatch(viz.X, viz.Y)
-    elif viz.visualiztion == 'pie':
-        mv = pieChartMatch(viz.X, viz.Y, viz.y_transform)
-    elif viz.visalization == 'line':
-        mv = lineChartMatch(viz.X, viz.Y)
+    if viz.visualization == 'bar':
+        mv = barChartMatch(X, Y)
+    elif viz.visualization == 'pie':
+        mv = pieChartMatch(X, Y, viz.y_transform)
+    elif viz.visualization == 'line':
+        mv = lineChartMatch(X, Y)
     elif viz.visualization == 'scatter':
-        mv = scatterChartMatch(viz.X, viz.Y)
+        mv = scatterChartMatch(X, Y)
     else:
         mv = 0
 
-    # Geting transformation quality value
+    # Getting transformation quality value
+    qv = quality(X, features[1])
 
+    # Getting the importance of columns
+    wv = 0
+
+    return mv, qv, wv
     
 
 def calcWeight(v: Visualization, u: Visualization):
     mv, qv, wv = getFunctionValues(v)
     mu, qu, wu = getFunctionValues(u)
     
+    print("The mv, qv, and wv values of node v:", mv,qv,wv)
+    print("The mu, qu, and wu values of node u:", mu,qu,wu)
+
+    weight = (mu - mv + qu - qv + wu - wv)/3
+
+    return(weight)

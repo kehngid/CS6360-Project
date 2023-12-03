@@ -101,21 +101,21 @@ class Features:
         """
         Calculate the correlation between two columns.
         """
-        if not column_x or not column_y:
+        if len(column_x.values) == 0 or len(column_y.values) == 0:
             return 0  # If any of the columns is empty, return 0
 
-        data1 = column_x
-        data2 = column_y
+        data1 = column_x.values
+        data2 = column_y.values
         log_data1 = log_data2 = []
 
         # Check if the columns are categorical. If true, return 0.
-        if self.get_column_type(column_x) == 'Categorical' or self.get_column_type(column_y) == 'Categorical':
+        if self.x_col_type == 'Categorical' or self.y_col_type == 'Categorical':
             return 0
 
         # Check if the columns have positive values for logarithmic transformations
-        if self.get_column_type(column_x) != 'Temporal' and min(column_x) > 0:
+        if self.x_col_type != 'Temporal' and min(column_x) > 0:
             log_data1 = list(map(math.log, data1))
-        if self.get_column_type(column_y) != 'Temporal' and min(column_y) > 0:
+        if self.y_col_type != 'Temporal' and min(column_y) > 0:
             log_data2 = list(map(math.log, data2))
 
 
