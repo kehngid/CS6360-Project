@@ -16,6 +16,7 @@ Y column data
 
 import numpy as np
 
+# MATCHING FUNCTIONS
 # Py(Y): calculates the probability of a elem of Y occuring in Y
 # Input: column 
 # Output: Dictionary of values and probabilities
@@ -33,7 +34,7 @@ def Py(Y):
 # pieChartMatch: 
 
 def pieChartMatch(X, Y, transY = None):
-    if transY == 'AVG':
+    if transY == 'avg':
         return 0
     if len(set(X)) == 1:    # Number of distinct values is 1
         return 0        
@@ -60,10 +61,12 @@ def barChartMatch(X, Y):
     elif len(set(X)):
         return (20/len(set(X)))
     
-
 # Need to implement different types of correlation in the future
 def scatterChartMatch(X,Y):
-    return np.corrcoeff(X,Y)
+    corr_matrix = np.corrcoef(X, Y)
+    corr = corr_matrix[0,1]
+    linear_R_sq = corr**2
+    return linear_R_sq
 
 def lineChartMatch(X, Y, threshold = .9):
     if Trend(X, Y, threshold):
@@ -73,12 +76,14 @@ def lineChartMatch(X, Y, threshold = .9):
 
 def Trend(X, Y, threshold):
     #Testing linear distribution
+    ##print('From Trend in matching Functions: ', X)
+    ##print('From Trend in matching Functions: ', Y)
     corr_matrix = np.corrcoef(X, Y)
     corr = corr_matrix[0,1]
     linear_R_sq = corr**2
 
     if linear_R_sq >= threshold:   
-        #print(linear_R_sq, 'linear')   #DEBUGGING
+        ##print(linear_R_sq, 'linear')   #DEBUGGING
         return True
     
     #Testing power low distribution
@@ -89,18 +94,32 @@ def Trend(X, Y, threshold):
     log_R_sq = corr**2
 
     if log_R_sq >= threshold: 
-        #print(log_R_sq, 'log') #DEBUGGING
+        ##print(log_R_sq, 'log') #DEBUGGING
         return True
     
     #Testing exponential distribution
-    corr_matrix = np.corrcoef(np.log10(X), Y)
-    corr = corr_matrix[0,1]
-    exp_R_sq = corr**2
+    try:
+        with np.errstate(divide='ignore', invalid='ignore'):
+            corr_matrix = np.corrcoef(np.log10(X), Y)
+        corr = corr_matrix[0,1]
+        exp_R_sq = corr**2
 
-    if exp_R_sq >= threshold: 
-        #print(exp_R_sq, 'exponential') #DEBUGGING
-        return True
+        if exp_R_sq >= threshold: 
+            ##print(exp_R_sq, 'exponential') #DEBUGGING
+            return True
+    except Exception as e:
+        #print(f'Error occurred in Trend in matchingFunctions.py: {e}')
+        pass
    
     # If data doesnt have a trend
     return False
+    
+
+# QUALITY FUNCTIONS 
+def quality(X, transformed_X_tuples):
+    q = 1 - (transformed_X_tuples / len(X))
+    return q
+
+# COLUMN IMPORTANCE 
+    # will implement at future date, requires use of Search Space metadata 
 

@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import math
 
+from .column import Column
+
 # # Example usage:
 # # Prepare input data:
 # column_X = [1, 2, 3, 4, 5]
@@ -11,7 +13,7 @@ import math
 # # How to use it:
 # feature_extractor = Features(column_X, column_Y, chart_type)
 # feature_vector = feature_extractor.calculate_features()
-# print(feature_vector)
+# #print(feature_vector)
 
 class Features:
     """
@@ -41,30 +43,38 @@ class Features:
                 the visualization type
             ]
     """
-    def __init__(self, x: list, y: list, chart_type):
+    # Modifed Features to take 2 Column objects which contain name: str, values: list of values, and type: str
+    def __init__(self, x: Column, y: Column, chart_type):
         self.x = x
         self.y = y
+        # Jason added
+        self.x_col_type = x.type
+        self.y_col_type = y.type
         self.chart_type = chart_type
 
     def calculate_features(self):
+        
+        x = self.x.values
+        y = self.y.values
+
         # Features for column X
-        d_x = len(set(self.x))
-        len_x = len(self.x)
+        d_x = len(set(x))
+        len_x = len(x)
         r_x = d_x / len_x if len_x > 0 else 0
-        max_x = max(self.x) if len_x > 0 else None
-        min_x = min(self.x) if len_x > 0 else None
-        T_x = self.get_column_type(self.x)
+        max_x = max(x) if len_x > 0 else None
+        min_x = min(x) if len_x > 0 else None
+        T_x = self.x_col_type #self.get_column_type(self.x)
 
         # Features for column Y
-        d_y = len(set(self.y))
-        len_y = len(self.y)
+        d_y = len(set(y))
+        len_y = len(y)
         r_y = d_y / len_y if len_y > 0 else 0
-        max_y = max(self.y) if len_y > 0 else None
-        min_y = min(self.y) if len_y > 0 else None
-        T_y = self.get_column_type(self.y)
+        max_y = max(y) if len_y > 0 else None
+        min_y = min(y) if len_y > 0 else None
+        T_y = self.y_col_type #self.get_column_type(self.y)
 
         # Correlation between X and Y
-        correlation_x_y = self.calculate_correlation(self.x, self.y)
+        correlation_x_y = self.calculate_correlation(x, y)
 
         # Create the feature vector
         feature_vector = [
@@ -91,21 +101,21 @@ class Features:
         """
         Calculate the correlation between two columns.
         """
-        if not column_x or not column_y:
+        if len(column_x.values) == 0 or len(column_y.values) == 0:
             return 0  # If any of the columns is empty, return 0
 
-        data1 = column_x
-        data2 = column_y
+        data1 = column_x.values
+        data2 = column_y.values
         log_data1 = log_data2 = []
 
         # Check if the columns are categorical. If true, return 0.
-        if self.get_column_type(column_x) == 'Categorical' or self.get_column_type(column_y) == 'Categorical':
+        if self.x_col_type == 'Categorical' or self.y_col_type == 'Categorical':
             return 0
 
         # Check if the columns have positive values for logarithmic transformations
-        if self.get_column_type(column_x) != 'Temporal' and min(column_x) > 0:
+        if self.x_col_type != 'Temporal' and min(column_x) > 0:
             log_data1 = list(map(math.log, data1))
-        if self.get_column_type(column_y) != 'Temporal' and min(column_y) > 0:
+        if self.y_col_type != 'Temporal' and min(column_y) > 0:
             log_data2 = list(map(math.log, data2))
 
 
