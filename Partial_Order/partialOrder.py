@@ -8,6 +8,7 @@ import Partial_Order.Functions.graph as graph
 def write_list_to_file(file_path, my_list):
     try:
         with open(file_path, 'w') as file:
+            file.write('X,Y,x_transform,y_transform,orderby,visualization,node_info')
             for item in my_list:
                 file.write(str(item) + '\n')
         print(f"Elements written to {file_path} successfully.")

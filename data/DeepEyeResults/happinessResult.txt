@@ -1,11 +1,11 @@
-X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
-Happiness Score, Lower Confidence Interval, , , , scatter
-Region, Happiness Rank, sum(Happiness Rank), groupby(Region), , bar
-Region, Region, cnt(Region), groupby(Region), , bar
-Region, Dytopia Residual, sum(Dystopia Residual), groupby(Region), , bar
-Region, Trust (Government Corruption), sum(Trust (Government Corruption)), groupby(Region), , bar
-Region, Generosity, sum(Generosity), groupby(Region), , bar
-Region, Health (Life Expectancy), sum(Health (Life Expectancy)), groupby(Region), , bar
-Region, Happiness Rank, avg(Happiness Rank), groupby(Region), , bar
-Region, Freedom, sum(Freedom), groupby(Region), , bar
-Region, Economy (GOP per Capital), sum(Economy (GDP per Capita)), groupby(Region), , bar
+X,Y,AGG,GROUP_BY,BIN,VISUALIZATION
+HappinessScore,LowerConfidenceInterval,,,,scatter
+Region,HappinessRank,sum(HappinessRank),groupby(Region),,bar
+Region,Region,cnt(Region),groupby(Region),,bar
+Region,DytopiaResidual,sum(DystopiaResidual),groupby(Region),,bar
+Region,Trust(GovernmentCorruption),sum(Trust(GovernmentCorruption)),groupby(Region),,bar
+Region,Generosity,sum(Generosity),groupby(Region),,bar
+Region,Health(LifeExpectancy),sum(Health(LifeExpectancy)),groupby(Region),,bar
+Region,HappinessRank,avg(HappinessRank),groupby(Region),,bar
+Region,Freedom,sum(Freedom),groupby(Region),,bar
+Region,Economy(GOPperCapital),sum(Economy(GDPperCapita)),groupby(Region),,bar

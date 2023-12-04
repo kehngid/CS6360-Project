@@ -1,270 +1,271 @@
-Node: Europe, 3, None, None, None, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Men, 3, None, None, None, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Bronze, 3, None, None, None, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Europe, 3, None, None, orderY, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Men, 3, None, None, orderY, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Bronze, 3, None, None, orderY, pie, 1.4414229143941335 Score: 113374050425501.11 Less Than: 264
-Node: Greece, 3, None, None, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, None, None, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, None, None, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, None, None, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, None, None, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 1896-04-06, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Athens, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Europe, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Aquatics, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Men, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Bronze, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, avg, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, sum, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 1896-04-06, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Athens, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Greece, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Aquatics, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Men, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Bronze, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, avg, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, sum, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 1896-04-06, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Athens, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Greece, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Europe, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Men, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Bronze, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, avg, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, sum, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 1896-04-06, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Athens, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Greece, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Europe, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Aquatics, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Bronze, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, avg, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, sum, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 1896-04-06, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Athens, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Greece, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Europe, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Aquatics, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Men, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, avg, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, sum, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, cnt, None, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, None, None, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, None, None, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, None, None, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, None, None, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, None, None, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 1896-04-06, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Athens, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Europe, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Aquatics, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Men, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, Bronze, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, avg, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, sum, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Greece, 3, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 1896-04-06, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Athens, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Greece, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Aquatics, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Men, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, Bronze, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, avg, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, sum, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Europe, 3, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 1896-04-06, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Athens, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Greece, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Europe, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Men, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, Bronze, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, avg, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, sum, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Aquatics, 3, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 1896-04-06, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Athens, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Greece, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Europe, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Aquatics, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, Bronze, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, avg, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, sum, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Men, 3, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 1896-04-06, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Athens, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Greece, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Europe, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Aquatics, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, Men, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, avg, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, sum, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Bronze, 3, group, cnt, orderY, bar, 1.0 Score: 1122515350747.1482 Less Than: 164
-Node: Athens, 3, None, None, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 1896-04-06, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Greece, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Europe, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Aquatics, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Men, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Bronze, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, avg, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, sum, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, cnt, None, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, None, None, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 1896-04-06, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Greece, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Europe, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Aquatics, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Men, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, Bronze, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, avg, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, sum, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Athens, 3, group, cnt, orderY, bar, 0.9090909090909091 Score: 53453111940.10373 Less Than: 144
-Node: Greece, 3, None, None, None, pie, 0.9008893214963334 Score: 17817703979.903328 Less Than: 142
-Node: Greece, 3, None, None, orderY, pie, 0.9008893214963334 Score: 17817703979.903328 Less Than: 142
-Node: Aquatics, 3, None, None, None, pie, 0.8007905079967409 Score: 5939234658.388434 Less Than: 140
-Node: Aquatics, 3, None, None, orderY, pie, 0.8007905079967409 Score: 5939234658.388434 Less Than: 140
-Node: Greece, 3, group, sum, None, pie, 0.752574989159953 Score: 1979744885.3794603 Less Than: 138
-Node: Greece, 3, group, sum, orderY, pie, 0.752574989159953 Score: 1979744885.3794603 Less Than: 138
-Node: Greece, 1896-04-06, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Athens, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Europe, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Aquatics, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Men, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Bronze, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, 3, group, cnt, None, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, 1896-04-06, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Athens, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Europe, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Aquatics, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Men, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, Bronze, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Greece, 3, group, cnt, orderY, pie, 0.7290570207487045 Score: 131982992.2865088 Less Than: 124
-Node: Aquatics, 3, group, sum, None, pie, 0.6973736139462814 Score: 43994330.3256427 Less Than: 122
-Node: Aquatics, 3, group, sum, orderY, pie, 0.6973736139462814 Score: 43994330.3256427 Less Than: 122
-Node: Aquatics, 1896-04-06, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Athens, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Greece, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Europe, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Men, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Bronze, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, 3, group, cnt, None, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, 1896-04-06, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Athens, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Greece, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Europe, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Men, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, Bronze, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Aquatics, 3, group, cnt, orderY, pie, 0.660209416950728 Score: 2932955.2542865793 Less Than: 108
-Node: Athens, 3, None, None, None, pie, 0.6551922338155152 Score: 977651.691222664 Less Than: 106
-Node: Athens, 3, None, None, orderY, pie, 0.6551922338155152 Score: 977651.691222664 Less Than: 106
-Node: Europe, 1896-04-06, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Athens, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Greece, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Aquatics, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Men, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Bronze, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, 3, group, sum, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, 3, group, cnt, None, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, 1896-04-06, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Athens, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Greece, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Aquatics, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Men, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, Bronze, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, 3, group, sum, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Europe, 3, group, cnt, orderY, pie, 0.6020599913279624 Score: 57508.81258137816 Less Than: 90
-Node: Athens, 3, group, sum, None, pie, 0.5977528716272847 Score: 19169.56112259571 Less Than: 88
-Node: Athens, 3, group, sum, orderY, pie, 0.5977528716272847 Score: 19169.56112259571 Less Than: 88
-Node: Athens, 1896-04-06, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Greece, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Europe, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Aquatics, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Men, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Bronze, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, 3, group, cnt, None, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, 1896-04-06, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Greece, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Europe, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Aquatics, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Men, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, Bronze, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Athens, 3, group, cnt, orderY, pie, 0.5604351035697663 Score: 1277.8977645377372 Less Than: 74
-Node: Bronze, 1896-04-06, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Athens, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Greece, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Europe, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Aquatics, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Men, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, 3, group, sum, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, 3, group, cnt, None, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, 1896-04-06, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Athens, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Greece, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Europe, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Aquatics, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, Men, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, 3, group, sum, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Bronze, 3, group, cnt, orderY, pie, 0.4771212547196624 Score: 75.04956997643741 Less Than: 58
-Node: Men, 1896-04-06, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Athens, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Greece, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Europe, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Aquatics, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Bronze, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, 3, group, sum, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, 3, group, cnt, None, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, 1896-04-06, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Athens, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Greece, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Europe, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Aquatics, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, Bronze, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, 3, group, sum, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: Men, 3, group, cnt, orderY, pie, 0.3010299956639812 Score: 4.214419939295736 Less Than: 42
-Node: 1896-04-06, 3, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Athens, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Greece, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Europe, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Aquatics, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Men, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Bronze, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, avg, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, sum, None, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: Athens, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Greece, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Europe, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Aquatics, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Men, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Bronze, 3, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Athens, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Athens, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Greece, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Greece, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Europe, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Europe, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Aquatics, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Aquatics, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Men, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Men, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Bronze, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, Bronze, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, avg, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, avg, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, sum, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, sum, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: 1896-04-06, 3, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: Athens, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Greece, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Europe, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Aquatics, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Men, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Bronze, 3, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
+X,Y,x_transform,y_transform,orderby,visualization,node_info
+Europe,3,None,None,None,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Men,3,None,None,None,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Bronze,3,None,None,None,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Europe,3,None,None,orderY,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Men,3,None,None,orderY,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Bronze,3,None,None,orderY,pie,1.4414229143941335Score:113374050425501.11LessThan:264
+Greece,3,None,None,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,None,None,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,None,None,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,None,None,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,None,None,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,1896-04-06,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Athens,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Europe,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Aquatics,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Men,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Bronze,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,avg,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,sum,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,1896-04-06,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Athens,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Greece,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Aquatics,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Men,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Bronze,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,avg,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,sum,None,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,1896-04-06,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Athens,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Greece,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Europe,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Men,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Bronze,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,avg,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,sum,None,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,1896-04-06,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Athens,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Greece,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Europe,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Aquatics,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Bronze,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,avg,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,sum,None,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,1896-04-06,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Athens,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Greece,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Europe,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Aquatics,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Men,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,avg,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,sum,None,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,cnt,None,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,None,None,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,None,None,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,None,None,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,None,None,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,None,None,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,1896-04-06,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Athens,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Europe,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Aquatics,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Men,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,Bronze,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,avg,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,sum,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Greece,3,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,1896-04-06,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Athens,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Greece,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Aquatics,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Men,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,Bronze,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,avg,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,sum,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Europe,3,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,1896-04-06,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Athens,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Greece,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Europe,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Men,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,Bronze,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,avg,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,sum,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Aquatics,3,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,1896-04-06,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Athens,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Greece,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Europe,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Aquatics,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,Bronze,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,avg,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,sum,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Men,3,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,1896-04-06,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Athens,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Greece,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Europe,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Aquatics,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,Men,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,avg,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,sum,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Bronze,3,group,cnt,orderY,bar,1.0Score:1122515350747.1482LessThan:164
+Athens,3,None,None,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,1896-04-06,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Greece,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Europe,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Aquatics,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Men,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Bronze,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,avg,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,sum,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,cnt,None,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,None,None,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,1896-04-06,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Greece,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Europe,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Aquatics,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Men,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,Bronze,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,avg,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,sum,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Athens,3,group,cnt,orderY,bar,0.9090909090909091Score:53453111940.10373LessThan:144
+Greece,3,None,None,None,pie,0.9008893214963334Score:17817703979.903328LessThan:142
+Greece,3,None,None,orderY,pie,0.9008893214963334Score:17817703979.903328LessThan:142
+Aquatics,3,None,None,None,pie,0.8007905079967409Score:5939234658.388434LessThan:140
+Aquatics,3,None,None,orderY,pie,0.8007905079967409Score:5939234658.388434LessThan:140
+Greece,3,group,sum,None,pie,0.752574989159953Score:1979744885.3794603LessThan:138
+Greece,3,group,sum,orderY,pie,0.752574989159953Score:1979744885.3794603LessThan:138
+Greece,1896-04-06,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Athens,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Europe,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Aquatics,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Men,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Bronze,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,3,group,cnt,None,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,1896-04-06,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Athens,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Europe,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Aquatics,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Men,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,Bronze,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Greece,3,group,cnt,orderY,pie,0.7290570207487045Score:131982992.2865088LessThan:124
+Aquatics,3,group,sum,None,pie,0.6973736139462814Score:43994330.3256427LessThan:122
+Aquatics,3,group,sum,orderY,pie,0.6973736139462814Score:43994330.3256427LessThan:122
+Aquatics,1896-04-06,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Athens,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Greece,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Europe,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Men,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Bronze,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,3,group,cnt,None,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,1896-04-06,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Athens,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Greece,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Europe,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Men,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,Bronze,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Aquatics,3,group,cnt,orderY,pie,0.660209416950728Score:2932955.2542865793LessThan:108
+Athens,3,None,None,None,pie,0.6551922338155152Score:977651.691222664LessThan:106
+Athens,3,None,None,orderY,pie,0.6551922338155152Score:977651.691222664LessThan:106
+Europe,1896-04-06,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Athens,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Greece,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Aquatics,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Men,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Bronze,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,3,group,sum,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,3,group,cnt,None,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,1896-04-06,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Athens,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Greece,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Aquatics,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Men,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,Bronze,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,3,group,sum,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Europe,3,group,cnt,orderY,pie,0.6020599913279624Score:57508.81258137816LessThan:90
+Athens,3,group,sum,None,pie,0.5977528716272847Score:19169.56112259571LessThan:88
+Athens,3,group,sum,orderY,pie,0.5977528716272847Score:19169.56112259571LessThan:88
+Athens,1896-04-06,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Greece,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Europe,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Aquatics,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Men,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Bronze,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,3,group,cnt,None,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,1896-04-06,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Greece,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Europe,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Aquatics,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Men,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,Bronze,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Athens,3,group,cnt,orderY,pie,0.5604351035697663Score:1277.8977645377372LessThan:74
+Bronze,1896-04-06,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Athens,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Greece,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Europe,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Aquatics,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Men,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,3,group,sum,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,3,group,cnt,None,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,1896-04-06,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Athens,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Greece,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Europe,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Aquatics,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,Men,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,3,group,sum,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Bronze,3,group,cnt,orderY,pie,0.4771212547196624Score:75.04956997643741LessThan:58
+Men,1896-04-06,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Athens,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Greece,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Europe,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Aquatics,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Bronze,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,3,group,sum,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,3,group,cnt,None,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,1896-04-06,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Athens,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Greece,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Europe,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Aquatics,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,Bronze,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,3,group,sum,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+Men,3,group,cnt,orderY,pie,0.3010299956639812Score:4.214419939295736LessThan:42
+1896-04-06,3,None,None,None,line,0.0Score:0LessThan:0
+1896-04-06,Athens,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,Greece,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,Europe,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,Aquatics,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,Men,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,Bronze,group,cnt,None,line,0.0Score:0LessThan:0
+1896-04-06,3,group,avg,None,line,0.0Score:0LessThan:0
+1896-04-06,3,group,sum,None,line,0.0Score:0LessThan:0
+1896-04-06,3,group,cnt,None,line,0.0Score:0LessThan:0
+Athens,3,group,avg,None,pie,0.0Score:0LessThan:0
+Greece,3,group,avg,None,pie,0.0Score:0LessThan:0
+Europe,3,group,avg,None,pie,0.0Score:0LessThan:0
+Aquatics,3,group,avg,None,pie,0.0Score:0LessThan:0
+Men,3,group,avg,None,pie,0.0Score:0LessThan:0
+Bronze,3,group,avg,None,pie,0.0Score:0LessThan:0
+1896-04-06,3,None,None,orderX,line,0.0Score:0LessThan:0
+1896-04-06,3,None,None,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Athens,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Athens,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Greece,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Greece,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Europe,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Europe,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Aquatics,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Aquatics,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Men,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Men,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,Bronze,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,Bronze,group,cnt,orderY,line,0.0Score:0LessThan:0
+1896-04-06,3,group,avg,orderX,line,0.0Score:0LessThan:0
+1896-04-06,3,group,avg,orderY,line,0.0Score:0LessThan:0
+1896-04-06,3,group,sum,orderX,line,0.0Score:0LessThan:0
+1896-04-06,3,group,sum,orderY,line,0.0Score:0LessThan:0
+1896-04-06,3,group,cnt,orderX,line,0.0Score:0LessThan:0
+1896-04-06,3,group,cnt,orderY,line,0.0Score:0LessThan:0
+Athens,3,group,avg,orderY,pie,0.0Score:0LessThan:0
+Greece,3,group,avg,orderY,pie,0.0Score:0LessThan:0
+Europe,3,group,avg,orderY,pie,0.0Score:0LessThan:0
+Aquatics,3,group,avg,orderY,pie,0.0Score:0LessThan:0
+Men,3,group,avg,orderY,pie,0.0Score:0LessThan:0
+Bronze,3,group,avg,orderY,pie,0.0Score:0LessThan:0

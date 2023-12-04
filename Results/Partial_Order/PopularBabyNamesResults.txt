@@ -1,183 +1,184 @@
-Node: gender, rank, None, None, None, pie, 1.9673036076509567 Score: 7790894249.405605 Less Than: 179
-Node: ethnicity, rank, None, None, None, pie, 1.9673036076509567 Score: 7790894249.405605 Less Than: 179
-Node: gender, rank, None, None, orderY, pie, 1.9673036076509567 Score: 7790894249.405605 Less Than: 179
-Node: ethnicity, rank, None, None, orderY, pie, 1.9673036076509567 Score: 7790894249.405605 Less Than: 179
-Node: gender, number, None, None, None, pie, 1.7614419054497317 Score: 1558178847.4245071 Less Than: 175
-Node: ethnicity, number, None, None, None, pie, 1.7614419054497317 Score: 1558178847.4245071 Less Than: 175
-Node: gender, number, None, None, orderY, pie, 1.7614419054497317 Score: 1558178847.4245071 Less Than: 175
-Node: ethnicity, number, None, None, orderY, pie, 1.7614419054497317 Score: 1558178847.4245071 Less Than: 175
-Node: gender, number, None, None, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, None, None, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, None, None, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, None, None, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, number, group, avg, None, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, rank, group, avg, None, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, birth_year, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, ethnicity, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, name, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, avg, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, sum, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, avg, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, sum, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, birth_year, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, gender, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, name, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, avg, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, sum, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, avg, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, sum, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, cnt, None, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, None, None, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, None, None, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, None, None, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, None, None, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, number, group, avg, orderX, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, number, group, avg, orderY, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, rank, group, avg, orderX, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: birth_year, rank, group, avg, orderY, line, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, birth_year, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, ethnicity, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, name, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, avg, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, sum, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, number, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, avg, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, sum, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: gender, rank, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, birth_year, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, gender, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, name, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, avg, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, sum, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, number, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, avg, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, sum, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, rank, group, cnt, orderY, bar, 1.0 Score: 30552525.549158037 Less Than: 125
-Node: ethnicity, birth_year, group, cnt, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, gender, group, cnt, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, name, group, cnt, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, number, group, sum, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, number, group, cnt, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, rank, group, sum, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, rank, group, cnt, None, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, birth_year, group, cnt, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, gender, group, cnt, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, name, group, cnt, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, number, group, sum, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, number, group, cnt, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, rank, group, sum, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: ethnicity, rank, group, cnt, orderY, pie, 0.8450980400142568 Score: 2036834.606327312 Less Than: 111
-Node: number, rank, None, None, None, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: rank, number, None, None, None, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: number, rank, None, None, orderX, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: number, rank, None, None, orderY, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: rank, number, None, None, orderX, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: rank, number, None, None, orderY, scatter, 0.37128896634037295 Score: 290973.8679130836 Less Than: 105
-Node: gender, birth_year, group, cnt, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, ethnicity, group, cnt, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, name, group, cnt, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, number, group, sum, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, number, group, cnt, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, rank, group, sum, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, rank, group, cnt, None, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, birth_year, group, cnt, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, ethnicity, group, cnt, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, name, group, cnt, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, number, group, sum, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, number, group, cnt, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, rank, group, sum, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: gender, rank, group, cnt, orderY, pie, 0.3010299956639812 Score: 19398.09392327399 Less Than: 91
-Node: rank, number, None, None, None, bar, 0.19607843137254902 Score: 4848.727598122622 Less Than: 88
-Node: rank, number, None, None, orderX, bar, 0.19607843137254902 Score: 4848.727598122622 Less Than: 88
-Node: rank, number, None, None, orderY, bar, 0.19607843137254902 Score: 4848.727598122622 Less Than: 88
-Node: number, rank, None, None, None, bar, 0.07751937984496124 Score: 1211.3124664861214 Less Than: 85
-Node: number, rank, None, None, orderX, bar, 0.07751937984496124 Score: 1211.3124664861214 Less Than: 85
-Node: number, rank, None, None, orderY, bar, 0.07751937984496124 Score: 1211.3124664861214 Less Than: 85
-Node: name, rank, group, sum, None, pie, 0.009706116532943041 Score: 403.1303635640936 Less Than: 83
-Node: name, rank, group, sum, orderY, pie, 0.009706116532943041 Score: 403.1303635640936 Less Than: 83
-Node: name, number, group, sum, None, pie, 0.00858544955687034 Score: 134.36645281480745 Less Than: 81
-Node: name, number, group, sum, orderY, pie, 0.00858544955687034 Score: 134.36645281480745 Less Than: 81
-Node: name, number, None, None, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, None, None, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, birth_year, group, cnt, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, gender, group, cnt, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, ethnicity, group, cnt, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, avg, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, sum, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, cnt, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, avg, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, sum, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, cnt, None, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, None, None, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, None, None, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, birth_year, group, cnt, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, gender, group, cnt, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, ethnicity, group, cnt, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, avg, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, sum, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, number, group, cnt, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, avg, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, sum, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, group, cnt, orderY, bar, 0.007114905727499111 Score: 5.840293397018014 Less Than: 59
-Node: name, rank, None, None, None, pie, 0.006998589852902728 Score: 1.9460019504947637 Less Than: 57
-Node: name, rank, None, None, orderY, pie, 0.006998589852902728 Score: 1.9460019504947637 Less Than: 57
-Node: name, number, None, None, None, pie, 0.006266246550870621 Score: 0.6440291425853842 Less Than: 55
-Node: name, number, None, None, orderY, pie, 0.006266246550870621 Score: 0.6440291425853842 Less Than: 55
-Node: name, birth_year, group, cnt, None, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, gender, group, cnt, None, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, ethnicity, group, cnt, None, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, number, group, cnt, None, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, rank, group, cnt, None, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, birth_year, group, cnt, orderY, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, gender, group, cnt, orderY, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, ethnicity, group, cnt, orderY, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, number, group, cnt, orderY, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: name, rank, group, cnt, orderY, pie, 0.003607826971496062 Score: 0.05411740457244099 Less Than: 45
-Node: birth_year, number, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: number, rank, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: rank, number, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, gender, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, ethnicity, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, name, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, sum, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, sum, None, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: gender, number, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: gender, rank, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: ethnicity, number, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: ethnicity, rank, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: name, number, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: name, rank, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: number, rank, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: number, rank, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: rank, number, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: rank, number, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, gender, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, gender, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, ethnicity, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, ethnicity, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, name, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, name, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, sum, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, sum, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, number, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, sum, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, sum, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: birth_year, rank, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: gender, number, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: gender, rank, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: ethnicity, number, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: ethnicity, rank, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: name, number, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: name, rank, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
+X,Y,x_transform,y_transform,orderby,visualization,node_info
+gender,rank,None,None,None,pie,1.9673036076509567Score:7790894249.405605LessThan:179
+ethnicity,rank,None,None,None,pie,1.9673036076509567Score:7790894249.405605LessThan:179
+gender,rank,None,None,orderY,pie,1.9673036076509567Score:7790894249.405605LessThan:179
+ethnicity,rank,None,None,orderY,pie,1.9673036076509567Score:7790894249.405605LessThan:179
+gender,number,None,None,None,pie,1.7614419054497317Score:1558178847.4245071LessThan:175
+ethnicity,number,None,None,None,pie,1.7614419054497317Score:1558178847.4245071LessThan:175
+gender,number,None,None,orderY,pie,1.7614419054497317Score:1558178847.4245071LessThan:175
+ethnicity,number,None,None,orderY,pie,1.7614419054497317Score:1558178847.4245071LessThan:175
+gender,number,None,None,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,None,None,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,None,None,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,None,None,None,bar,1.0Score:30552525.549158037LessThan:125
+birth_year,number,group,avg,None,line,1.0Score:30552525.549158037LessThan:125
+birth_year,rank,group,avg,None,line,1.0Score:30552525.549158037LessThan:125
+gender,birth_year,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,ethnicity,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,name,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,avg,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,sum,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,avg,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,sum,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,birth_year,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,gender,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,name,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,avg,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,sum,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,avg,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,sum,None,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,cnt,None,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,None,None,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,None,None,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,None,None,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,None,None,orderY,bar,1.0Score:30552525.549158037LessThan:125
+birth_year,number,group,avg,orderX,line,1.0Score:30552525.549158037LessThan:125
+birth_year,number,group,avg,orderY,line,1.0Score:30552525.549158037LessThan:125
+birth_year,rank,group,avg,orderX,line,1.0Score:30552525.549158037LessThan:125
+birth_year,rank,group,avg,orderY,line,1.0Score:30552525.549158037LessThan:125
+gender,birth_year,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,ethnicity,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,name,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,avg,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,sum,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,number,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,avg,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,sum,orderY,bar,1.0Score:30552525.549158037LessThan:125
+gender,rank,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,birth_year,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,gender,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,name,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,avg,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,sum,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,number,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,avg,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,sum,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,rank,group,cnt,orderY,bar,1.0Score:30552525.549158037LessThan:125
+ethnicity,birth_year,group,cnt,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,gender,group,cnt,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,name,group,cnt,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,number,group,sum,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,number,group,cnt,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,rank,group,sum,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,rank,group,cnt,None,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,birth_year,group,cnt,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,gender,group,cnt,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,name,group,cnt,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,number,group,sum,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,number,group,cnt,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,rank,group,sum,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+ethnicity,rank,group,cnt,orderY,pie,0.8450980400142568Score:2036834.606327312LessThan:111
+number,rank,None,None,None,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+rank,number,None,None,None,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+number,rank,None,None,orderX,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+number,rank,None,None,orderY,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+rank,number,None,None,orderX,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+rank,number,None,None,orderY,scatter,0.37128896634037295Score:290973.8679130836LessThan:105
+gender,birth_year,group,cnt,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,ethnicity,group,cnt,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,name,group,cnt,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,number,group,sum,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,number,group,cnt,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,rank,group,sum,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,rank,group,cnt,None,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,birth_year,group,cnt,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,ethnicity,group,cnt,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,name,group,cnt,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,number,group,sum,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,number,group,cnt,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,rank,group,sum,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+gender,rank,group,cnt,orderY,pie,0.3010299956639812Score:19398.09392327399LessThan:91
+rank,number,None,None,None,bar,0.19607843137254902Score:4848.727598122622LessThan:88
+rank,number,None,None,orderX,bar,0.19607843137254902Score:4848.727598122622LessThan:88
+rank,number,None,None,orderY,bar,0.19607843137254902Score:4848.727598122622LessThan:88
+number,rank,None,None,None,bar,0.07751937984496124Score:1211.3124664861214LessThan:85
+number,rank,None,None,orderX,bar,0.07751937984496124Score:1211.3124664861214LessThan:85
+number,rank,None,None,orderY,bar,0.07751937984496124Score:1211.3124664861214LessThan:85
+name,rank,group,sum,None,pie,0.009706116532943041Score:403.1303635640936LessThan:83
+name,rank,group,sum,orderY,pie,0.009706116532943041Score:403.1303635640936LessThan:83
+name,number,group,sum,None,pie,0.00858544955687034Score:134.36645281480745LessThan:81
+name,number,group,sum,orderY,pie,0.00858544955687034Score:134.36645281480745LessThan:81
+name,number,None,None,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,None,None,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,birth_year,group,cnt,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,gender,group,cnt,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,ethnicity,group,cnt,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,avg,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,sum,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,cnt,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,avg,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,sum,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,cnt,None,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,None,None,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,None,None,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,birth_year,group,cnt,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,gender,group,cnt,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,ethnicity,group,cnt,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,avg,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,sum,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,number,group,cnt,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,avg,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,sum,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,group,cnt,orderY,bar,0.007114905727499111Score:5.840293397018014LessThan:59
+name,rank,None,None,None,pie,0.006998589852902728Score:1.9460019504947637LessThan:57
+name,rank,None,None,orderY,pie,0.006998589852902728Score:1.9460019504947637LessThan:57
+name,number,None,None,None,pie,0.006266246550870621Score:0.6440291425853842LessThan:55
+name,number,None,None,orderY,pie,0.006266246550870621Score:0.6440291425853842LessThan:55
+name,birth_year,group,cnt,None,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,gender,group,cnt,None,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,ethnicity,group,cnt,None,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,number,group,cnt,None,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,rank,group,cnt,None,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,birth_year,group,cnt,orderY,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,gender,group,cnt,orderY,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,ethnicity,group,cnt,orderY,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,number,group,cnt,orderY,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+name,rank,group,cnt,orderY,pie,0.003607826971496062Score:0.05411740457244099LessThan:45
+birth_year,number,None,None,None,line,0.0Score:0LessThan:0
+birth_year,rank,None,None,None,line,0.0Score:0LessThan:0
+number,rank,None,None,None,line,0.0Score:0LessThan:0
+rank,number,None,None,None,line,0.0Score:0LessThan:0
+birth_year,gender,group,cnt,None,line,0.0Score:0LessThan:0
+birth_year,ethnicity,group,cnt,None,line,0.0Score:0LessThan:0
+birth_year,name,group,cnt,None,line,0.0Score:0LessThan:0
+birth_year,number,group,sum,None,line,0.0Score:0LessThan:0
+birth_year,number,group,cnt,None,line,0.0Score:0LessThan:0
+birth_year,rank,group,sum,None,line,0.0Score:0LessThan:0
+birth_year,rank,group,cnt,None,line,0.0Score:0LessThan:0
+gender,number,group,avg,None,pie,0.0Score:0LessThan:0
+gender,rank,group,avg,None,pie,0.0Score:0LessThan:0
+ethnicity,number,group,avg,None,pie,0.0Score:0LessThan:0
+ethnicity,rank,group,avg,None,pie,0.0Score:0LessThan:0
+name,number,group,avg,None,pie,0.0Score:0LessThan:0
+name,rank,group,avg,None,pie,0.0Score:0LessThan:0
+birth_year,number,None,None,orderX,line,0.0Score:0LessThan:0
+birth_year,number,None,None,orderY,line,0.0Score:0LessThan:0
+birth_year,rank,None,None,orderX,line,0.0Score:0LessThan:0
+birth_year,rank,None,None,orderY,line,0.0Score:0LessThan:0
+number,rank,None,None,orderX,line,0.0Score:0LessThan:0
+number,rank,None,None,orderY,line,0.0Score:0LessThan:0
+rank,number,None,None,orderX,line,0.0Score:0LessThan:0
+rank,number,None,None,orderY,line,0.0Score:0LessThan:0
+birth_year,gender,group,cnt,orderX,line,0.0Score:0LessThan:0
+birth_year,gender,group,cnt,orderY,line,0.0Score:0LessThan:0
+birth_year,ethnicity,group,cnt,orderX,line,0.0Score:0LessThan:0
+birth_year,ethnicity,group,cnt,orderY,line,0.0Score:0LessThan:0
+birth_year,name,group,cnt,orderX,line,0.0Score:0LessThan:0
+birth_year,name,group,cnt,orderY,line,0.0Score:0LessThan:0
+birth_year,number,group,sum,orderX,line,0.0Score:0LessThan:0
+birth_year,number,group,sum,orderY,line,0.0Score:0LessThan:0
+birth_year,number,group,cnt,orderX,line,0.0Score:0LessThan:0
+birth_year,number,group,cnt,orderY,line,0.0Score:0LessThan:0
+birth_year,rank,group,sum,orderX,line,0.0Score:0LessThan:0
+birth_year,rank,group,sum,orderY,line,0.0Score:0LessThan:0
+birth_year,rank,group,cnt,orderX,line,0.0Score:0LessThan:0
+birth_year,rank,group,cnt,orderY,line,0.0Score:0LessThan:0
+gender,number,group,avg,orderY,pie,0.0Score:0LessThan:0
+gender,rank,group,avg,orderY,pie,0.0Score:0LessThan:0
+ethnicity,number,group,avg,orderY,pie,0.0Score:0LessThan:0
+ethnicity,rank,group,avg,orderY,pie,0.0Score:0LessThan:0
+name,number,group,avg,orderY,pie,0.0Score:0LessThan:0
+name,rank,group,avg,orderY,pie,0.0Score:0LessThan:0

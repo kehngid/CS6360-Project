@@ -1,72 +1,73 @@
-Node: Continent, Total(million), None, None, None, pie, 2.178194054074759 Score: 97589.26498121176 Less Than: 68
-Node: Purpose, Total(million), None, None, None, pie, 2.178194054074759 Score: 97589.26498121176 Less Than: 68
-Node: Continent, Total(million), None, None, orderY, pie, 2.178194054074759 Score: 97589.26498121176 Less Than: 68
-Node: Purpose, Total(million), None, None, orderY, pie, 2.178194054074759 Score: 97589.26498121176 Less Than: 68
-Node: Continent, Total(million), None, None, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), None, None, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Nationality, group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Purpose, group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, avg, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, sum, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Nationality, group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Continent, group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, avg, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, sum, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, cnt, None, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), None, None, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), None, None, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Nationality, group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Purpose, group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, avg, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, sum, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Total(million), group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Nationality, group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Continent, group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, avg, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, sum, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Purpose, Total(million), group, cnt, orderY, bar, 1.0 Score: 3902.5023699727785 Less Than: 44
-Node: Continent, Nationality, group, cnt, None, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Purpose, group, cnt, None, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Total(million), group, sum, None, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Total(million), group, cnt, None, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Purpose, Total(million), group, sum, None, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Nationality, group, cnt, orderY, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Purpose, group, cnt, orderY, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Total(million), group, sum, orderY, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Continent, Total(million), group, cnt, orderY, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Purpose, Total(million), group, sum, orderY, pie, 0.6989700043360187 Score: 354.371569397246 Less Than: 34
-Node: Nationality, Total(million), None, None, None, pie, 0.6406453100219879 Score: 117.90351873167351 Less Than: 32
-Node: Nationality, Total(million), None, None, orderY, pie, 0.6406453100219879 Score: 117.90351873167351 Less Than: 32
-Node: Nationality, Total(million), None, None, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Continent, group, cnt, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Purpose, group, cnt, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, avg, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, sum, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, cnt, None, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), None, None, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Continent, group, cnt, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Purpose, group, cnt, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, avg, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, sum, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, cnt, orderY, bar, 0.5882352941176471 Score: 9.026498350925163 Less Than: 20
-Node: Nationality, Total(million), group, sum, None, pie, 0.45043497560066353 Score: 2.7026098536039806 Less Than: 18
-Node: Nationality, Total(million), group, sum, orderY, pie, 0.45043497560066353 Score: 2.7026098536039806 Less Than: 18
-Node: Nationality, Continent, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Purpose, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Total(million), group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Total(million), group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Continent, Total(million), group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Nationality, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Continent, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Total(million), group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Total(million), group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Continent, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Purpose, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Total(million), group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Nationality, Total(million), group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Continent, Total(million), group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Nationality, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Continent, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Total(million), group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: Purpose, Total(million), group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
+X,Y,x_transform,y_transform,orderby,visualization,node_info
+Continent,Total(million),None,None,None,pie,2.178194054074759Score:97589.26498121176LessThan:68
+Purpose,Total(million),None,None,None,pie,2.178194054074759Score:97589.26498121176LessThan:68
+Continent,Total(million),None,None,orderY,pie,2.178194054074759Score:97589.26498121176LessThan:68
+Purpose,Total(million),None,None,orderY,pie,2.178194054074759Score:97589.26498121176LessThan:68
+Continent,Total(million),None,None,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),None,None,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Nationality,group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Purpose,group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,avg,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,sum,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Nationality,group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Continent,group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,avg,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,sum,None,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,cnt,None,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),None,None,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),None,None,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Nationality,group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Purpose,group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,avg,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,sum,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Total(million),group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Nationality,group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Continent,group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,avg,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,sum,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Purpose,Total(million),group,cnt,orderY,bar,1.0Score:3902.5023699727785LessThan:44
+Continent,Nationality,group,cnt,None,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Purpose,group,cnt,None,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Total(million),group,sum,None,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Total(million),group,cnt,None,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Purpose,Total(million),group,sum,None,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Nationality,group,cnt,orderY,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Purpose,group,cnt,orderY,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Total(million),group,sum,orderY,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Continent,Total(million),group,cnt,orderY,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Purpose,Total(million),group,sum,orderY,pie,0.6989700043360187Score:354.371569397246LessThan:34
+Nationality,Total(million),None,None,None,pie,0.6406453100219879Score:117.90351873167351LessThan:32
+Nationality,Total(million),None,None,orderY,pie,0.6406453100219879Score:117.90351873167351LessThan:32
+Nationality,Total(million),None,None,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Continent,group,cnt,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Purpose,group,cnt,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,avg,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,sum,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,cnt,None,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),None,None,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Continent,group,cnt,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Purpose,group,cnt,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,avg,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,sum,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,cnt,orderY,bar,0.5882352941176471Score:9.026498350925163LessThan:20
+Nationality,Total(million),group,sum,None,pie,0.45043497560066353Score:2.7026098536039806LessThan:18
+Nationality,Total(million),group,sum,orderY,pie,0.45043497560066353Score:2.7026098536039806LessThan:18
+Nationality,Continent,group,cnt,None,pie,0.0Score:0LessThan:0
+Nationality,Purpose,group,cnt,None,pie,0.0Score:0LessThan:0
+Nationality,Total(million),group,avg,None,pie,0.0Score:0LessThan:0
+Nationality,Total(million),group,cnt,None,pie,0.0Score:0LessThan:0
+Continent,Total(million),group,avg,None,pie,0.0Score:0LessThan:0
+Purpose,Nationality,group,cnt,None,pie,0.0Score:0LessThan:0
+Purpose,Continent,group,cnt,None,pie,0.0Score:0LessThan:0
+Purpose,Total(million),group,avg,None,pie,0.0Score:0LessThan:0
+Purpose,Total(million),group,cnt,None,pie,0.0Score:0LessThan:0
+Nationality,Continent,group,cnt,orderY,pie,0.0Score:0LessThan:0
+Nationality,Purpose,group,cnt,orderY,pie,0.0Score:0LessThan:0
+Nationality,Total(million),group,avg,orderY,pie,0.0Score:0LessThan:0
+Nationality,Total(million),group,cnt,orderY,pie,0.0Score:0LessThan:0
+Continent,Total(million),group,avg,orderY,pie,0.0Score:0LessThan:0
+Purpose,Nationality,group,cnt,orderY,pie,0.0Score:0LessThan:0
+Purpose,Continent,group,cnt,orderY,pie,0.0Score:0LessThan:0
+Purpose,Total(million),group,avg,orderY,pie,0.0Score:0LessThan:0
+Purpose,Total(million),group,cnt,orderY,pie,0.0Score:0LessThan:0
