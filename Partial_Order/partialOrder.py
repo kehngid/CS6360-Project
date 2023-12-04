@@ -20,5 +20,5 @@ def runPartialOrder(filename, k = 10):
         for i in orderedList: 
             print(i)
 
-runPartialOrder('./data/testing.csv')
-runPartialOrder('./data/testing.csv', 'all')
+#runPartialOrder('./data/testing.csv')
+runPartialOrder('./data/electricityConsumptionOfEasternChina.csv', 'all')
