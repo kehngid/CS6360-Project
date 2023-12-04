@@ -1,0 +1,44 @@
+Origin, Origin, , groupby(Origin), , bar
+Origin, Acceleration, sum(Acceleration), groupby(Origin), , bar
+Origin, Displacement, avg(Displacement), groupby(Origin), , bar
+Origin, MPG, sum(MPG), , groupby(Origin), , bar
+Origin, Cylinders, avg(Cylinders), groupby(Origin), , bar
+Origin, Weight, avg(Weight), groupby(Origin), , bar
+Origin, Horsepower, avg(Horsepower), groupby(Origin), , bar
+Origin, MPG, avg(MPG), , groupby(Origin), , bar
+Origin, Acceleration, , avg(Acceleration), groupby(Origin), , bar
+Displacement, Weight, , groupby(Origin), , scatter
+Horsepower, Weight, , groupby(Origin), , scatter
+MPG, Displacement, , groupby(Origin), , scatter
+MPG, Cylinders, , groupby(Origin), , scatter
+Cylinders, Horsepower, , groupby(Origin), , scatter
+Horsepower, Acceleration, , groupby(Origin), , scatter
+Weight, Acceleration, , groupby(Origin), , scatter
+Cylinders, Acceleration, groupby(Origin), , scatter
+Displacement, Weight, , , , scatter
+Displacement, Weight, , , , scatter
+Cylinders, Weight, , , , scatter
+Displacement, Horsepower, , , , scatter
+MPG, Weight, , , , scatter
+Horsepower, Weight, , , ,scatter
+MPG, Displacement, , , ,scatter
+Cylinders, Horsepower, , , ,scatter
+MPG, Horsepower, , , ,scatter
+MPG, Cylinders, , , , scatter
+Model, Displacement, , , ,bar
+Horsepower, Acceleration, , , ,scatter
+Displacement, Acceleration, , , ,scatter
+Cylinders, Acceleration, , , ,scatter
+Model, Horsepower, , , ,bar
+Model, MPG, , , , bar
+Model, Weight, , , ,bar
+MPG, Acceleration, , , ,scatter
+Model, Cylinders, , , ,bar
+Weight, Acceleration, , , ,scatter
+MPG, Horsepower, , groupby(Origin), ,scatter
+MPG, Weight, , groupby(Origin), , scatter
+MPG, Acceleration, , groupby(Origin), , scatter
+Cylinders, Weight, , groupby(Origin), , scatter
+Displacement, Horsepower, , groupby(Origin), ,scatter
+Displacement, Acceleration, , groupby(Origin), , scatter
+Model, Acceleration, , , , bar

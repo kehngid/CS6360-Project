@@ -1,0 +1,18 @@
+X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
+date, elctConsumption, , groupby(city), bin(date(year)), bar
+date, elctConsumption, , groupby(city) groupby(date), line
+city, elctConsumption, sum(elctConsumption), groupby(city), , bar
+date, elctConsumption, sum(elctConsumption), groupby(date), , line
+date, elctConsumption, avg(elctConsumption), groupby(city), bin(date(time)), bar
+date, date, cnt(date), groupby(city), bin(date(time)), bar
+date, elctConsumption, sum(elctConsumption), groupby(city), bin(date(weekday)), bar
+date, elctConsumption, avg(elctConsumption), groupby(city), bin(date(weekday)), bar
+city, elctConsumption, avg(elctConsumption), groupby(city), , bar
+date, elctConsumption, sum(elctConsumption), , bin(date(time)), bar
+date, elctConsumption, avg(elctConsumption), , bin(date(time)), bar
+date, date, cnt(date), , bin(date(weekday)), bar
+data, elctConsumption, avg(elctConsumption), , bin(date(weekday)), bar
+date, elctConsumption, avg(elctConsumption), groupby(date), , line
+
+
+
