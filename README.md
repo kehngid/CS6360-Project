@@ -13,8 +13,7 @@ Running the code:
       - set k equal to 'all', for all generated visualizations
 
   Output:
-    List of visuzalization nodes, 
-      including visualization data that contains what columns, aggregate functions, and type of graph is used,
+    - List of visuzalization nodes, including visualization data that contains what columns, aggregate functions, and type of graph is used,
       score of the graph, the bigger the score the better the graph is considered to be,
       and the list of nodes pointing to that node on the the 'graph' (list in incoming edges essentially)
-    Pop ups of a chart for each of the chosen visualizations
+    - Pop ups of a chart for each of the chosen visualizations
