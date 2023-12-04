@@ -1,5 +1,5 @@
 from Partial_Order.SearchSpace.generate import generateSearchSpace
-from display import generate_chart
+from Partial_Order.display import generate_chart
 import pandas as pd
 import numpy as np
 

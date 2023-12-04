@@ -22,4 +22,4 @@ def generate_chart(visualization):
         plt.xlabel(visualization.X.name)
         plt.ylabel(visualization.Y.name)
 
-    plt.show()
+    plt.savefig(f'Results/Partial_Order/charts/{visualization.X.name}_{visualization.Y.name}_{visualization.x_transform}_{visualization.y_transform}_{visualization.order_by}_{visualization.visualization}.png')
