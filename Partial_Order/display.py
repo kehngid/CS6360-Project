@@ -23,3 +23,4 @@ def generate_chart(visualization):
         plt.ylabel(visualization.Y.name)
 
     plt.savefig(f'Results/Partial_Order/charts/{visualization.X.name}_{visualization.Y.name}_{visualization.x_transform}_{visualization.y_transform}_{visualization.order_by}_{visualization.visualization}.png')
+    plt.close()
