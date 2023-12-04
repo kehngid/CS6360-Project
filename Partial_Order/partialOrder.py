@@ -1,17 +1,10 @@
-from SearchSpace.generate import generateSearchSpace
+from Partial_Order.SearchSpace.generate import generateSearchSpace
 import pandas as pd
 import numpy as np
 
-import Functions.graph as graph
+import Partial_Order.Functions.graph as graph
 
 def write_list_to_file(file_path, my_list):
-    """
-    Write elements of a list to a text file.
-
-    Parameters:
-    - file_path (str): The path of the text file.
-    - my_list (list): The list whose elements will be written to the file.
-    """
     try:
         with open(file_path, 'w') as file:
             for item in my_list:
@@ -21,7 +14,7 @@ def write_list_to_file(file_path, my_list):
         print(f"An error occurred: {str(e)}")
 
 def runPartialOrder(filename, k = 10):
-    filename = './' + filename
+    #filename = './' + filename
     nodes = generateSearchSpace(filename)
     # makeGraph result in list of nodes which contain a visualization, a score, and list of nodes 'less good'
     nodeList = graph.makeGraph(nodes)
@@ -36,9 +29,9 @@ def runPartialOrder(filename, k = 10):
         for i in orderedList: 
             print(i)
 
-    write_list_to_file('./Results/Partial_Order/titanicPassangerResults.txt', orderedList)
+    write_list_to_file('./Results/Partial_Order/output.txt', orderedList)
     
 
 
 #runPartialOrder('./data/testing.csv')
-runPartialOrder('./data/titanicPassenger.csv', 'all')
+#runPartialOrder('./data/titanicPassenger.csv', 'all')

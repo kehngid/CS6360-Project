@@ -12,7 +12,7 @@ from .column import Column
 from .features import Features
 import pandas as pd
 import numpy as np
-import Functions.matchingFunctions as mf
+import Partial_Order.Functions.matchingFunctions as mf
 
 class Visualization: 
     def __init__(self, X: Column, Y: Column, x_transform = None, y_transform = None, order_by = None, visualization = None):
