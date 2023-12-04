@@ -1,4 +1,5 @@
 from Partial_Order.SearchSpace.generate import generateSearchSpace
+from Partial_Order.display import generate_chart
 import pandas as pd
 import numpy as np
 
@@ -24,9 +25,10 @@ def runPartialOrder(filename, k = 10):
         print("Show top ", k, " results")
         for i in range(0,k):
             print(orderedList[i])
+            generate_chart(orderedList[i].visualization)
     elif k == 'all':
         print('Showing all')
-        for i in orderedList: 
+        for i in orderedList:
             print(i)
 
     write_list_to_file('./Results/Partial_Order/output.txt', orderedList)
