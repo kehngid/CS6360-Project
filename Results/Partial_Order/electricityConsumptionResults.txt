@@ -1,35 +1,36 @@
-Node: cityName, elctConsumption, None, None, None, pie, 4.092228935919774 Score: 232.47670168471862 Less Than: 33
-Node: cityName, elctConsumption, None, None, orderY, pie, 4.092228935919774 Score: 232.47670168471862 Less Than: 33
-Node: cityName, elctConsumption, None, None, None, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, date, group, cnt, None, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, avg, None, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, sum, None, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, cnt, None, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, None, None, orderY, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, date, group, cnt, orderY, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, avg, orderY, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, sum, orderY, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, cnt, orderY, bar, 1.0 Score: 18.042016671781912 Less Than: 23
-Node: cityName, elctConsumption, group, sum, None, pie, 0.7781512503836436 Score: 5.447058752685506 Less Than: 21
-Node: cityName, elctConsumption, group, sum, orderY, pie, 0.7781512503836436 Score: 5.447058752685506 Less Than: 21
-Node: date, elctConsumption, None, None, None, line, 0.0 Score: 0 Less Than: 0
-Node: cityName, date, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: cityName, elctConsumption, group, avg, None, pie, 0.0 Score: 0 Less Than: 0
-Node: cityName, elctConsumption, group, cnt, None, pie, 0.0 Score: 0 Less Than: 0
-Node: date, cityName, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, avg, None, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, sum, None, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, cnt, None, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, None, None, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, None, None, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: cityName, date, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: cityName, elctConsumption, group, avg, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: cityName, elctConsumption, group, cnt, orderY, pie, 0.0 Score: 0 Less Than: 0
-Node: date, cityName, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: date, cityName, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, avg, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, avg, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, sum, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, sum, orderY, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, cnt, orderX, line, 0.0 Score: 0 Less Than: 0
-Node: date, elctConsumption, group, cnt, orderY, line, 0.0 Score: 0 Less Than: 0
+X,Y,x_transform,y_transform,orderby,visualization,node_info
+cityName,elctConsumption,None,None,None,pie,4.092228935919774Score:232.47670168471862LessThan:33
+cityName,elctConsumption,None,None,orderY,pie,4.092228935919774Score:232.47670168471862LessThan:33
+cityName,elctConsumption,None,None,None,bar,1.0Score:18.042016671781912LessThan:23
+cityName,date,group,cnt,None,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,avg,None,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,sum,None,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,cnt,None,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,None,None,orderY,bar,1.0Score:18.042016671781912LessThan:23
+cityName,date,group,cnt,orderY,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,avg,orderY,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,sum,orderY,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,cnt,orderY,bar,1.0Score:18.042016671781912LessThan:23
+cityName,elctConsumption,group,sum,None,pie,0.7781512503836436Score:5.447058752685506LessThan:21
+cityName,elctConsumption,group,sum,orderY,pie,0.7781512503836436Score:5.447058752685506LessThan:21
+date,elctConsumption,None,None,None,line,0.0Score:0LessThan:0
+cityName,date,group,cnt,None,pie,0.0Score:0LessThan:0
+cityName,elctConsumption,group,avg,None,pie,0.0Score:0LessThan:0
+cityName,elctConsumption,group,cnt,None,pie,0.0Score:0LessThan:0
+date,cityName,group,cnt,None,line,0.0Score:0LessThan:0
+date,elctConsumption,group,avg,None,line,0.0Score:0LessThan:0
+date,elctConsumption,group,sum,None,line,0.0Score:0LessThan:0
+date,elctConsumption,group,cnt,None,line,0.0Score:0LessThan:0
+date,elctConsumption,None,None,orderX,line,0.0Score:0LessThan:0
+date,elctConsumption,None,None,orderY,line,0.0Score:0LessThan:0
+cityName,date,group,cnt,orderY,pie,0.0Score:0LessThan:0
+cityName,elctConsumption,group,avg,orderY,pie,0.0Score:0LessThan:0
+cityName,elctConsumption,group,cnt,orderY,pie,0.0Score:0LessThan:0
+date,cityName,group,cnt,orderX,line,0.0Score:0LessThan:0
+date,cityName,group,cnt,orderY,line,0.0Score:0LessThan:0
+date,elctConsumption,group,avg,orderX,line,0.0Score:0LessThan:0
+date,elctConsumption,group,avg,orderY,line,0.0Score:0LessThan:0
+date,elctConsumption,group,sum,orderX,line,0.0Score:0LessThan:0
+date,elctConsumption,group,sum,orderY,line,0.0Score:0LessThan:0
+date,elctConsumption,group,cnt,orderX,line,0.0Score:0LessThan:0
+date,elctConsumption,group,cnt,orderY,line,0.0Score:0LessThan:0

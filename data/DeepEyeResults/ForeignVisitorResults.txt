@@ -1,11 +1,11 @@
-X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
-Continent, Total(million), sum(Total(million)), groupby(Continent), , pie
-Continent, Total(million), sum(Total(million)), groupby(Continent), , bar
-Continent, Total(million), sum(Total(million)), groupby(Purpose) groupby(GROUP BY Continent), , bar
-Continent, Continent, cnt(Continent), groupby(Continent), , pie
-Purpose, Total(million), sum(Total(million)), groupby(Purpose), , pie
-Continent, Continent, cnt(Continent), groupby(Continent), , bar
-Nationality, Total(million), sum(Total(million)), groupby(Nationality), , bar
-Nationality, Total(million), avg(Total(million)), groupby(Nationality), , bar
-Continent, Total(million), avg(Total(million)), groupby(Continent), , bar
-Purpose, Totla(milllion), sum(Total(million)), groupby(Purpose), , bar
+X,Y,AGG,GROUP_BY,BIN,VISUALIZATION
+Continent,Total(million),sum(Total(million)),groupby(Continent),,pie
+Continent,Total(million),sum(Total(million)),groupby(Continent),,bar
+Continent,Total(million),sum(Total(million)),groupby(Purpose)groupby(GROUPBYContinent),,bar
+Continent,Continent,cnt(Continent),groupby(Continent),,pie
+Purpose,Total(million),sum(Total(million)),groupby(Purpose),,pie
+Continent,Continent,cnt(Continent),groupby(Continent),,bar
+Nationality,Total(million),sum(Total(million)),groupby(Nationality),,bar
+Nationality,Total(million),avg(Total(million)),groupby(Nationality),,bar
+Continent,Total(million),avg(Total(million)),groupby(Continent),,bar
+Purpose,Totla(milllion),sum(Total(million)),groupby(Purpose),,bar

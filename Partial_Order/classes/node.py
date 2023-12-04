@@ -8,7 +8,7 @@ class Node():
         self.less = []
         
     def __str__(self):
-        return f"Node: { self.visualization } Score: { self.score } Less Than: { len(self.less) }"
+        return f"{ self.visualization },{ self.score }Less Than:{ len(self.less) }"
 
     def __eq__(self, other: Visualization):
         if self.visualization == other:
