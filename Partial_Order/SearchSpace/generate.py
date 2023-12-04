@@ -4,8 +4,8 @@ To get list of possible graphs/visualization node use generateSearchSpace(datase
 """
 import pandas as pd
 
-from classes.column import Column
-from classes.visualization import Visualization
+from Partial_Order.classes.column import Column
+from Partial_Order.classes.visualization import Visualization
 
 # Copied from features.py, come up with better to way to identify datetime
 def get_column_type(column):
