@@ -1,4 +1,4 @@
-from classes.node import Node
+from Partial_Order.classes.node import Node
 
 def makeNodeList(visualizationList):
     nodeList = []
