@@ -6,41 +6,49 @@ import pandas as pd
 import lightgbm as lgb
 from sklearn.model_selection import train_test_split
 
-# Assuming 'feature1' and 'feature2' are your actual feature and target variable names
-InputData = pd.read_csv("dataset.csv")
+def train_lambdamart_model(data_file, feature1, feature2):
+    # Load the data
+    InputData = pd.read_csv(data_file)
 
-# Split the data into training and validation sets
-X_train, X_validation, Y_train, Y_validation = train_test_split(
-    InputData.drop(["feature1", "feature2"], axis=1),
-    InputData["feature2"],
-    test_size=0.2,
-    random_state=42
-)
+    # Split the data into training and validation sets
+    X_train, X_validation, Y_train, Y_validation = train_test_split(
+        InputData.drop([feature1, feature2], axis=1),
+        InputData[feature2],
+        test_size=0.2,
+        random_state=42
+    )
 
-# query id
-queryid_train = np.bincount(X_train["query_id"])[1:]
-queryid_validation = np.bincount(X_validation["query_id"])[1:]
+    # id
+    id_train = np.bincount(X_train["id"])[1:]
+    id_validation = np.bincount(X_validation["id"])[1:]
 
+    # Create an LGBMRanker model
+    model = lgb.LGBMRanker(
+        objective="lambdarank",
+        metric="ndcg",
+        learning_rate=0.09,
+        max_depth=-5,
+        random_state=42
+    )
 
-# Create an LGBMRanker model
-model = lgb.LGBMRanker(
-    objective="lambdarank",
-    metric="ndcg",
-    learning_rate=0.09,
-    max_depth=-5,
-    random_state=42
-)
+    # Train the model
+    model.fit(
+        X=X_train,
+        y=Y_train,
+        group=queryid_train,
+        eval_set=[(X_validation, Y_validation)],
+        eval_group=[queryid_validation],
+        eval_at=10,
+        verbose=10
+    )
 
-# Train the model
-model.fit(
-    X=X_train,
-    y=Y_train,
-    group=queryid_train ,
-    eval_set=[(X_validation, Y_validation)],
-    eval_group=[queryid_validation],
-    eval_at=10,
-    verbose=10
-)
+    return model, X_validation, Y_validation
+
+# Example usage:
+trained_model, X_val, Y_val = train_lambdamart_model("dataset.csv", "feature1", "feature2")
+
+# Use the trained model to make predictions
+pred_validation = trained_model.predict(X_val)
 
 # NDCG calculation function
 def ndcg(labels, predictions):
@@ -70,6 +78,5 @@ def ndcg(labels, predictions):
     return ndcg
 
 
-pred_validation = model.predict(X_validation)
-score = ndcg(Y_validation, pred_validation)
+score = ndcg(Y_val, pred_validation)
 print(f"NDCG Score: {score}")
