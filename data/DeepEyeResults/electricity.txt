@@ -1,6 +1,6 @@
 X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
 date, elctConsumption, , groupby(city), bin(date(year)), bar
-date, elctConsumption, , groupby(city) groupby(date), line
+date, elctConsumption, , groupby(city) groupby(date), , line
 city, elctConsumption, sum(elctConsumption), groupby(city), , bar
 date, elctConsumption, sum(elctConsumption), groupby(date), , line
 date, elctConsumption, avg(elctConsumption), groupby(city), bin(date(time)), bar

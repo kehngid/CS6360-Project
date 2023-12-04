@@ -1,3 +1,4 @@
+X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
 DATE, DEP_DELAY, avg(DEP_DELAY), , , bar
 DATE, ARR_DELAY, avg(ARR_DELAY), , , line
 DATE, DEP_DELAY, avg(DEP_DELAY), , , line

@@ -1,3 +1,4 @@
+X, Y, AGG, GROUP_BY, BIN, VISUALIZATION
 Origin, Origin, , groupby(Origin), , bar
 Origin, Acceleration, sum(Acceleration), groupby(Origin), , bar
 Origin, Displacement, avg(Displacement), groupby(Origin), , bar
