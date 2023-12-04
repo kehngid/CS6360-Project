@@ -17,3 +17,7 @@ Running the code:
       score of the graph, the bigger the score the better the graph is considered to be,
       and the list of nodes pointing to that node on the the 'graph' (list in incoming edges essentially)
     - Pop ups of a chart for each of the chosen visualizations
+
+    Partial Order Evaluations: Can view difference in top 10 graphs of specific datasets in evaluations file in Partial Order. 
+      - Outputs: Prints list of scores, the difference between each visualization. Compares our number 1 graph to DeepEyes and so one.
+          - The higher the score the more different they are, a point is added to the score for each major difference. 
