@@ -1,8 +1,10 @@
 from SearchSpace.generate import generateSearchSpace
+from display import generate_chart
+
+from Functions import graph
+
 import pandas as pd
 import numpy as np
-
-import Functions.graph as graph
 
 def runPartialOrder(filename, k = 10):
     filename = './' + filename
@@ -15,10 +17,11 @@ def runPartialOrder(filename, k = 10):
         print("Show top ", k, " results")
         for i in range(0,k):
             print(orderedList[i])
+            generate_chart(orderedList[i].visualization)
     elif k == 'all':
         print('Showing all')
-        for i in orderedList: 
+        for i in orderedList:
             print(i)
 
-runPartialOrder('./data/testing.csv')
-runPartialOrder('./data/testing.csv', 'all')
+runPartialOrder('./data/testing.csv', 10)
+# runPartialOrder('./data/testing.csv', 'all')
